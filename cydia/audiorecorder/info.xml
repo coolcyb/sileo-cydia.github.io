@@ -6,6 +6,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
+            < otherVersions >暂不支持12系统</ otherVersions >
 		</firmware>
 	</compatibility>
 	<dependencies>
