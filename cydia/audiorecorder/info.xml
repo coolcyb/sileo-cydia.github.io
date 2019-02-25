@@ -5,8 +5,7 @@
     <versio>历史版本:1.7-18</versio>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
-            <otherVersions>unsupported</otherVersions>
+            <iOS>11.0</iOS>
 		</firmware>
 	</compatibility>
 	<dependencies>

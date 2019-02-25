@@ -46,6 +46,7 @@
 					var res = ios_version_check(
 						$(source).find("miniOS").text(),
 						$(source).find("maxiOS").text(),
+                        $(source).find("iOS").text(),
 						$(source).find("otherVersions").text(),
 						function(message,isBad) {
 							$(element).html(message)
