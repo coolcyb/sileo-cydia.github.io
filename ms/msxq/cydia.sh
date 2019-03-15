@@ -9,6 +9,8 @@ perl -p -i -e "s/852362/IOS:11-12/g"  cydia副本
 perl -p -i -e "s/852361/1.4-6/g"  cydia副本
 
 mv cydia副本  mterminal
+mv cydia副本  mterminal
+
 
 cp cydia样本原件 cydia副本
 
