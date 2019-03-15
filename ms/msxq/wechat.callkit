@@ -1,6 +1,6 @@
 {
-	"name": "MTerminal「终端」",
-	"desc_short": "终端命令软件",
+	"name": "WeChatCallKit「微信电话接口」",
+	"desc_short": "开启微信电话接口功能,使通话录音能够拾取微信录音.",
 	"desc_version": "暂无历史版本",
 	"compatitle": "ios:11-12",
 	"changelog": "<strong>历史变跟</strong><br>暂时没有历史版本<br>",
