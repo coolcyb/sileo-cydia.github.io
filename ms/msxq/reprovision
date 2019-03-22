@@ -4,6 +4,6 @@
 	"desc_version": "0.33",
 	"compatitle": "ios:11-12",
 	"changelog": "<strong>汉化版</strong><br>0.33版本为汉化版,只限electra越狱用户安装,u0用户安装汉化版会闪退,获取汉化版点击右上角的更改来降级安装<br>",
-	"screenshot": "<div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/jietu/IMG_0239.png'/><img width=95% src='https://sileo-cydia.github.io/tupian/ipX.gif'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/jietu/reprovision.png'/><img width=95% src='https://sileo-cydia.github.io/tupian/reprovision1.png'/></a><br></div>",
 	"open": true,
 }
