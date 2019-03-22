@@ -1,0 +1,2812 @@
+Package: ChargeAnimations
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 12844
+Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/chargeanimations_1.2.1_iphoneos-arm.deb
+Size: 3926540
+MD5sum: f64aa58591a4b70c539eaadee34f7f02
+SHA1: 847ab133ed7c4767e45bc5fa78891a21c5cf039a
+SHA256: 2451f7dfefe848f7c75f0f2bd9dbd19e5d2625e8799d81424aab60915fa8b082
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ChargeAnimations
+Description: 插入充电器时的动画p佬破解版
+Author: c1d3r
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ChargeAnimations
+Name: ChargeAnimations「充电动画」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ChargeAnimations.json
+
+Package: FakeTransfer
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/faketransfer_0.1-1_iphoneos-arm.deb
+Size: 22092
+MD5sum: d2727d74ecaca6fbdd5c4b70930549a2
+SHA1: feb45dcabcdf412239238aa3f81fcdea32cbfde5
+SHA256: fe99b8314454d8c3ce318bc6aca7fbd47b6470c5885372b9028f8b4d6b1c48e9
+Section: 微信辅助
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=FakeTransfer
+Description: 没有设置开关.长按你需要修改的转账那条信息,点击修改就行.
+Author: mao
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=FakeTransfer
+Name: 微信转账金额修改
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/FakeTransfer.json
+
+Package: Flex3beta
+Version: 1:3~Beta50
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/flex3beta_3~Beta50_iphoneos-arm.deb
+Size: 15304938
+MD5sum: 8e5595d3b9f85286f5840af8eb1e8a8c
+SHA1: 97d58edf15ca8a6645700653ccc18786c4c1f0e3
+SHA256: d7bc1262c6c6466adf1e31d3abb5700436c4c0520e68a83ee02497f5318d6e46
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=flex3
+Description: 去软件广告,或者去软件启动广告,禁用某些系统功能,等等
+Author: John Coates
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=flex3
+Icon: file:///Applications/Flex.app/AppIconBeta60x60@3x.png
+Name: Flex 3 Beta「强大的补丁平台」
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/flex3.json
+
+Package: HomeGesture
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/homegesture_2.0.2_iphoneos-arm.deb
+Size: 83776
+MD5sum: 32ab72326ee59b65a94a06c0c831ed6a
+SHA1: 3ba980a21d5a0371dc8bbc407d570b8c3297333c
+SHA256: db58bd0bdf27a10b7c7f8ad763873c96619c2183cfe1dd6d1cdd39384c8e50f3
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=HomeGesture
+Description: HomeGesture修复微信语音bug,相机退出BUG，带设置开关，修复iOS12控制中心奔溃,X状态栏
+Author: zlxdike
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=HomeGesture
+Icon: file:///Library/PreferenceBundles/HomeGestureSettings.bundle/HomeGestureSettingsIcon@2x.png
+Name: HomeGesture「X手势」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/HomeGesture.json
+
+Package: SuDial
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/sudial_0.1-1_iphoneos-arm.deb
+Size: 228490
+MD5sum: af1a17352c048e367cc16b0e0b782b17
+SHA1: bc1d2be80e21891051ababad398f1e01d8212005
+SHA256: 848a6a64d1cd9c88ba9ad32482e10278438e3b4aaea3317a194cecc2836012e1
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=SuDial
+Description: iphoneX上的T9拨号,快速拨号,归属地
+Author: Mao
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=SuDial
+Icon: file:///Library/PreferenceBundles/SuDial.bundle/icon@2x.png
+Name: SuDial「T9拨号」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/SuDial.json
+
+Package: WeChatHookPro
+Version: 0.3-4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: WeChatHookPro
+Filename: ./debs/wechathookpro_0.3-4_iphoneos-arm.deb
+Size: 1368684
+MD5sum: 9d31995c782b5fa916468d726dc2428b
+SHA1: 638f4c52119f5396d8b386a9caa47e1035cd005f
+SHA256: faf9f36023694dec1033f2807934e99dc9117283aecc5d24aa677fcfd4abc53d
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
+Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
+Author: admin@25mao.com
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
+Name: WeChatHookPro「微信助手」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/WeChatHookPro.json
+
+Package: answeringmachinex
+Version: 0.4-21
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1488
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80) , zip,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: ./debs/answeringmachinex_0.4-21_iphoneos-arm.deb
+Size: 353296
+MD5sum: a651b3a7d161e17dcd7cb8921107c44f
+SHA1: 8b87b7be5765c78f8cd7403f2348ea26c0a14dc8
+SHA256: 071d449877b7dc0f65f7b97186e282cb213d92f19b032aa40a4f66c958b9454c
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=answeringmachinex
+Description: 来电时自动应答.p佬破解汉化版
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=answeringmachinex
+Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/titleImage@2x.png
+Name: AnsweringMachineX「应答机汉化破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/answeringmachinex.json
+
+Package: apppercent
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, net.limneos.libbulletin
+Filename: ./debs/apppercent_2.0.2_iphoneos-arm.deb
+Size: 17472
+MD5sum: 647f868df693a21390d138ff9622498b
+SHA1: 95def38ecbfbcb512934e67202e09ab0fe884cd8
+SHA256: 2238f919e22fc2b1b94a857234c29061084577876318a81ff915d046952f974b
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=apppercent
+Description: App安装显示百分比进度
+Author: pxcex
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=apppercent
+Name: App Percent「显示app安装百分比」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/apppercent.json
+
+Package: appsyncunified
+Version: 32.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 12.1.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/appsyncunified_32.0_iphoneos-arm.deb
+Size: 30448
+MD5sum: 1503504f5b23219ed1216018d99ffa80
+SHA1: c94dffe28e66017a23f971b94525c1bc08c66679
+SHA256: 513fc4a27c047a8e6fe22d6bdd97309579023704b18c26b87ca1b8bda699b313
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=appsyncunified
+Description: 无需签名安装ipa应用
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=appsyncunified
+Name: AppSync Unified「安装破解IPA」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/appsyncunified.json
+
+Package: audiorecorderxs
+Version: 3.0-74
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), limneosos |com.repo.xarold.com.limneosos | com.pulandres.limneosos
+Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.pulandr3s.limneosos
+Filename: ./debs/audiorecorderxs_3.0-74_iphoneos-arm.deb
+Size: 2075560
+MD5sum: 0b783735f3cd7e2b8238520515559916
+SHA1: 4793e62c729bb258e09e2c18c59a9b7da8a8b234
+SHA256: ad639e820caf7f89a66c043b2525c02017a67dd8fbefd4883b65fa15d316aeec
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=audiorecorderxs
+Description: 通话录音
+Author: Elias Limneos
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=audiorecorderxs
+Name: AudioRecorder XS「通话录音」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/audiorecorderxs.json
+
+Package: autohomebar
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/autohomebar_0.1.2_iphoneos-arm.deb
+Size: 7504
+MD5sum: d1bbb48ce0a5cabf4c7c8f0f0b10109b
+SHA1: 90ba77c33ec414b11c2283eee2cc0d1a62f0f558
+SHA256: 5ab1ada1e9a380faecf1835279163834e0eeb0e1479204c40b05443c3cd4f218
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=autohomebar
+Description: 将iPhoneX底部的小黑条/白条 在没有任何动作的时候自动隐藏！适合喜欢Bar且不想去掉,但是又觉得看视频的时候会遮挡的机友！
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=autohomebar
+Name: Auto HomeBar「隐藏X白条」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autohomebar.json
+
+Package: autounlockx
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/autounlockx_1.0.1_iphoneos-arm.deb
+Size: 56654
+MD5sum: f4c26e618509246ff4f92f6eb5f6bbaa
+SHA1: 21e988ac0ce8f92b5c522b9fcc3de64795315736
+SHA256: 571164bd63d760151c977edc244b789a760d3de76f81e34f93efedb79f96fcf0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=autounlockx
+Description: 亮屏后快速的解锁你的面容
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=autounlockx
+Name: AutoUnlockX「面容快速解锁」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autounlockx.json
+
+Package: backhosts
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 3
+Filename: ./debs/backhosts_1.1_iphoneos-arm.deb
+Size: 2010
+MD5sum: 052c17f213350e39130df9349c0f5f61
+SHA1: 29c8d6ac7d0af69de1e0db8f5a73783326307202
+SHA256: bb6689774292a017480e0431d7ea399e279fc178fae8a36115b94cd6341759a8
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=backhosts
+Description: 安装之后,不可抹掉还原，不可抹掉还原，不可抹掉还原。请先卸载插件再进行操作。ios11越狱用户可以直接使用此插件，来还原hosts文件无任何负作用，卸载之后会还原hosts文件，可以进行抹除还原操作，抹除有风险操作需谨慎。屏蔽证书过期，原理就是修改hosts文件，安装自动修改hosts文件添加屏蔽代码，卸载之后自动还原官方hosts文件，没有其他负作用，安装之后不可直接抹除手机或者还原，请先卸载之后再进行操作。无任何副作用。
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=backhosts
+Name: 屏蔽证书过期「还原hosts」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/backhosts.json
+
+Package: barmoji
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/barmoji_1.3.2_iphoneos-arm.deb
+Size: 24094
+MD5sum: 5d2c77566be5e420a483e458e08aa428
+SHA1: 711114b82f6561351ee2c914625184c5bae305bb
+SHA256: 12932b96f05e7fdfe857ff333985aac2854890d095f887c3a32bfa280f267fd5
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=barmoji
+Description: 为iphoneX键盘下方添加快捷表情
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios11.4
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=barmoji
+Name: Barmoji「快捷表情」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/barmoji.json
+
+Package: batterypercentx
+Version: 1.3.5-2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/batterypercentx_1.3.5-2_iphoneos-arm.deb
+Size: 133940
+MD5sum: 40c330700d24ce613e8e565486bc0599
+SHA1: b05c6ea59442e55fd17d12bceaea0ba14ad2cb69
+SHA256: b2dd71b7f3d6e78deda75bcc799f20f6cb554a49b6185fd2f82530e1c0b5d719
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Description: 打开 iPhone X通知栏电池百分比
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
+Name: BatteryPercentX 「电池百分比」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
+
+Package: batterypercentx.cn
+Version: 1.3.5-2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/batterypercentx.cn_1.3.5-2_iphoneos-arm.deb
+Size: 1818
+MD5sum: 80cb7d5068114b5530211340c47915f5
+SHA1: 717bbbd489abeb54022799c59132e28f8037af1b
+SHA256: 98b353f5eb61fbf44aed05e7f47228dd4881a42f3d23a5275d9966dd6d89e295
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Description: 打开 iPhone X通知栏电池百分比简体中文包
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Name: BatteryPercentX「简体中文」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
+
+Package: bazzi
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 296
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Conflicts: percentagebatteryx, percentagecirclex
+Replaces: percentagebatteryx, percentagecirclex
+Filename: ./debs/bazzi_1.2.1_iphoneos-arm.deb
+Size: 20738
+MD5sum: 099fcf22eb9aa714c3a82939276dae53
+SHA1: 3569edf6dd64a51d8d5bb6401e1322e9a2196f8f
+SHA256: e41536d3c6663bb91987da2a478c6b0d3e116f48770b8ff33d6713763a662393
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Description: 通知栏显示百分比电池图标,汉化版
+Author: NeinZedd9
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
+Name: Bazzi「百分比电池」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
+
+Package: bazzi
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debs/bazzi_2.0.3_iphoneos-arm.deb
+Size: 26152
+MD5sum: 28fc3f5f9739203abc16d902542e418e
+SHA1: d42d0f264ea20bb8eaeb7549bce0751a25c25e8c
+SHA256: dd853794fd3c7f27a6e574178706b4f4e6068207d2b98a90375674f41ef6af97
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Description: 通知栏显示百分比电池图标,汉化版
+Author: Blake Boxberger
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
+Name: Bazzi「百分比电池」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
+
+Package: bettercciconspro
+Version: 1.7.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.yourepo.dev4i.bettercciconslite
+Filename: ./debs/bettercciconspro_1.7.3_iphoneos-arm.deb
+Size: 115042
+MD5sum: 188d05f7dd4effbdaef11f2f33094b72
+SHA1: a5378255cd7c794b2110f2f9a1cd385e3409e927
+SHA256: 02b15ea77fd0070553f75eb8afb581d7bb4b3959b9a2369ad77d549b7d46ef98
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bettercciconspro
+Description: 去掉控制中心开关背景,改变控制图标颜色,汉化版
+Author: dev4i <chrisink22@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bettercciconspro
+Icon: file:///Library/PreferenceBundles/BetterCCIcons.bundle/icon@3x.png
+Name: BetterCCIconsPro「多彩控制中心」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bettercciconspro.json
+
+Package: betterccxi
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 320
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Conflicts: ccsupport
+Filename: ./debs/betterccxi_1.4.8_iphoneos-arm.deb
+Size: 49752
+MD5sum: fcf8b76e32cedd9f336c4aa5296d10b9
+SHA1: 3d9d0d051bcef1347eadf4dd8ebfca5892adc83e
+SHA256: 1a544597b878ded2ffbc6213e3c6a4118b033a76a53fe44b85be27af7b6df889
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=betterccxi
+Description: ios11  ios12 控制中心添加天气动态
+Author: ATWiiks
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=betterccxi
+Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@3x.png
+Name: BetterCCXI「控制中心天气」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/betterccxi.json
+
+Package: bioprotectx
+Version: 3.1-44
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 1332
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11)
+Conflicts: net.limneos.bioprtect, com.pulandress.bioprotectx
+Filename: ./debs/bioprotectx_3.1-44_iphoneos-arm.deb
+Size: 472030
+MD5sum: 0f8f80faf3f1d0cdcf6e725fda95978d
+SHA1: fefdae5175fd6d6712367ae109306c8b88ae8063
+SHA256: cc4ddcf9efca4fb215616d4f1e2ddd9022128cbf2f364a9fb9e3aae28973d930
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bioprotectx
+Description: 给应用上给面容锁,p佬破解版
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bioprotectx
+Name: BioProtectX「应用程序锁」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bioprotectx.json
+
+Package: bioprotectxs
+Version: 4.0-44
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1348
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.pulandres.limneosos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/bioprotectxs_4.0-44_iphoneos-arm.deb
+Size: 471408
+MD5sum: 9d5dc2c5696073c7a13c22a9a6506d8f
+SHA1: cac1fda0136298c37ffe20bc2dcea80ca7de8b45
+SHA256: e94d88e6383c9b68b91309385d30053228e79dc2fe2dc6870ed6891bedebb133
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bioprotectxs
+Description: 给应用上指纹或面容锁,破解版
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Name: BioProtectXS「ios12应用锁」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bioprotectxs.json
+
+Package: bioprotectxs.cn
+Version: 4.0-28-1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: ./debs/bioprotectxs.cn_4.0-28-1_iphoneos-arm.deb
+Size: 5426
+MD5sum: 17a3b5e3788789b2809e065b441b9bb3
+SHA1: 94a569c3f18e49a4ef6a017d60f00d41f958ec29
+SHA256: 3471951e74d0facb12eda7d744f0cd36be9085390bc0ec60c7b04be254926732
+Section: 汉化
+Priority: standard
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bioprotectxs
+Description: BioProtectXS(非X设备)简体中文包,转载自嗨客源
+Author: Sandy0
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect@3x.png
+Name: BioProtect XS (非X设备)简体中文包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bioprotectxs.json
+Sponsor: Sandy0
+
+Package: bioprotectxsx.cn
+Version: 4.0-28-1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: ./debs/bioprotectxsx.cn_4.0-28-1_iphoneos-arm.deb
+Size: 5446
+MD5sum: abfb6aa47fda5edd93411b07dd5d88e7
+SHA1: fcc9883cf896e31f465aa09986012a8a0e5bc0c8
+SHA256: 22eb9486640400b7bc3dac71ad12ae96cef20c536924a589c50a203cb28c304a
+Section: 汉化
+Priority: standard
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bioprotectxs
+Description: BioProtectXS(X设备)简体中文包,转载自嗨客源
+Author: Sandy0
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect@3x.png
+Name: BioProtect XS (X设备)简体中文包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bioprotectxs.json
+Sponsor: Sandy0
+
+Package: cacheclearer11
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Conflicts: com.rpetrich.cacheclearer
+Filename: ./debs/cacheclearer11_0.1a_iphoneos-arm.deb
+Size: 6834
+MD5sum: b364e4c80f272a603536a93b7f51f0c3
+SHA1: 7813575f5b608319f1b02e147a6cef1adbf9d19e
+SHA256: 328854d8712e0a7c52fce4c2628c5365d5418c788d23bcc6b72737252bd18170
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=cacheclearer11
+Description: 设置>通用>iphone存储空间app开启清除缓存,重置应用
+Author: Ryan Petrich, julioverne
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=cacheclearer11
+Dev: rpetrich
+Name: CacheClearer「清除应用缓存」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cacheclearer11.json
+
+Package: callbarx
+Version: 0.3-68fix
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 649
+Depends: mobilesubstrate
+Filename: ./debs/callbarx_0.3-68fix_iphoneos-arm.deb
+Size: 140062
+MD5sum: d33aeeeba73c37709a5450079cf7fd90
+SHA1: ffb43519db6b5cb0b080e84de0bba804be9c688f
+SHA256: c592ac05abc6eb271c14532e334ec2e59a27c71bf45727dde67909278cdac629
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Description: 当你在做其他事情的时候不然来电打断你.p佬破解版
+Author: Elias Limneos
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBar X 「迷你通话横幅」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarx.json
+
+Package: callbarxs
+Version: 2.1-22
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 788
+Depends: mobilesubstrate, preferenceloader, com.pulandres.limneosos  | limneosos
+Conflicts: net.limneos.callbarx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/callbarxs_2.1-22_iphoneos-arm.deb
+Size: 161316
+MD5sum: c189704eb19e01399f57822ff0bb56b7
+SHA1: 7eccb3e9f48b02f284ac67c1487f9853b2f8f8af
+SHA256: 9cb3a436264115609c5d3485bb44cce5716fa0858e5ad5c0b5712a5ba8fd7720
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Description: 当你在做其他事情的时候不然来电打断你.破解版
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBarXS「ios12迷你通话横幅」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarx.json
+
+Package: ccvpn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 126
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/ccvpn_1.0_iphoneos-arm.deb
+Size: 8252
+MD5sum: 018d71a52197da5f6180390da05b026c
+SHA1: e101ada1c4f95933f1aff31c5bad6d1bc7dbaa8c
+SHA256: 6a9048e5d0bf2ea6b980a5a8f8e01fdb414707641d70c556a7bbd1fc50e12b76
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ccvpn
+Description: 为控制中心添加一个vpn按钮
+Tag: purpose::extension, compatible::ios11
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ccvpn
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN「控制中心vpn」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ccvpn.json
+
+Package: cercube
+Version: 4.2.2.10
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 8.0), mobilesubstrate, me.alfhaily.adblockforyoutube (>= 1.0.7), com.rpetrich.rocketbootstrap, me.alfhaily.cercube.lib (>= 1.1.1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
+Filename: ./debs/cercube_4.2.2.10_iphoneos-arm.deb
+Size: 2801544
+MD5sum: b1ffda6c526529e957c0d23a01ab1fd5
+SHA1: 30436c7062e4dff20d374aec6a53bf44f7a0c430
+SHA256: 8abe2e1ad53e536e42af2cabdfdf1e28331c1c3acd1b59b387e2dc1084772c98
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=cercube
+Description: 去掉YouTube广告 下载视频,YOUTUBE增强插件
+Author: Majd Alfhaily
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=cercube
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/AppIcon.png
+Name: Cercube for YouTube
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cercube.json
+
+Package: classickeyboardx
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 340
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/classickeyboardx_0.2-1_iphoneos-arm.deb
+Size: 22764
+MD5sum: 02800d27ed3afef65f76ee5a072d8c6b
+SHA1: 71360a7b6f5ec50dc72229205cbbd85d2311f5bc
+SHA256: ea106d87f232dc355ab6652cc19b74414e78589c6b77acb046e042c6d4900617
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=classickeyboardx
+Description: 使iphoneX的键盘下移一点
+Author: iamalive2008
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=classickeyboardx
+Icon: file:///Library/PreferenceBundles/ClassicKeyboardXPref.bundle/icon@2x.png
+Name: ClassicKeyboardX「键盘下移」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/classickeyboardx.json
+Sponsor: 他是个疯子
+
+Package: clearbadges3dtouch10
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 116
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/clearbadges3dtouch10_1.0.1_iphoneos-arm.deb
+Size: 4466
+MD5sum: 561f7e336a8a4726e0ef489f9f673a38
+SHA1: 0ddc292f0f474366547b795b19aa018a569af825
+SHA256: ec7c5c1a6a109b5085569136a5a006d4ce941104eca78a1d2cbf0abea180dc7b
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=clearbadges3dtouch10
+Description: 使用3d touch按钮来清除应用的通知
+Author: HiDaN
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=clearbadges3dtouch10
+Dev: hidan
+Name: ClearBadges3DTouch10
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/clearbadges3dtouch10.json
+Sponsor: 他是个疯子
+
+Package: com.a3tweaks.flipswitch
+Version: 1.0.16~beta3
+Architecture: iphoneos-arm
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Installed-Size: 2156
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16~beta3_iphoneos-arm.deb
+Size: 281194
+MD5sum: 8a98f37fb057f1c071c1e68f5b2cc771
+SHA1: b01583028280dea86316662a2386f3f565fc4017
+SHA256: c7b57fe0ff7b12e7d30ff29089569a8cb9a18ea4feb46e627e79eacb699a00bf
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=com.a3tweaks.flipswitch
+Description: iOS的集中切换系统
+Tag: purpose::extension, role::developer
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=com.a3tweaks.flipswitch
+Dev: flipswitch
+Icon: file:///Applications/Preferences.app/icon-table.png
+Name: Flipswitch「依赖文件」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/com.a3tweaks.flipswitch.json
+
+Package: com.laughingquoll.prefixui
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 172
+Filename: ./debs/com.laughingquoll.prefixui_0.7_iphoneos-arm.deb
+Size: 27870
+MD5sum: 9fd1bcbe7141e03785db501bf302b3a0
+SHA1: e7fe184a15d242dd4b821cebac913be96d84b00a
+SHA256: b6c5cb5ac2ae7445e26767fb8c6ebea12809eb5372b1a9fe01d669fb94180c13
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Description: noctisxi依赖
+Tag: role::developer
+Author: LaughingQuoll
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Name: PrefixUI「noctisxi依赖」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+
+Package: conditionalwifi3
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader (>= 2.2.3)
+Filename: ./debs/conditionalwifi3_1.0.0_iphoneos-arm.deb
+Size: 12156
+MD5sum: 8697006e4d881b4dc6d144d9f4cd891f
+SHA1: 495623a2596adc525ab0a4af4ed53df555ef17ed
+SHA256: f2f43f4ac100ccde4364468d0589cbb94554add9ca6049538878bee27eff3148
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=conditionalwifi3
+Description: ios11的网络权限授权,如果应用没法联网,或者安装应用没有网络弹窗安装此插件,然后去设置找到插件设置,打开相应的网络权限开关
+Author: iOS Creatix
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=conditionalwifi3
+Icon: file:///Library/PreferenceBundles/ConditionalWiFi3.bundle/icon.png
+Name: ConditionalWiFi3「网络权限」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/conditionalwifi3.json
+
+Package: conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader (>= 2.2.3)
+Filename: ./debs/conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 11488
+MD5sum: 0c03549bf6dbe7d190da207f8d3aa948
+SHA1: f17e33e41b6f81adfd02b2a662908fe13257d148
+SHA256: 3caf004c1e44db4eaaf83f8b322688b6ef75387e2259286d3aff55e738ef0dc4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=conditionalwifi4
+Description: ios11的网络权限授权,如果应用没法联网,或者安装应用没有网络弹窗安装此插件,然后去设置找到插件设置,打开相应的网络权限开关,转载嗨客源
+Author: iOS Creatix
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=conditionalwifi4
+Icon: file:///Library/PreferenceBundles/ConditionalWiFi3.bundle/icon.png
+Name: ConditionalWiFi4「网络权限」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/conditionalwifi4.json
+
+Package: crackerxi
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 11.0), ldid (>=2.0), ldid(>>1.2.2-coolstar)
+Filename: ./debs/crackerxi_1.1.4_iphoneos-arm.deb
+Size: 242116
+MD5sum: 77452ef53f5cc88c1857f44122769fa8
+SHA1: 88dae506d3089fd22caa18ca62b0deada7e4fa10
+SHA256: 5b6b2ba0ec458ca2c313b9193cc0752c5ab233ce56c4be70ea5de7fb7fcae9a7
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=crackerxi
+Description: 提取从AppStore下载的应用,脱壳,
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=crackerxi
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI「提取应用」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/crackerxi.json
+Website: https://iphonecake.com
+
+Package: cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 143456
+MD5sum: a531b6aaf02a666d9ed9ff2c3f4cbfd2
+SHA1: 920d16110adc14fe1599e5a7dbddbc0e4c684fb7
+SHA256: 30b59bd3f8c78acfa74b9d8281eac03792e96af95ee54df786aea57470f60bb1
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=cracktool3
+Description: 一触即破解。破解收费插件,或者进行安全模式.
+Author: julioverne
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=cracktool3
+Name: CrackTool3 (iOS 11)『破解插件』
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cracktool3.json
+
+Package: cydown
+Version: 6.9.7
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/cydown_6.9.7_iphoneos-arm.deb
+Size: 1087794
+MD5sum: b207f37b4eff9c0a89cf9776d9da7c26
+SHA1: a202af02203dbc5ed396b06a02af472226c46996
+SHA256: 3026c247002a33d99dae6976d64446fa85edc168f5e5727dfafe3ab98d5eb2cb
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=cydown
+Description: cydia增强.下载插件,破解收费插件,备份插件
+Author: julioverne <julioverne@me.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown「增强cydia」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cydown.json
+
+Package: datameter
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 1212
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/datameter_1.4-3_iphoneos-arm.deb
+Size: 243756
+MD5sum: 85b7c0e08eaef3125437a076165ab08e
+SHA1: 6cdccaf05a0c9475cc3a21e60498328b895c1d2c
+SHA256: 135395139457cea2b60652cd9717bd525a5fffecd1683433dbc1127a4ed3c008
+Section: Addons
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=datameter
+Description: 通知栏显示流量网速,时间
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Minuit <minuits@163.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=datameter
+Dev: minuit
+Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
+Name: DataMeter「 通知栏日期流量显示」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/datameter.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: datametermini
+Version: 1.4.3-7
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>=11.0), mobilesubstrate
+Filename: ./debs/datametermini_1.4.3-7_iphoneos-arm.deb
+Size: 77148
+MD5sum: 4b16005c6c0f265a5e3ec7bb919c606c
+SHA1: 613c8763a3cb18864baf4d0c9dd92ad0aabe5c31
+SHA256: 35f900d4d82f6ddd28cb4262cd0bc2ed35abf2dab9bb486251730ea65192f486
+Section: Addons
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=datametermini
+Description: 通知栏流量显示精简版
+Author: Minuit
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=datametermini
+Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon.png
+Name: DataMeter「精简版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/datametermini.json
+
+Package: deleteforever
+Version: 0.0.1-57
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 682
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/deleteforever_0.0.1-57_iphoneos-arm.deb
+Size: 250848
+MD5sum: bd8a73033e48ba71d42ae071ec7f72d0
+SHA1: eb355b980179c74460cb825f9f414c7ec106987d
+SHA256: fbefbef8b84e1a91177241e67f890425c859eb06e3f0606d2db5ad221ee69b5d
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=deleteforever
+Description: 永久删除照片汉化版
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: Creatix <ioscreatix@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=deleteforever
+Dev: creatix
+Icon: file:///Library/PreferenceBundles/DeleteForever.bundle/DeleteForever@2x.png
+Name: DeleteForever「永久删除照片」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/deleteforever.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: dleasy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/dleasy_1.0_iphoneos-arm.deb
+Size: 247614
+MD5sum: 23643542f37dfa3aa887926c4c7c64d5
+SHA1: 63806f1efc1eb5715ece11b84c9a055c96ec55c2
+SHA256: 5ad7a983ffb4361dc3c1d3e5f03da8563e2bc50feb6c7aa30a38163a087ba684
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=dleasy
+Description: 从社交应用程序轻松下载图片和视频！
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=dleasy
+Name: DLEasy「下载视频图片」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/dleasy.json
+
+Package: dleasy
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/dleasy_1.4_iphoneos-arm.deb
+Size: 712930
+MD5sum: 945709bcc5b0f58a6b295ee306768781
+SHA1: d24636902846eaba8364840f60418db49a97ccf1
+SHA256: 041e9958eb0df1b49be35519b6dce5d1affacb8150e11d5802c4085ed7282c87
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=dleasy
+Description: 从社交应用程序轻松下载图片和视频！
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=dleasy
+Name: DLEasy「下载视频图片」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/dleasy.json
+
+Package: easyaccess
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 548
+Depends: mobilesubstrate, libactivator, kbapplist, kbpreferences, preferenceloader, firmware (>= 11.0)
+Filename: ./debs/easyaccess_0.0.5_iphoneos-arm.deb
+Size: 117050
+MD5sum: f14a5ef56b08440759b0482d354bfbab
+SHA1: 65212f7b01f991522819eb25a6167214a7e7cbb9
+SHA256: 4e5312b777fdbd2a3c444b35fbe78d6f310a015b8f01767d17e7bd7b865a20bc
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=easyaccess
+Description: 快捷dock'快捷分屏.需要配合 activator
+Author: Kane Buckthorpe
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=easyaccess
+Name: EasyAccess「IOS11单分屏」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/easyaccess.json
+
+Package: easyswitcherx
+Version: 0.0.4-5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 308
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/easyswitcherx_0.0.4-5_iphoneos-arm.deb
+Size: 52686
+MD5sum: 6ff1a48bcfe5884123978a6be2e23ec1
+SHA1: b1e450fbede3c6a6483a4f5a730395fe2e698b2f
+SHA256: f1646df62f6c4d6d9cd5c91c6e04df96f2e7e86d3e0e67d0cf6e0882a4bac168
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=easyswitcherx
+Description: 这是一个iphone X的快捷应用,你可以在多任务窗口直接上滑关闭应用,也可以向下划关闭所有应用
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=easyswitcherx
+Name: EasySwitcherX 「快速关闭后台」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/easyswitcherx.json
+
+Package: eclipse12
+Version: 6.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1204
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker, com.repo.xarold.com.libsparkapplist | com.spark.libsparkapplist
+Filename: ./debs/eclipse12_6.0.2_iphoneos-arm.deb
+Size: 150104
+MD5sum: 28cc058b0b3ebaecf274adbd88c2041f
+SHA1: ad7458c85a4a3f098a66ec44a63c7097fcda2961
+SHA256: 3a5acff52d84889e4fa5bf814e04d96ec717c82c1fc7f317437e754ce29214e0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=eclipse12
+Description: 全局软件界面的黑色调整汉化版
+Author: Guillermo Morán (fr0st)
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=eclipse12
+Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@3x.png
+Name: Eclipse12「暗黑模式」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/eclipse12.json
+
+Package: eclipsex
+Version: 5.1.8
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader, applist, com.creaturesurvive.libcscolorpicker, firmware (>= 11.0)
+Filename: ./debs/eclipsex_5.1.8_iphoneos-arm.deb
+Size: 582362
+MD5sum: 71d17aa5c33e2d387923cd9a14bc8e67
+SHA1: 636acfb2e28a4b0c805d4c891c9e720d96731c08
+SHA256: 7cdfbe444c9c92472f9c97e1a6cfe55c1c666d3b8895fe49aa2a0cd4ff511fce
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=eclipsex
+Description: 全局软件界面的黑色调整汉化版
+Author: Guillermo Morán (fr0st)
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=eclipsex
+Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@3x.png
+Name: EclipseX「暗黑模式」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/eclipsex.json
+
+Package: ext3nder-installer
+Version: 021a
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/ext3nder-installer_021a_iphoneos-arm.deb
+Size: 458326
+MD5sum: e59bb4ee8c284686c9ca0be2f886ac94
+SHA1: 39a9e2b9f8f61a74c0a826b3d1f2995da9446b9b
+SHA256: 9616663c3335cb5a9395a2b69b1f01aca29e552b1078d361969786343c48c48a
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: 手机上签名ipa应用
+Author: julioverne
+Depiction: https://sileo-cydia.github.io/cydia/?p=ext3nder-installer
+Name: Ext3nder 「手机端签名工具」
+Sileodepiction: https://sileo-cydia.github.io/sileo/ext3nder-installer.json
+
+Package: ezreboot
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/ezreboot_1.1-1+debug_iphoneos-arm.deb
+Size: 9022
+MD5sum: 1c9ebb2d9199ec3c79b36399fe8b6ac6
+SHA1: f9e50dff198031e08fd93df0d304b47b1f62276e
+SHA256: 81a97f9473d44fe28f77591fe9af0f67ad303d4a3fe15be2ff247ac036b7b0bf
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ezreboot
+Description: 为控制中心添加一个重启按钮
+Author: M4cs
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ezreboot
+Name: EzReboot「控制中心重启按钮」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ezreboot.json
+Sponsor: 他是个疯子
+
+Package: ezrespring
+Version: 1.2-debug3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Pre-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/ezrespring_1.2-debug3_iphoneos-arm.deb
+Size: 7598
+MD5sum: 064483110fd245b4eb939f79e08214f5
+SHA1: 18e6527feb9df928a85d6a3886e7ed49b5397485
+SHA256: 948af32143662f73a891a5ac8751ed8fdccc15820006bca78205f8ccbf5a3e79
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ezrespring
+Description: 为控制中心添加一个注销按钮
+Author: M4cs <maxlikescs@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ezrespring
+Name: EzRespring「控制中心注销按钮」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ezrespring.json
+
+Package: ezsafemode
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/ezsafemode_0.0.3_iphoneos-arm.deb
+Size: 9816
+MD5sum: 42f75d23606448827cbefb8536a880d9
+SHA1: 753cdb5776d145820825cfd04435d6abdacf539c
+SHA256: 69ad0fbc58c273da0a47d04b1dcff358fa1e142ae2cae00a5fe332eb84317eb3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ezsafemode
+Description: 为控制中心添加一个安全模式按钮
+Author: M4cs <maxlikescs@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ezsafemode
+Name: EzSafemode「安全模式按钮」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ezsafemode.json
+
+Package: fastunlockx
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./debs/fastunlockx_1.4_iphoneos-arm.deb
+Size: 19834
+MD5sum: 32ce9614d03a13e3408e513dc3f49316
+SHA1: e84ef9dd9fc290ef6d0e4aeb8cb3b8e792cc401f
+SHA256: 68bdd62c030b96bca8226990112ac5fb9ee9c59cd21b839488936b2c6975ef44
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=fastunlockx
+Description: 亮屏后自动快速解锁设备
+Tag: compatible_min::ios10, compatible_max::ios11.4, purpose::extension
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=fastunlockx
+Icon: file:///Library/PreferenceBundles/FastUnlockX.bundle/images/FastUnlockX@2x.png
+Name: FastUnlockX「X面容快速解锁」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/fastunlockx.json
+
+Package: fengziboy.filza
+Version: 3.5.2-4k
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, filza64bit
+Filename: ./debs/fengziboy.filza_3.5.2-4k_iphoneos-arm.deb
+Size: 13347016
+MD5sum: 68a3758143b758cbe6a918a1a088c270
+SHA1: def15128215ba11c3b692f9412046d8de48ec8be
+SHA256: 8afa43c713e91d9bcffe2396cb6af2f50db219c7fa971736be806afd31f9ab1a
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=filza
+Description: 文件管理器破解版
+Author: TIGI Software
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=filza
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager「破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
+
+Package: fengziboy.filza
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/fengziboy.filza_3.6.2_iphoneos-arm.deb
+Size: 15530026
+MD5sum: 7533937259a895ecc82f7bfd34100733
+SHA1: 622924402168270f9467c85a0af3ee872369305e
+SHA256: 2aea758bf622421a7b4362fb917c191ac710afb7406660d017954a0016f6528b
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=filza
+Description: 文件管理器破解版
+Author: TIGI Software <repo@hackyouriphone.org>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=filza
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager「破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
+
+Package: filza
+Version: 3.6.2-9
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 29684
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/filza_3.6.2-9_iphoneos-arm.deb
+Size: 9875250
+MD5sum: 55b425ee20621f91d2cb2a3e162fe183
+SHA1: 11a7c3b5afe4d9eaad1cd25d74e0cc0cc492af0f
+SHA256: cd8e46197d8df473ce22a83d6409ac484024efa388a1395b9f55988c7cba2b9e
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=filza
+Description: 文件管理器,查看系统文件.
+Author: TIGI Software
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=filza
+Icon: file:///Applications/Filza.app/AppIcon29x29@3x.png
+Name: Filza File Manager「文件管理器」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
+
+Package: flex3
+Version: 3~EarlyAccess4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, com.repo.xarold.com.Flex3, Flex3beta, flex3featurecatalog
+Filename: ./debs/flex3_3~EarlyAccess4_iphoneos-arm.deb
+Size: 15158536
+MD5sum: d3e4ca9c1022578b04764f22c2ceddb2
+SHA1: 95f9730fb2fad2869de9aa1c692533cfbe84ac11
+SHA256: a1f47ab9bc85becb44c297e8f2222140788dbd34defd8f2a8511f84da46faaaa
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=flex3
+Description: 去软件广告,或者去软件启动广告,禁用某些系统功能,等等
+Author: John Coates
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=flex3
+Name: Flex 3「强大的补丁平台」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/flex3.json
+
+Package: floatingdock
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/floatingdock_1.5.1_iphoneos-arm.deb
+Size: 32648
+MD5sum: 0292183fb3b8958bf303df8b226a3dd3
+SHA1: 193892d984bf30e63d556e66fde79c0fcfcd1bd9
+SHA256: d077c376a7e7d6b2b9806d278e71bc0df134e36382a0e0058f244d93df6a598c
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdock
+Description: 让你的iphone的DOCK像ipad那样悬浮在桌面.
+Author: Kiran Patil
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdock
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock「悬浮DOCK栏」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdock.json
+
+Package: floatingdock.cn
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/floatingdock.cn_1.5.1_iphoneos-arm.deb
+Size: 1810
+MD5sum: 047b8b1789afd0b1799d0e4f112fa103
+SHA1: f7c6f7d2f46dc7153b1b1f44728e5af5836806d7
+SHA256: d51739fd80866994ea7e814456824eb63f695ad8bd7bb6469124ebc3dde04139
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdock
+Description: floatingdock 简体中文包。
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdock
+Name: floatingdock 「悬浮DOCK简体中文包」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdock.json
+
+Package: floatingdockplus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 252
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
+Filename: ./debs/floatingdockplus_1.1_iphoneos-arm.deb
+Size: 36626
+MD5sum: 9892c6de34b84cdf0e51aeaf1966d792
+SHA1: 06435cb70285bb5a766d4e2b62d20c039363d49b
+SHA256: 290237e4a67e046d08cd7d5459fc2db4d15e76ac9dd0423be951187d77d4453a
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Description: 像ipa一样的dock,或者分屏
+Author: Kiran Patil
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
+Name: FloatingDockPlus「ipa分屏dock」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
+
+Package: floatingdockplus
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 252
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
+Filename: ./debs/floatingdockplus_1.1.1_iphoneos-arm.deb
+Size: 35822
+MD5sum: 80f793b8df6e8edf0128a3acaf6ff7fe
+SHA1: ad91c784036f3059e36398865d0060c526834203
+SHA256: a67e45dbad3ba587e2ff5f3e15477824d3b09a2dba2e5eaa420bca39b2d922a5
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Description: 像ipa一样的dock,或者分屏
+Author: Kiran Patil
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
+Name: FloatingDockPlus「ipa分屏dock」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
+
+Package: gesturex
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: homegesturefix
+Filename: ./debs/gesturex_1.0.2_iphoneos-arm.deb
+Size: 52460
+MD5sum: 230a6929217ca8171e23e3696a96a865
+SHA1: a9f9bb2f5cb534c8ea49a4497432e70d6961888c
+SHA256: f6b962750c0e0cb6d8605f98f3d064d7d5d8ea4b8a297d5064c50ae0e300d077
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=gesturex
+Description: iOS12 iPhone X手势
+Author: zlxdike
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=gesturex
+Icon: file:///Library/PreferenceBundles/GestureXSettings.bundle/GestureXSettingsIcon@2x.png
+Name: GestureX「X手势」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/gesturex.json
+
+Package: goodwifi
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 42200
+MD5sum: cf7e86135b4375d1f76567f3181fe642
+SHA1: 782f6b087772d0d37974de1bcfd1dbae0f2ac996
+SHA256: 46d8cdac7dcb334da6c2d82b2e10ab589e19d43eba40aa8f4f5e8c03bdc94793
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=goodwifi
+Description: wifi密码查看,wifi信号详情,等等增强
+Author: julioverne
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=goodwifi
+Name: GoodWiFi 「WIFI信息」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/goodwifi.json
+Sponsor: Julio
+
+Package: gravitation
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, libactivator
+Filename: ./debs/gravitation_1.0.3_iphoneos-arm.deb
+Size: 958810
+MD5sum: 39ed5583ff620896cc6518f655cb6a2c
+SHA1: 480a3fe58a589904dd1f521e55636b1df2bf20dc
+SHA256: 8b2c9666d7423adedddb48278df92fae0425ff878c6139306d4ae5581d2426ab
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=gravitation
+Description: 让桌面图标跟随重力效果摆动
+Author: Majd Alfhaily
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=gravitation
+Name: Gravitation「重力图标效果」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/gravitation.json
+
+Package: hidebarx
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/hidebarx_0.0.2_iphoneos-arm.deb
+Size: 3374
+MD5sum: 240e86373fe1b345e2bb24f2a7b592cb
+SHA1: e7744007c96914bd1067387b09747404a9d60463
+SHA256: bc97c442ed42e9b568103727507cdb72d799343997ec6c80d5dd2c7f1b30bac3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=hidebarx
+Description: 隐藏iphoneX下面的指示器横条
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=hidebarx
+Name: HideBarX 「隐藏X指示器」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hidebarx.json
+
+Package: hyperion
+Version: 0.3.3-4fix
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 3916
+Depends: mobilesubstrate
+Filename: ./debs/hyperion_0.3.3-4fix_iphoneos-arm.deb
+Size: 1994532
+MD5sum: 751b89ef5d8809f978e34c782e8c4128
+SHA1: 2a1a72d2f9025e7fd7a779a0d7197435aacd431f
+SHA256: 065f1e9981e4f3442cefff7cc4bb4b13bf583294a51749e635cf381c15b00100
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion
+Description: 惊人的通知动画
+Author: SparkDev
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion
+Name: Hyperion「通知动画」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.json
+
+Package: icleanerpro
+Version: 7.7.1~beta2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/icleanerpro_7.7.1~beta2_iphoneos-arm.deb
+Size: 5382276
+MD5sum: e95a6c8f952782f438c33939c6da49b7
+SHA1: 076573c60e1f5c2e30bc48eec4e2d80b5b42e324
+SHA256: 15d1199e58b677ba5015e171eee7acd64f8bc2bd9d36871ff5c21ec619fc6d8c
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=icleanerpro
+Description: 一款系统清理工具,测试版!
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro「测试版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/icleanerpro.json
+
+Package: icleanerpro
+Version: 7.7.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/icleanerpro_7.7.2_iphoneos-arm.deb
+Size: 5373770
+MD5sum: ba871902ad3cee1ad7ee15ae73ae88c8
+SHA1: c62f74e6032cd244cddc1431652a984c29970754
+SHA256: 5b81e7eb80dbc21245e6a7db6502ce48fedbd0e0863e4540d8292d3c2c5b7e61
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=icleanerpro
+Description: 系统清理
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro「破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/icleanerpro.json
+
+Package: impactor
+Version: 0.9.43
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 7.1), firmware (<= 10.3.3)
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/impactor_0.9.43_iphoneos-arm.deb
+Size: 386850
+MD5sum: 803400207f9d146e819c3dd3920523f3
+SHA1: af04058b7640138ba9231426439e6ec0cf2b7b5d
+SHA256: ebfa0182b31240866f5a91df3971d963598ebdf12b2dcfa2ed4822c498e919f9
+Section: Utilities
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=impactor
+Description: IOS10以下系统平刷工具
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=impactor
+Icon: file:///Applications/Eraser.app/Icon-60.png
+Name: Cydia Eraser「平刷工具」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/impactor.json
+
+Package: inapp
+Version: 1.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/inapp_1.0~beta1a_iphoneos-arm.deb
+Size: 3084
+MD5sum: ecdebd59f0b9ea34e74dee520d50093f
+SHA1: ac5cb70bccbbfb3b88c03461519d886e673c17b6
+SHA256: 8ce3ca0eb88025e36b04f3a61bc176d1c482d0786a2f033ee138d69591c671df
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=inapp
+Description: app内收费项目进行破解收费!
+Author: InApp
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=inapp
+Name: InApp「内购app」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/inapp.json
+
+Package: inosleep
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/inosleep_1.2.3_iphoneos-arm.deb
+Size: 30846
+MD5sum: ed52b69facd97c0642a1ecf018e426e5
+SHA1: b14d1fffa27027ad87fb3d08f39e14332e5c17ff
+SHA256: 7b9dacfea9e73f469ff4e56dbc1bc5ea9158e556ef823a69b60ee1eda09fe9e8
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=inosleep
+Description: 锁屏不断WIFI汉化版,可以在设备休眠时强制 WiFi 保持连接.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=inosleep
+Icon: file:///Library/PreferenceBundles/inosleep.bundle/inosleep.png
+Name: iNoSleep「锁屏不断WIFI」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/inosleep.json
+
+Package: jellyfish
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro
+Filename: ./debs/jellyfish_1.1.1_iphoneos-arm.deb
+Size: 102244
+MD5sum: 97517291c725d78a7465d87d50417e81
+SHA1: 1e34ca7ff32f292ac1c95ee3e1be2e0864598142
+SHA256: 699f8fad36a76f3a2f004178073907b5b826e08172fbfee09295a1abc6a21624
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=jellyfish
+Description: 更改你的锁屏时间样式
+Author: Justin Proulx and AppleBetas
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=jellyfish
+Icon: file:///Library/PreferenceBundles/JellyfishSettings.bundle/icon@3x.png
+Name: Jellyfish「锁屏美化」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/jellyfish.json
+
+Package: jp.akusio.backgrounderaction11
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 72
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Filename: ./debs/jp.akusio.backgrounderaction11_0.0.7_iphoneos-arm.deb
+Size: 9262
+MD5sum: c6d9b25e2d4b9e0dffaea68dd8381c7b
+SHA1: 8ee06d4cdaa7e4c77fb1c07ad43414a984eaf307
+SHA256: 82df2c58a64d84f54cce0f08d09999e12ec1506832b230668680ade6625b27ec
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=backgrounderaction11
+Description: 目前在beta*中，将“切换背景模式”操作添加到activator。
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=backgrounderaction11
+Name: Backgrounder Action「依赖文件」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/backgrounderaction11.json
+
+Package: killx
+Version: 0.1.1-beta
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/killx_0.1.1-beta_iphoneos-arm.deb
+Size: 6268
+MD5sum: 780b4345e9082ad20ae4ea014d28b238
+SHA1: ab5e555f030e01a245dfbbcc422898c7b27314aa
+SHA256: a46029ec61536fc14d0dc772a9799cf5e5c1ba6ad65141f45276f02ea29d5b2b
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=killx
+Description: 开启后台卡片切换界面向下拉清理所有后台程序
+Author: Cem K
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=killx
+Name: KillX「快速关闭所有后台」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/killx.json
+
+Package: launchtron
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/launchtron_0.1.1_iphoneos-arm.deb
+Size: 47088
+MD5sum: b3a5d7fb397782587a394f7c727d063c
+SHA1: ec6a592b9a4288d1760c38101aae5fb81220bff2
+SHA256: c30e1f098c435e8dbacd08463d352f8bba3faa5e6f47c17c31249485d48566b2
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=launchtron
+Description: 快速切换app
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=launchtron
+Icon: file:///Library/PreferenceBundles/LaunchtronPrefs.bundle/icon@2x.png
+Name: Launchtron「快速切块app」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/launchtron.json
+
+Package: libactivator
+Version: 1.9.13~beta3
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Installed-Size: 3944
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta3), com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Filename: ./debs/libactivator_1.9.13~beta3_iphoneos-arm.deb
+Size: 741304
+MD5sum: d6ab6d9c38e92b5b1ee00b392a5be77e
+SHA1: 2e3c527276be60b955b720ec7fbefedf60c3e43f
+SHA256: a890d2f0cd846cbb4315222e9335539b386e977e66492ff9a2cda66efcb44f5a
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=libactivator
+Description: iOS的集中手势、按钮和快捷方式管理
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=libactivator
+Dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Name: Activator「手势」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/libactivator.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: libertylite
+Version: 0.2.11
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/libertylite_0.2.11_iphoneos-arm.deb
+Size: 37926
+MD5sum: 4d08c6d550ea2c76ce6a1330866b0076
+SHA1: ab7ae2c0b5f81b3fafaa93c304ebafc9d34b2295
+SHA256: b76d1d56c8571e9c8a94015b4bbd292f7924d2b5a14892750af2cde289823ac4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=libertylite
+Description: 屏蔽越狱监测.开启支付设置
+Author: Ryley Angus <repo@hackyouriphone.org>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=libertylite
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref@2x.png
+Name: Liberty Lite「屏蔽越狱检测」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/libertylite.json
+
+Package: libsparkapplist
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: com.rpetrich.rocketbootstrap (>> 1.0.5)
+Filename: ./debs/libsparkapplist_1.0.0_iphoneos-arm.deb
+Size: 23862
+MD5sum: ed5b118d4c6ef2adfacccb0047c8b2cb
+SHA1: eb3135b9313991e67663a16f58a097eaa59b3fb6
+SHA256: bfcfc65b7db85bdba8a5cd8a1d73e53fa31886e9a3245cd82a77cf741993a48e
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Description: AppList alternative
+Author: Spark <repo@hackyouriphone.org>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Name: libSparkAppList「noctisxi依赖」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+
+Package: limneosos
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Conflicts: ru.rejail.limneosos
+Filename: ./debs/limneosos_1.1.2_iphoneos-arm.deb
+Size: 23080
+MD5sum: 85f3714847c596cf38e06d15d0c8ed0c
+SHA1: 75d8b3e714408e044d01df8e2145d6dcfe0b426a
+SHA256: 58c77c479e782479d9df049ece91deb3b6b406ce3598e2d65925b4c3929a9dd4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=limneosos
+Description: limneosos依赖文件
+Author: ReJail
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=limneosos
+Name: Limneosos
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/limneosos.json
+
+Package: lowbatterybanner
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/lowbatterybanner_1.0.0-1_iphoneos-arm.deb
+Size: 5074
+MD5sum: 770088a33620b746a2c733342d79932a
+SHA1: 079008aacafee9280ad931741c31d0853ba88df0
+SHA256: 57e87fe2f392669a8dd612c2172f7c78396daae9d487161f59a167f7faaf3436
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=lowbatterybanner
+Description: 用横幅通知替换低功耗警报！
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=lowbatterybanner
+Name: LowBatteryBanner [低电量横幅通知]
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/lowbatterybanner.json
+
+Package: me.alfhaily.adblockforyoutube
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 241
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/me.alfhaily.adblockforyoutube_1.0.7_iphoneos-arm.deb
+Size: 31948
+MD5sum: f11ae5e5c26add5388f5e837fa71194b
+SHA1: 769089782451ae03aa19471b70b12d1849237d88
+SHA256: 6afe3dba2df298f74d07168c3dc7a193a4fa27a9ea128ae97384a2a1f278ec74
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=adblockforyoutube
+Description: 去youtube广告跟下载视频
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Majd Alfhaily <freemanrepo@me.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=adblockforyoutube
+Dev: freemanrepo
+Name: AdBlock for YouTube
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/adblockforyoutube.json
+Sponsor: 他是个疯子
+
+Package: me.alfhaily.cercube.lib
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Depends: firmware (>= 8.0)
+Filename: ./debs/me.alfhaily.cercube.lib_1.1.1_iphoneos-arm.deb
+Size: 1902660
+MD5sum: 8ff566c159be04d4863e46a41e6b1512
+SHA1: 6f0d6966314bcc89d7bd74fcad5406d1121608e9
+SHA256: 0cf3fcc29c25d62bb5fa463e630dadebc550b9dfa6ed66e14ec7858524578dba
+Section: Development
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=cercube.lib
+Description: cercube YOUTUBE依赖文件
+Author: Majd Alfhaily
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=cercube.lib
+Name: libCercube「依赖文件」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cercube.lib.json
+
+Package: me.nepeta.libnepeta
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 148
+Filename: ./debs/me.nepeta.libnepeta_0.1.0_iphoneos-arm.deb
+Size: 14070
+MD5sum: d22ec68985bb3ae1d32bed057e38b679
+SHA1: 9b8a9c219b0196c3fb8108bc2b222d5603a3a8b2
+SHA256: 1d39fabd174cfe1de8a68bc6a2c24327e9ee123663be9ca821f8b14ebf62002e
+Section: Development
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Description: Nepeta's color utils
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Name: libnepeta
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+
+Package: melior
+Version: 1.0.8-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 488
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/melior_1.0.8-1_iphoneos-arm.deb
+Size: 132290
+MD5sum: a4407ff45d94b8a3001d676e47fb21af
+SHA1: 82041f8997215c13975cbf46579740d759aaab42
+SHA256: 832d55b0445f1c208928b7fa789ee5fa08da86160b64f48a1b58f35572195541
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=melior
+Description: 使调节音量的窗口变的更小
+Author: Spark & Dennis Bednarz
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=melior
+Icon: file:///Library/PreferenceBundles/Melior.bundle/icon@3x.png
+Name: Melior[迷你音量]
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/melior.json
+
+Package: midevice
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, org.thebigboss.libcolorpicker, applist
+Filename: ./debs/midevice_0.0.1-9+debug_iphoneos-arm.deb
+Size: 163378
+MD5sum: 553c7073973ea7c86fad025b0e4791e4
+SHA1: fb4d96b54732f4829c8a59bd1d9207d946f0f288
+SHA256: a2a2a9f7ee8c4c33ea10f6b77440e632c50e26a400e0b2dccc622f650c5dccd3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=midevice
+Description: 一个全功能的系统调整,修改桌面图标排列,隐藏dock,禁用某些无用的东西,自定义运营商.等等
+Author: DODGraphics
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=midevice
+Icon: file:///Library/PreferenceBundles/mdprefs.bundle/mdprefs.png
+Name: MiDevice「小军刀」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/midevice.json
+
+Package: midevice
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debs/midevice_1.0.0-2_iphoneos-arm.deb
+Size: 165430
+MD5sum: 66478a8f456ef2a64f27cbeda38e8a2d
+SHA1: 2d9b3d54533f386dacee56715510160e5b024c2a
+SHA256: 77526b232f8d1cda83df616e8f5e293cac5a1cac93a38664966d379862efd041
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=midevice
+Description: 一个全功能的系统调整,修改桌面图标排列,隐藏dock,禁用某些无用的东西,自定义运营商.等等
+Author: DODGraphics
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=midevice
+Name: MiDevice
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/midevice.json
+
+Package: milkyway
+Version: 0.0.8beta
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 108
+Depends: mobilesubstrate, Firmware(>=11.0)
+Filename: ./debs/milkyway_0.0.8beta_iphoneos-arm.deb
+Size: 16416
+MD5sum: 562384ee2f1cc6db3996dbf5546a00df
+SHA1: 7e7636be15b73e157aa011a1a5ac1a1a0778fa2b
+SHA256: ec0bcb4148b95715183a8feebfcfc60e3438b47892cc269e466e29709cc8f814
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=milkyway
+Description: 分屏插件,多窗口,测试版本
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=milkyway
+Name: MilkyWay「分屏」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/milkyway.json
+
+Package: mterminal.fz
+Version: 1.4-6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/mterminal.fz_1.4-6_iphoneos-arm.deb
+Size: 108178
+MD5sum: 6c5bdc4547660afc20b8c97421f19ff1
+SHA1: 4fae96d912dced4a67d01c48ef2f617d5e6c7f47
+SHA256: a93c4d1411147007ecdcf8a9ae2ba5d37df9257153eff744a09990bfbdfd412f
+Section: Utilities
+Priority: standard
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=mterminal
+Description: 终端命令软件
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=mterminal
+Name: MTerminal「终端」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/mterminal.json
+
+Package: myriad
+Version: 0.2.1-5fix
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 1852
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), com.spark.libsparkapplist, preferenceloader, jp.ashikase.techsupport
+Conflicts: com.spark.splitview
+Filename: ./debs/myriad_0.2.1-5fix_iphoneos-arm.deb
+Size: 1311390
+MD5sum: b85145bada7d60b2b038de6262ed754f
+SHA1: 85f9be6c9ecdb591e88a120eb21b234de4e0af0b
+SHA256: fc687e1c32c49edd27da8e737cd910312af30c2596d74e3dc84e06cd8213731c
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=myriad
+Description: 分屏插件
+Author: SparkDev
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=myriad
+Icon: file:///Library/PreferenceBundles/Myriad.bundle/icon.png
+Name: Myriad「分屏汉化破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/myriad.json
+
+Package: netfix
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 10.2.1)
+Filename: ./debs/netfix_1.1_iphoneos-arm.deb
+Size: 1246
+MD5sum: 5e69b5296a61b94fbcd2c55d8de0fb52
+SHA1: 2af40b5e72e8556dc4e8b96dabef271c3a94cef7
+SHA256: aa9c4f0853547a858100ca1abefe3367a12b52a327b5bd953fe6567f0893cd1e
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=netfix
+Description: 安装后重启,重新激活越狱cydia的网络就会修复好.补丁原理就是删除国行手机联网权限文件,达到无弹窗app访问网络,如果有新安装的插件需要联网,再重新安装一次即可.
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=netfix
+Name: Netfix 「Cydia联网修复」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/netfix.json
+Sponsor: 他是个疯子
+
+Package: newgridswitcher
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 67
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/newgridswitcher_1.1.0_iphoneos-arm.deb
+Size: 2746
+MD5sum: 0a2fcc6cfb1bb6fda291c3840cdc4ed8
+SHA1: d1a3bc164245bd638426f8bf87afe664b481ddbe
+SHA256: b23e6c05c52dc1b18a50df8036dca96d31137275fcc44343a8b81b953373021b
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=newgridswitcher
+Description: 可以让 iPhone 拥有 iPad iOS 11/12 一样的多任务卡片式后
+Author: relative <seth@sethstephens.me>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=newgridswitcher
+Name: NewGridSwitcher「多任务后台」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/newgridswitcher.json
+
+Package: newterm2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 2192
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Filename: ./debs/newterm2_2.0_iphoneos-arm.deb
+Size: 739200
+MD5sum: fad80b7612a3d56a7dce85995fe77e8f
+SHA1: b618b9b79a453cbe1c399bdb95e61ab7892fdd67
+SHA256: cd786c277203935befd48c9640c0ef8c61e04e4b50cfe669ab26bac96c158eab
+Section: Terminal Support
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=newterm2
+Description: 终端工具,ios11
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=newterm2
+Dev: hbang
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Name: NewTerm 2「IOS11终端」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/newterm2.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: nobetaalert
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Ethan Nelson-Moore
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/nobetaalert_1.3.1_iphoneos-arm.deb
+Size: 2850
+MD5sum: bc1e931ee22aa27e815344637e66b2f5
+SHA1: 813d1f466ecab24bfbb31ee7b9f703c99125cd67
+SHA256: 5d2ba69038619c6cd1b6b553da4707f48dfa7739a4e50756cb576fe928a4d524
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=nobetaalert
+Description: 屏蔽beta 版弹窗提示
+Author: Ethan Nelson-Moore
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=nobetaalert
+Name: 屏蔽beta 版弹窗
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/nobetaalert.json
+
+Package: nobetanag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/nobetanag_1.0_iphoneos-arm.deb
+Size: 2128
+MD5sum: 165d80a44eeabf10251b6a50ef1a2018
+SHA1: 64167bb1173f2a9a2690480d8914242b2d57d815
+SHA256: df0536b27fb84c70cfca5950b53dbb6966d1a63f497a70e23612f7c7135bd0ce
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=nobetanag
+Author: AppleBetas
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=nobetanag
+Name: NoBetaNag「屏蔽Beta提示」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/nobetanag.json
+Sponsor: 他是个疯子
+
+Package: noctisxi
+Version: 1.6.6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, libsparkapplist
+Filename: ./debs/noctisxi_1.6.6_iphoneos-arm.deb
+Size: 100576
+MD5sum: 2fce4e1c749fdcd6676c0cbe8f5986a3
+SHA1: 1563b32d8d1dab00b52b5888ddef813e472289dc
+SHA256: 58eb3476b0875e85261ad314c396290337adbd85e09d1b88d5382f0cb32bbd5f
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=noctisxi
+Description: 全局调整暗黑模式
+Author: LaughingQuoll <repo@hackyouriphone.org>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=noctisxi
+Icon: file:///Library/PreferenceBundles/NoctisXIPrefs.bundle/icon@3x.png
+Name: NoctisXI「暗黑模式」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/noctisxi.json
+
+Package: notifica
+Version: 0.1.10
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
+Conflicts: ch.mdaus.palette, com.repo.xarold.com.palette, com.golddavid.colorbanners2, com.repo.xarold.com.colorbanners2, io.ominousness.modernxi, com.repo.xarold.com.modernxi, com.golddavid.colorbanners2-new
+Filename: ./debs/notifica_0.1.10_iphoneos-arm.deb
+Size: 358630
+MD5sum: b67e73520270f0248d86ba4ce814a241
+SHA1: c59e6aa2410af9f6d0a83a9e2b8cb75a68c54fe0
+SHA256: b3483afe0351545da5be4d78128d0904b2b4d3fdc5978efd1b0d729311c98d01
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifica
+Description: 自定义通知的颜色
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifica
+Name: Notifica「美化通知」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifica.json
+
+Package: ntspeed
+Version: 0.2~beta6a
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ntspeed_0.2~beta6a_iphoneos-arm.deb
+Size: 32688
+MD5sum: 7345f7352c90802b67c130b67f6ae021
+SHA1: 608422b54d1e353d403e8f09bd2658910ccd4f4a
+SHA256: 6c7fb8b2232d618882fde46f48bc26c5c53a778ebb675c46093f065bbc730aa0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ntspeed
+Description: 让你在屏幕上看到当前的网络速度
+Author: julioverne
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ntspeed
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Name: NtSpeed「虚浮网速」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ntspeed.json
+
+Package: palette
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 720
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/palette_1.1.1_iphoneos-arm.deb
+Size: 404962
+MD5sum: 4644d9de9b5b5f079292ac5e1fffe286
+SHA1: 82f38be3c7fc1975f503a5340df5ca54286bfc7e
+SHA256: f9aaa23642fab87ab3f6d400e12475482023cb3e3daace78cb5fb1c6ed0cbfc9
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=palette
+Description: 修改通知的颜色
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=palette
+Icon: file:///Library/PreferenceBundles/Palette.bundle/palette@2x.png
+Name: Palette「多彩通知」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/palette.json
+
+Package: perfecttimex
+Version: 1.3.3-3
+Architecture: iphoneos-arm
+Maintainer: HuChundong
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/perfecttimex_1.3.3-3_iphoneos-arm.deb
+Size: 75532
+MD5sum: cf307a9e0d73a7472f055a35dcb586f5
+SHA1: ae8e004ebda88a910cef875a734150473211db9a
+SHA256: 6780a8813a7c7bad8ccd31a2dc8ba97a49d99695a9d4ac4a9aa5c43a84cb012f
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
+Author: HuChundong
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
+Name: PerfectTimeX「通知栏时间日期」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
+
+Package: powerselector11
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1231
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/powerselector11_1.1-6_iphoneos-arm.deb
+Size: 163962
+MD5sum: ec0dffceaafea76d39d4e308a291130e
+SHA1: 998ca150508125cf7d50743cb4877590cb1a3014
+SHA256: c20ae4be3e2bcfb0cf419fd4c92f31657dab0abcfef0e72132561ccca0fd28ad
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=powerselector11
+Description: 利用此工具关机,无需在此越狱,就能实现重启操作
+Tag: purpose::extension, compatible::ios11
+Author: ichitaso <willfeeltips@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=powerselector11
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector「软重启」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/powerselector11.json
+
+Package: preferenceloader
+Version: 2.2.4~alpha1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.4~alpha1_iphoneos-arm.deb
+Size: 27760
+MD5sum: fd89b0ecf927cfd7d313cc58ff870e6c
+SHA1: 9935fa1a6209c1776f0b417f2079132d98084d86
+SHA256: 5896b506b366ef55875e5853948983c92251d75fbf89359a776a44500886b1b8
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=preferenceloader
+Description: 必装依赖,设置插件显示依赖
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=preferenceloader
+Dev: dustinhowett
+Name: PreferenceLoader「显示插件依赖」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/preferenceloader.json
+
+Package: previewbegone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./debs/previewbegone_1.0_iphoneos-arm.deb
+Size: 3064
+MD5sum: 47c4ae74cc73358588118a934832314f
+SHA1: 1b1e8d18d8fd5c4156235734c91907dfb47c77c9
+SHA256: 683312bf1240b5b488a184db957cc2cde45eee11ea8855a48bcb8d2ab9df7b80
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=previewbegone
+Description: 去掉iOS11预览截图
+Author: Simalary (Chris)
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=previewbegone
+Name: PreviewBeGone「去掉预览截图」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/previewbegone.json
+
+Package: qq
+Version: 7.9.8-2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: netskao.qq+2
+Filename: ./debs/qq_7.9.8-2_iphoneos-arm.deb
+Size: 146384
+MD5sum: bbe2c02bb084f720f0b4787a1c2e1291
+SHA1: bfabaaa7c3f29d7f628569bbc5da77873a5e9e8f
+SHA256: 575e42f115df71708272534a119a1fa7b4577331736c12c2f6120b2014e7f0c1
+Section: Toys
+Description: QQ抢红包破解版,支持最新版
+Author: 小苹果
+Name: QQ+
+
+Package: qqcallkit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/qqcallkit_1.0_iphoneos-arm.deb
+Size: 4228
+MD5sum: a65a07ac92522c24c35802c039d9298c
+SHA1: 4957734cfaf21e6a6abbbcd6ec53c81d991389e2
+SHA256: 0f46052529be8e2fdf3ad445f63208e0b38dc7f39ec2d155032ec157a193d469
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=qqcallkit
+Description: 开启 QQ通话功能适配QQV7.5.8
+Author: iBreak <ibreak2019@qq.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=qqcallkit
+Name: QQCallkit「通话功能」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/qqcallkit.json
+
+Package: redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./debs/redeb_1.0.3_iphoneos-arm.deb
+Size: 3554
+MD5sum: 6e80d4495371d3b1fc219e2990e07d93
+SHA1: 31c018bf2032b2b29a428cae42a4afad342e8d0e
+SHA256: 28e42b1ae10d5b474b39b6d56b9bd930691f28b61903c1be407900b2b76f0d71
+Section: Utilities
+Priority: extra
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=redeb
+Description: 安装手机终端.输入命令“redeb”输入Y查看插件并输入编号进行备份,插件备份目录/var/mobile/Documents/Redeb/debs.
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=redeb
+Name: redeb「备份deb」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/redeb.json
+
+Package: reprovision
+Version: 0.3.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 9.0)
+Filename: ./debs/reprovision_0.3.3_iphoneos-arm.deb
+Size: 5995700
+MD5sum: 8002a20e234fc491ff0f583f57d69eb4
+SHA1: ee57dd5f014f2f3118e5ef6c19b258fa54e3d046
+SHA256: 77fcb0a8dc80fef480742d3f81badea84b1b9fc03648a017c26aca787830ad58
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
+Description: 手机端签名ipa工具.汉化版.
+Author: Matt Clarke
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=reprovision
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision「签名ipa汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
+
+Package: reprovision
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/reprovision_0.4_iphoneos-arm.deb
+Size: 9984446
+MD5sum: b779b32118bbeb63d217059402c27a81
+SHA1: a8ad92cafb9b0483b1ff57eba3c7c65d59e3cf46
+SHA256: 47ee601e569ce04381ef6a72fc1e6f1a0c8e801009ef3b63484a31c55a159678
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
+Description: 手机端签名ipa工具.官方原版.
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=reprovision
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision「签名ipa」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
+
+Package: ru.rejail.icleanerpatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 12.0), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/ru.rejail.icleanerpatch_1.0_iphoneos-arm.deb
+Size: 3484436
+MD5sum: 56d876f9a115f49f7e93aed33d241d8a
+SHA1: baf1a652a113bae5713f237ae87d06b5629b3966
+SHA256: 2fc7270fcd7a5f4e4b7710f3e086439c71c86ae5390bd7ed04d796634a93d341
+Section: Tweaks
+Homepage: https://rejail.ru/pack/icleanerpatch
+Description: Активация iCleaner Pro
+Author: SharkLatan <sharklatan@gmail.com>
+Depiction: https://rejail.ru/depiction.php?file=icleanerpatch
+Name: Patch iCleaner Pro
+
+Package: safariplus
+Version: 1.6.6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1622
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Filename: ./debs/safariplus_1.6.6_iphoneos-arm.deb
+Size: 432218
+MD5sum: a41e7bf7c62256e04079cc816a6446f7
+SHA1: c35582f716145ce99f32b89001d8d409c8f8e036
+SHA256: 8fc674a7492e87b554eeecc0e3005e5ac82ec08016988986aa95b87fe3c54e90
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=safariplus
+Description: iPhone 自带游览器Safari增强,汉化版
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=safariplus
+Dev: opa334
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Name: Safari Plus
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safariplus.json
+Sponsor: 他是个疯子
+
+Package: saw
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1715
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/saw_1.2.0_iphoneos-arm.deb
+Size: 718650
+MD5sum: 57e7ea1cadd752a3b4713501d17ce687
+SHA1: e39ebc7b5da563a617b8dcb2531ab7cd6924cd87
+SHA256: 58dec98177201aa6a2a0d4d0cc63866a7a5d83854a9f73564ed2f53c645db7ca
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=saw
+Description: 去掉iphoneX底部的白边
+Tag: purpose::extension, compatible::ios11
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=saw
+Dev: frozenpenguin
+Icon: file:///Library/PreferenceBundles/sawprefs.bundle/icon@2x.png
+Name: Saw「去掉iphoneX底部留白」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/saw.json
+
+Package: screenrecorderforcedaudio
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 22380
+MD5sum: 9725899e40f6bf480cdf66e08cf0ee7a
+SHA1: 1b2a63889db4ffd591bcb2c97babf6030f1cad9e
+SHA256: 62b7afa48dd2855c444887e00457458099319f6379d0d4f57411f1179d1fcd66
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=screenrecorderforcedaudio
+Description: 录屏时强制拾取手机内的声音
+Author: Kiran Patil
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=screenrecorderforcedaudio
+Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.psd
+Name: ScreenRecorderForcedAudio「开启音频拾取」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/screenrecorderforcedaudio.json
+
+Package: settings+
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobile-substrate
+Filename: ./debs/settings+_0.1.1_iphoneos-arm.deb
+Size: 9232
+MD5sum: 7ebf339f443d6a9359f6db541866c0c8
+SHA1: 482385c73d123e44aab3b6089cbff51c7ba011a5
+SHA256: 636def88f8a4b534afe4c9abc9d58a51f46cea1ded581306d010ce7dbd8d8c04
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=settings+
+Description: 隐藏系统更新1小红点、去设置分割线.去设置顶部搜索
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=settings+
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Settings+「界面美化」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/settings+.json
+
+Package: showtouch
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 388
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/showtouch_1.0.3-1_iphoneos-arm.deb
+Size: 88198
+MD5sum: 2e4377ad510a1253d9e5cb63d6c3ab62
+SHA1: 0061d48df9b7c40f813e7eb5961ea4dace7dd381
+SHA256: e2e6a805404eec60a9efe253b16d198e8fbcc8925a77aa1fdb249f9bc3a63a48
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=showtouch
+Description: 录制屏幕的时候,显示触摸位置.
+Author: LonestarX <me@lonestarx.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=showtouch
+Name: ShowTouch「触摸指示器汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/showtouch.json
+
+Package: shypagedots
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 98
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/shypagedots_0.1.1_iphoneos-arm.deb
+Size: 6968
+MD5sum: 82c2d772f16ae7239690a70e96a7bcc0
+SHA1: 0047fc7650069c5217c88a3dfc98955b98359652
+SHA256: 7a847716a24504a811e9a9ca87da2cb182e37f30278b5a672d6879014ef03458
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=shypagedots
+Description: 隐藏桌面的小白点
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: ryst <ryan.stephenson@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=shypagedots
+Dev: ryst
+Name: Shy Page Dots「隐藏小白点」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/shypagedots.json
+Sponsor: 他是个疯子
+
+Package: silentrecorder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 196
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/silentrecorder_1.4_iphoneos-arm.deb
+Size: 25878
+MD5sum: 95bcb14f78ccdd93399c526098c4e7ad
+SHA1: 3d46b5f032ab9a63d101be88369c0124d8788468
+SHA256: 4f0f7de485222833ded415e7ee47104d25294a811bde5bd422dfc2ccac36db6c
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=silentrecorder
+Description: 隐藏状态栏指示器(通话,录制屏幕,定位)
+Tag: purpose::extension, compatible::ios11
+Author: Kiran Patil <patilkiran08@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=silentrecorder
+Dev: imkpatil
+Icon: file:///Library/Application%20Support/SilentRecorder/icon.png
+Name: SilentRecorder「隐藏状态栏指示器」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/silentrecorder.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: sileo-installer
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Diatrus
+Depends: curl, com.midnightchips.localhostssh, gawk
+Conflicts: com.pixelomer.u0sileo.backend, com.pixelomer.u0sileo, com.samgisaninja.sillyo-installer, com.samgisaninja.sillyo
+Filename: ./debs/sileo-installer_1.0.1_iphoneos-arm.deb
+Size: 9894
+MD5sum: a596b541f4038dd29e0294cd2087a737
+SHA1: 674b93e28c3e73a3eaa5db321d194c1522000ca2
+SHA256: 014289a02ba692e90a86ad9e7baec38947ca66227ef23f704ac203ea1124ecf0
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
+Description: 在Unc0ver上安全安装官方Sileo。在ssh或mterminal上运行命令“installsileo”进行安装，并运行“removesileo”进行卸载。为了使其正常工作，请在安装后重新启用重新加载系统守护程序。如sileo安装程序更新,只需在运行一次安装命令即可.如sileo显示更新项目不要更新,因为那是来自electra的项目.如不是electra的项目请正常更新.
+Author: Diatrus
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
+Name: Sileo for unc0ver
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/sileo-installer.json
+
+Package: sileo-installer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Diatrus
+Depends: curl, gawk
+Conflicts: com.pixelomer.u0sileo.backend, com.pixelomer.u0sileo, com.samgisaninja.sillyo-installer, com.samgisaninja.sillyo
+Filename: ./debs/sileo-installer_1.1_iphoneos-arm.deb
+Size: 9864
+MD5sum: 979c50ea711c798c5724825224552fd8
+SHA1: d03b0d8c5a7b37f16606a79818f7e2c541dba009
+SHA256: b9075ecd1dc761623dde1020c7214cac485a9fda05ef848a3853e2b5f5f69443
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
+Description: 在Unc0ver上安全安装官方Sileo。在ssh或mterminal上运行命令“installsileo”进行安装，并运行“removesileo”进行卸载。为了使其正常工作，请在安装后重新启用重新加载系统守护程序。如sileo安装程序更新,只需在运行一次安装命令即可.如sileo显示更新项目不要更新,因为那是来自electra的项目.如不是electra的项目请正常更新.
+Author: Diatrus
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
+Name: Sileo for unc0ver
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/sileo-installer.json
+
+Package: sileozh
+Version: 0.8b4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/sileozh_0.8b4_iphoneos-arm.deb
+Size: 5536
+MD5sum: 8967e373813aa937e1c8bbee1ac2b72c
+SHA1: 17fed861f22b24fc4110cd790970e98abb9141ed
+SHA256: cc6cf92795725b02e5e08c7807600575e6b093dacdfc393cb9994136f108bb57
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileozh
+Description: Sileo简体中文包。
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=sileozh
+Name: Sileo 简体中文包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/sileozh.json
+
+Package: simplels
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 763
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/simplels_1.5.1_iphoneos-arm.deb
+Size: 149046
+MD5sum: 3cb06cb45fb0b01a46206084c93bbdb7
+SHA1: cbefb5c796c53e9178b9d31c08f7a2811f3cb7b9
+SHA256: d41fe366b63f1de387e95856543969ba5a91b220f1a4e083e29a4dde95b6b5ed
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=SimpleLSiOS
+Description: 锁屏界面美化支持iOS 10/11
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Author: XCXiao <958169971@qq.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=SimpleLSiOS
+Dev: xcxiao
+Icon: file:///Library/PreferenceBundles/SIMPLELSPB.bundle/icon@2x.png
+Name: SimpleLSiOS
+Pname: SimpleLS「锁屏界面美化汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/SimpleLSiOS.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: smartlpm
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 332
+Depends: mobilesubstrate
+Filename: ./debs/smartlpm_1.3.0-1_iphoneos-arm.deb
+Size: 146624
+MD5sum: 94d6b8a8a388d8e85ac6983b4670e869
+SHA1: 160480b07db373eb0fb8c02717a373ef92ea8b3a
+SHA256: 863d78a51e068fdf051e178bfc9b7264684bc220bb31792dc057941e403b29f1
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=smartlpm
+Description: 智能低电量汉化版当电池达到某个值的时候自动开启低电量模式,或者全程低电量.
+Author: smokin1337
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=smartlpm
+Icon: file:///Library/PreferenceBundles/SmartLPM.bundle/icon@2x.png
+Name: SmartLPM「智能低电量」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/smartlpm.json
+
+Package: smartvolumecontrol2
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1416
+Depends: mobilesubstrate, preferenceloader, firmware(>=7.0)
+Conflicts: oi.po.oi
+Filename: ./debs/smartvolumecontrol2_3.0.1_iphoneos-arm.deb
+Size: 613166
+MD5sum: 595285ea64659e2ce08d6340955f3c01
+SHA1: 33eb39c7b2df783e4cb04fb866099f06ff0a5b67
+SHA256: 82fa812ba261941db07b654eee8103b544bcc12805915d34ab5a8da02eb75488
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=smartvolumecontrol2
+Description: 缩小音量调节界面
+Author: midkin
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=smartvolumecontrol2
+Name: SmartVolumeControl2「迷你音量」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/smartvolumecontrol2.json
+
+Package: snapper2
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 920
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: snapper
+Filename: ./debs/snapper2_1.3_iphoneos-arm.deb
+Size: 192672
+MD5sum: 35f9cb906be104a3f8c78cf286429e6c
+SHA1: 8b8c1dbab53ae171908cbc788d0333ed43463826
+SHA256: edbdc53b4466afcb5ee235dd7899b258565a82219bf5579d17d149946c01faa4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Description: 高级截图.自定义截图
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Dev: jontelang
+Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
+Name: Snapper 2「智能截图」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: snapper2
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 920
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: snapper
+Filename: ./debs/snapper2_1.4_iphoneos-arm.deb
+Size: 216826
+MD5sum: 1779bd10430e27684f3174ddbff218a0
+SHA1: 96dddf045e979d31d7dffffc8616f03f1aa3ca1f
+SHA256: 98715c5cac0ae090098daf34dc581d069ffa46d5ae3b9bd8676797e5a9677dbd
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Description: 高级截图.自定义截图
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Dev: jontelang
+Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
+Name: Snapper 2「智能截图」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
+Sponsor: 他是个疯子
+
+Package: snappy
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Samuel Bingner
+Installed-Size: 68
+Filename: ./debs/snappy_1.1-1_iphoneos-arm.deb
+Size: 5066
+MD5sum: c23f2bff9239f4b1177cdb25a6ba785e
+SHA1: 7c27284bf0b795d7d201b67e5b8a2e68f55a4ec8
+SHA256: 3992551295ca97de8141229153ef3795a9b9f453b5b0d1b45518ffd3ff99d9c2
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=snappy
+Description: ssh平刷保资料必要插件.
+Tag: role::hacker
+Author: Samuel Bingner
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=snappy
+Name: Snappy「平刷保资料」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snappy.json
+
+Package: ssgestures
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 72
+Depends: firmware(>= 11.0), mobilesubstrate
+Filename: ./debs/ssgestures_1.0.0_iphoneos-arm.deb
+Size: 5884
+MD5sum: c5e6962afeadc1d1476ed536b4a2c5c4
+SHA1: c7e0d5931af5b62270fddd8c71baaabd4dc9230a
+SHA256: 0b12ab67084b94a429c287694ad621da8217f58305ed269035e166f0243f8d4d
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ssgestures
+Description: iOS 11预览截图时左滑保存向右滑不保存
+Author: ATWiiks
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ssgestures
+Name: SSGestures「截图右滑删除」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ssgestures.json
+
+Package: stackxi
+Version: 0.5.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<< 11.4.1), cy+cpu.arm64
+Conflicts: com.ioscreatix.intelix, com.repo.xarold.com.intelix, com.ioscreatix.intelixbeta
+Filename: ./debs/stackxi_0.5.3_iphoneos-arm.deb
+Size: 102386
+MD5sum: eed83d229dd59648b741e26777a251fd
+SHA1: c3bce3855732b5996b69cf13052824289b664933
+SHA256: 6af99e0667632a604a08f423716f1d38e3b06575f76e01c24591082307d1b9f4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=stackxi
+Description: 仿iOS12通知
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=stackxi
+Name: StackXI「仿iOS12通知」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/.json
+
+Package: storeswitcher2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/storeswitcher2_1.0.2_iphoneos-arm.deb
+Size: 11084
+MD5sum: 58aed0195ca600516aec4a4e7a123289
+SHA1: 4c3a6a4e77434baf4c0698e8b197cb672c33e52e
+SHA256: a063813410a259a70862419259fdb82604a36806a13a2eb06bd128b4f97a73fd
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=storeswitcher2
+Description: App Store 快速切换🆔 iOS 11+.
+Author: subdiox
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=storeswitcher2
+Name: StoreSwitcher 2「快速切换🆔账号」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/storeswitcher2.json
+
+Package: strongerfi
+Version: 1.0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 414
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/strongerfi_1.0.0~beta4_iphoneos-arm.deb
+Size: 67828
+MD5sum: dc83852f3ebd71715e871060980ee7b2
+SHA1: 96a8e694dc3531037be75328dfe3421f63e384b3
+SHA256: 17fbcbd4cc9cb03dff5310222e3ef7d1778d8c2de7d1287c65a9b7c6cb0e53b0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=strongerfi
+Description: 自动切换到最强的 WiFi 网络的插件
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=strongerfi
+Icon: file:///Library/PreferenceBundles/StrongerFi.bundle/StrongerFi.png
+Name: StrongerFi「自动切换最强wifi」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/strongerfi.json
+
+Package: sugarcane
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/sugarcane_1.0.0_iphoneos-arm.deb
+Size: 5656
+MD5sum: 5c262243c5028183271420ba83a0f659
+SHA1: 850581a831a9ff80a5f639d0f11636035f5f57df
+SHA256: c41c33c0f37020a82a707de7a16d1019e11914a9fe643255ef4b1008ed8acde3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=sugarcane
+Description: 控制中心 音量 亮度 显示百分比
+Author: iOS Creatix
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=sugarcane
+Name: SugarCane
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/sugarcane.json
+
+Package: supporttheunsupported
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/supporttheunsupported_1.0_iphoneos-arm.deb
+Size: 3506
+MD5sum: 6394c7fa9249aed4920e7565efa352e0
+SHA1: c4d0d8f6a179119be89e737de1cfc8d528477405
+SHA256: 56bc475c10d04928fbbba6db42c787e35bee7ff346b5eeddb818cb0a16271f34
+Section: System
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=supporttheunsupported
+Description: 允许iPhone使用“不支持”的配件
+Author: Tony Kraft
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=supporttheunsupported
+Name: 破解数据线协议
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/supporttheunsupported.json
+
+Package: swipetodeletecontact
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 764
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/swipetodeletecontact_1.0.5_iphoneos-arm.deb
+Size: 63524
+MD5sum: 8c128b4faf4612ece9e8435ef18ca2ef
+SHA1: a22a73d3a65f9f7c1bfd69a510ca387885a124de
+SHA256: 5daa344e8e033826d715ffb82a6610434d1499d97cd3a42e4f05530d89dac81f
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=swipetodeletecontact
+Description: 在通讯录右滑删除联系人！
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: Rene Kahle <packetfahrer@web.de>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=swipetodeletecontact
+Dev: packetfahrer
+Icon: file:///Library/PreferenceBundles/SwipeToDeleteContact.bundle/SwipeToDeleteContactsPref@2x.png
+Name: SwipeToDeleteContact「删除联系人」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/swipetodeletecontact.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: systeminfo
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 913
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: ./debs/systeminfo_2.0.0-1_iphoneos-arm.deb
+Size: 178592
+MD5sum: 71a6e1a6b8d6254ca8e8f7a0d57f292f
+SHA1: 969605f6da3196dd28a07b3663c3c68ac04599dc
+SHA256: 44a636f0b8f89c4ac6207cdf31e7731bdf991d4620a70e190c6d03cdde0903df
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=systeminfo
+Description: 查看系统信息.查看ECID.查看系统详细信息
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Author: ARX8x <arx8@icloud.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=systeminfo
+Dev: arx8x
+Name: System Info「系统详情」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/systeminfo.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: twitterpp
+Version: 1.2r-82
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 5.0), mobilesubstrate, uasharedtools (>= 2.2r-71)
+Filename: ./debs/twitterpp_1.2r-82_iphoneos-arm.deb
+Size: 575318
+MD5sum: 6b51110bef64bec694c1696ee4cc4094
+SHA1: 492242aa0b8773d6f8f4bab77e3386d14312c927
+SHA256: ed2f9096ac767383eb617c08ee89eca0867530554b475579d06b048a06811e90
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=twitterpp
+Description: 推特增强,推特下载视频,等等!如没有效果请下载appadmin降级推特版本
+Tag: purpose::extension, role::enduser
+Author: UnlimApps Inc <support@unlimapps.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=twitterpp
+Dev: i4iphones
+Name: Twitter++「推特增强」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/twitterpp.json
+
+Package: uasharedtools
+Version: 2.2r-71
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.repo.xarold.com.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Filename: ./debs/uasharedtools_2.2r-71_iphoneos-arm.deb
+Size: 16298866
+MD5sum: c59607ce779bc4ae4fdd9f068c62e583
+SHA1: 92ff0d4ed3512c67ddeb7fb164e9890c39554689
+SHA256: 9243efc320960fcf4212b5ea51ecfefbe78b980b07de4a5f56646169baa2cb13
+Section: Development
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=uasharedtools
+Description: unlimapps主依赖请用cracktool3破解一下
+Author: UnlimApps Inc.
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=uasharedtools
+Name: uasharedtools「iOS11」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/uasharedtools.json
+
+Package: uaupdatetools
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/uaupdatetools_1.0r-101_iphoneos-arm.deb
+Size: 544054
+MD5sum: cc9b4c50a37fc0984313a287055fda63
+SHA1: 182c7200695ba658d34e8f1675543549d43126ea
+SHA256: 58482043e362d833369489450b3a6b19c39e553920e5b9467794c7e6d2d9d04f
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=uaupdatetools
+Description: 从appstore降级ios的应用程序版本
+Author: UnlimApps Inc.
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=uaupdatetools
+Name: App Admin「应用降级」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/uaupdatetools.json
+
+Package: unc0ver
+Version: 3.0-b32
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/unc0ver_3.0-b32_iphoneos-arm.deb
+Size: 21562
+MD5sum: a377567f0850ff8bf3292587c68298f4
+SHA1: 8e2f27f3553760199f767751eea1762a70d72175
+SHA256: 7290c8bd0246a5340fe88d6d7f08af30e6e56f534aee764be84c0390eabceb20
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=unc0ver
+Description: unc0ver 简体中文，糖醋丶炒排骨编译汉化!
+Author: 糖醋丶炒排骨
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=unc0ver
+Name: unc0ver 3.0通用简体中文包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/unc0ver.json
+
+Package: undertime
+Version: 1.6-21+debug
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/undertime_1.6-21+debug_iphoneos-arm.deb
+Size: 10266
+MD5sum: fe76cfe41465c73f97cdb446e62331f1
+SHA1: 3666ee5205201f27713c83240d490037df4d4817
+SHA256: 5938e4ed6a6a628149344ae3b5cd9d89dd8e89a39cc74d3638557321e58f5de6
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=undertime
+Description: 在iphoneX通知栏显示日期,时间,星期
+Author: MPG13 <micahplacido@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=undertime
+Icon: file:///Library/PreferenceBundles/UnderTime.bundle/icon@2x.png
+Name: UnderTime「通知栏日期」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/undertime.json
+
+Package: voicechangerx
+Version: 0.1-16
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 296
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/voicechangerx_0.1-16_iphoneos-arm.deb
+Size: 70806
+MD5sum: bf19f7c3630404eabf684505e8eefe96
+SHA1: 89acfc8b749f0b4678c7471341778c9dfa9a0e32
+SHA256: 0aa3bce9952501fed5e760b3a0b64482a4b1ba86afa078fac11aead6f4336806
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=voicechangerx
+Description: 通话时改变你的声音
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=voicechangerx
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Name: VoiceChangerX「通话变声」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/voicechangerx.json
+
+Package: wechat.callkit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/wechat.callkit_0.0.1_iphoneos-arm.deb
+Size: 2854
+MD5sum: 56bffc037792eec08c5cf5e90c04d5de
+SHA1: ec40cf58475f6c688e3b64205ed64bf31ef6fcc3
+SHA256: 0615f1f217156cf2a1dccddc6bd36ec601e8c22aa86d566f5d32bfff3c7b5dd4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=wechat.callkit
+Description: 开启微信电话接口功能,使通话录音能够拾取微信录音.
+Author: Jianan Tian
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechat.callkit
+Name: WeChatCallKit「微信电话接口」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechat.callkit.json
+
+Package: wechatfix30s
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/wechatfix30s_1.0.4_iphoneos-arm.deb
+Size: 11836
+MD5sum: 44002418da55a2285a20271fcaa4cf5a
+SHA1: 0681a165574bc7183b4c509d9eb9419f68b3fec7
+SHA256: e50ccfc4e6b821503fd8335485b266f11641b13e1954b162475464c748005846
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=wechatfix30s
+Description: 突破微信可拍摄与上传30秒视频・安装后无设置
+Author: iBreak <ibreak2019@qq.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechatfix30s
+Name: WeChat「突破朋友圈视频30秒」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechatfix30s.json
+
+Package: ws.hbang.common
+Version: 1.12
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 830
+Depends: preferenceloader, mobilesubstrate, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Filename: ./debs/ws.hbang.common_1.12_iphoneos-arm.deb
+Size: 137734
+MD5sum: 1d9cdbcff408a3fce5588bec483bce01
+SHA1: 62f1d5155d86bec95c2e8d846e67aa3d8fd74cfa
+SHA256: 116f8ba42703718ab195705dadeef1c9dcee6ce47f2afb46d57f7ade114f66f7
+Section: Development
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Tag: purpose::extension, cydia::obsolete, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Name: Cephei
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+Sponsor: 他是个疯子
+
+Package: xunlei.fz
+Version: 5.2.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Filename: ./debs/xunlei.fz_5.2.1_iphoneos-arm.deb
+Size: 26624994
+MD5sum: f55625addb47757b7455a7755af16dea
+SHA1: f4143d258901ca9a3b4e864b6a2e94fa71dfe9ff
+SHA256: 61d329f1094e5211437be31893a545e5d583126874d2abb2265322a2f7c2051f
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=xunlei.fz
+Description: 迅雷破解版,去广告,全速下载
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=xunlei.fz
+Icon: file:///Applications/iThunder.app/AppIcon29x29~ipad.png
+Name: 迅雷破解版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xunlei.fz.json
+
