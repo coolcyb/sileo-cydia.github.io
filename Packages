@@ -118,41 +118,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
 Name: WeChatHookPro「微信助手」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/WeChatHookPro.json
 
-Package: WeChatHookPro
-Version: 0.3-5
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: com.rpetrich.rocketbootstrap, mobilesubstrate, preferenceloader
-Filename: ./debs/wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1374224
-MD5sum: dc0789c80ba66e29cd04d6055577c9fb
-SHA1: 0a5c08677bd09726cd70ae2fef5e083752b938f6
-SHA256: 44f0ba644f85d2f766e1477176ef5a375f7bbe6ede6a49f6a3b83594b846a014
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
-Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
-Author: admin@25mao.com
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
-Name: WeChatHookPro「微信助手」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/WeChatHookPro.json
-
-Package: WeChatHookPro
-Version: 0.3-6
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Filename: ./debs/wechathookpro_0.3-6_iphoneos-arm.deb
-Size: 1374036
-MD5sum: 7fd058b9ad541e8924ac777faa2d64d9
-SHA1: 9ed9385ff8de1b2b979d56b5fd625f75b098f3d4
-SHA256: 9afc319092450d0edf8335ca6754fbdf001e413ca2d133986ed7c1371041ed1d
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
-Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
-Author: admin@25mao.com
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
-Name: WeChatHookPro「微信助手」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/WeChatHookPro.json
-
 Package: answeringmachinex
 Version: 0.4-21
 Architecture: iphoneos-arm
@@ -2871,6 +2836,23 @@ Author: iBreak <ibreak2019@qq.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechatfix30s
 Name: WeChat「突破朋友圈视频30秒」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechatfix30s.json
+
+Package: wechathookpro
+Version: 0.3-6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Filename: ./debs/wechathookpro_0.3-6_iphoneos-arm.deb
+Size: 1373800
+MD5sum: 588cf5355c21de8a1d5ff50cc7987e22
+SHA1: e0dc1243a61cf94bc98554e9c1186eb6ae0103f0
+SHA256: 1a302d4855d3b6e6a73a6e800d0b366c96b7ec536fe1f0b8f39b2417c3b5f935
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
+Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
+Author: admin@25mao.com
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
+Name: WeChatHookPro「微信助手」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/WeChatHookPro.json
 
 Package: ws.hbang.common
 Version: 1.12
