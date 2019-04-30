@@ -122,12 +122,12 @@ Package: WeChatHookPro
 Version: 0.3-5
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
-Conflicts: WeChatHookPro
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate, preferenceloader
 Filename: ./debs/wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1374196
-MD5sum: da9f737a2f90cd1083673261d01735a9
-SHA1: 8125d3e3a93f7cb74875088777cbea31ad9ce727
-SHA256: 304454a5008f28539371970e60671b2dece604ab1ca87569df4a495c4b9c4e87
+Size: 1374224
+MD5sum: dc0789c80ba66e29cd04d6055577c9fb
+SHA1: 0a5c08677bd09726cd70ae2fef5e083752b938f6
+SHA256: 44f0ba644f85d2f766e1477176ef5a375f7bbe6ede6a49f6a3b83594b846a014
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
 Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
@@ -1984,25 +1984,6 @@ Author: HuChundong
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
 Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
 Name: PerfectTimeX「通知栏时间日期」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
-
-Package: perfecttimexs
-Version: 0.2.0-1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
-Filename: ./debs/perfecttimexs_0.2.0-1_iphoneos-arm.deb
-Size: 57736
-MD5sum: f32c46c00e958e102b0ad1100652a5e8
-SHA1: 2cac56c72d8b29acc7d5ff9707f11db9660eb8b4
-SHA256: d175f366a5fb227662dd4b52ca9ae7c960e5924004b3e1a664f133282183a8b0
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
-Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
-Author: HuChundong <gycm520@163.com>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
-Name: PerfectTimeXS「通知栏时间日期」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
 
 Package: powerselector11
