@@ -2819,6 +2819,25 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechat.callkit
 Name: WeChatCallKit「微信电话接口」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechat.callkit.json
 
+Package: wechat.callkit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/wechat.callkit_1.0_iphoneos-arm.deb
+Size: 3720
+MD5sum: 769194f3d03a0f8ff65fb1d934b01b3b
+SHA1: 106fd64fd1e72567741a125d61ee722cc8e80b22
+SHA256: ab36d1a7a4e1aecb8b776de457c891ecb91b4cafc72ae1317ec799c5d174ab91
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=wechat.callkit
+Description: 开启微信电话接口功能,使通话录音能够拾取微信录音.
+Author: Jianan Tian
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechat.callkit
+Name: WeChatCallKit「微信电话接口」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechat.callkit.json
+
 Package: wechatfix30s
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -2836,6 +2855,24 @@ Author: iBreak <ibreak2019@qq.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechatfix30s
 Name: WeChat「突破朋友圈视频30秒」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechatfix30s.json
+
+Package: wechathelper
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/wechathelper_1.4.0_iphoneos-arm.deb
+Size: 60244
+MD5sum: dc5add9ce23a9c6f6d93eea3c0f7a449
+SHA1: d9f9858aedec33cb97156d65a2a8e94a61968b67
+SHA256: 50536267c34cd578cecb397f139f8996f8de74fdb99070a3bf092ec332e71707
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=wechathelper
+Description: 微信多功能定义助手
+Author: iBreak <ibreak2019@qq.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=wechathelper
+Name: WeChat Helper
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechathelper.json
 
 Package: wechathookpro
 Version: 0.3-5
