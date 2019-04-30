@@ -992,6 +992,25 @@ Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@3x.png
 Name: EclipseX「暗黑模式」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/eclipsex.json
 
+Package: emojiportpe
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 11796
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<< 12.1), com.ps.emojiattributes, com.ps.emojilibrary
+Filename: ./debs/emojiportpe_1.0.2_iphoneos-arm.deb
+Size: 2762216
+MD5sum: acc1f53dfecc90f7f0fc4ee7698531c0
+SHA1: 4a84b841cf16bc877db1c0f49c34f713c66476fc
+SHA256: 76fe43f97137ceee5167ce88f69b809c51863b4bb5e80f0bb18466c620e9f7bf
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=emojiportpe
+Description: 键盘下面添加最近使用的表情快捷栏
+Author: PoomSmart
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=emojiportpe
+Name: EmojiPort「iOS 12」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/emojiportpe.json
+
 Package: ext3nder-installer
 Version: 021a
 Architecture: iphoneos-arm
