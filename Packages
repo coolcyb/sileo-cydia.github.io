@@ -122,13 +122,12 @@ Package: WeChatHookPro
 Version: 0.3-5
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: firmware (>= 5.0)
 Conflicts: WeChatHookPro
 Filename: ./debs/wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1374208
-MD5sum: f02ccfe768094bef8b5b55e9025bb750
-SHA1: e27ee9597f3e6c0b7c25b249e9a3b0854131f819
-SHA256: ab1609c6b20f945c88d5e17b8b1b8e88705bacb61bc564f23bfa24eb0e03bad2
+Size: 1374196
+MD5sum: da9f737a2f90cd1083673261d01735a9
+SHA1: 8125d3e3a93f7cb74875088777cbea31ad9ce727
+SHA256: 304454a5008f28539371970e60671b2dece604ab1ca87569df4a495c4b9c4e87
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
 Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
@@ -1119,6 +1118,27 @@ Icon: file:///Applications/Filza.app/AppIcon29x29@3x.png
 Name: Filza File Manager「文件管理器」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
 
+Package: filza
+Version: 3.7.0-18
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 29668
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/filza_3.7.0-18_iphoneos-arm.deb
+Size: 9879096
+MD5sum: 88cd7b4f91fc43a31137eed427e4e332
+SHA1: 63634d7f0c296982ae56376c99bf550c173eb3c7
+SHA256: ba5357f64a0f965448f5fda2f60cfc4b9a5bb62b93c69d37e61833032a12810a
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=filza
+Description: 文件管理器,查看系统文件.
+Author: TIGI Software
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=filza
+Icon: file:///Applications/Filza.app/AppIcon29x29@3x.png
+Name: Filza File Manager「文件管理器」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
+
 Package: flex3
 Version: 3~EarlyAccess4
 Architecture: iphoneos-arm
@@ -1964,6 +1984,25 @@ Author: HuChundong
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
 Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
 Name: PerfectTimeX「通知栏时间日期」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
+
+Package: perfecttimexs
+Version: 0.2.0-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Filename: ./debs/perfecttimexs_0.2.0-1_iphoneos-arm.deb
+Size: 57736
+MD5sum: f32c46c00e958e102b0ad1100652a5e8
+SHA1: 2cac56c72d8b29acc7d5ff9707f11db9660eb8b4
+SHA256: d175f366a5fb227662dd4b52ca9ae7c960e5924004b3e1a664f133282183a8b0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
+Author: HuChundong <gycm520@163.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Name: PerfectTimeXS「通知栏时间日期」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
 
 Package: powerselector11
