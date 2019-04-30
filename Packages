@@ -179,6 +179,30 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=audiorecorderxs
 Name: AudioRecorder XS「通话录音」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/audiorecorderxs.json
 
+Package: autobrightness11
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 111
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/autobrightness11_0.1-4_iphoneos-arm.deb
+Size: 13252
+MD5sum: 126cec144ba5e6b6020e2254f3cf339e
+SHA1: 2a5abd6cc84af86f31cfea3ac361dd2ff38d93af
+SHA256: 31960e0031960d2fe3bb7f611424c98b7815325347808e190ee678df89995567
+Section: Addons (ControlCenter)
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=autobrightness11
+Description: 在控制中心添加一个自动亮度开关
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: ichitaso <willfeeltips@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=autobrightness11
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/AutoBrightness.bundle/SettingsIcon@2x.png
+Name: AutoBrightnessToggle「自动亮度开关」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autobrightness11.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: autohomebar
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -196,6 +220,30 @@ Author: 他是个疯子
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=autohomebar
 Name: Auto HomeBar「隐藏X白条」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autohomebar.json
+
+Package: autolockcc
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 118
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/autolockcc_0.1-3_iphoneos-arm.deb
+Size: 21736
+MD5sum: bd700c06e19ef2f716ed0d728225199b
+SHA1: a66d3bf09250e7dc5e52fcb0248b6600512a9aa2
+SHA256: 7a566be0ff68be1c339e1bfdcc6f05d691cadcd288b631f4199a3823b57e2478
+Section: Addons (ControlCenter)
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=autolockcc
+Description: 在控制中心添加,打开/关闭,自动锁定开关.需配合ccsupport
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: ichitaso <willfeeltips@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=autolockcc
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/AutoLock.bundle/SettingsIcon@2x.png
+Name: AutoLockToggle「锁定开关」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autolockcc.json
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: autounlockx
 Version: 1.0.1
