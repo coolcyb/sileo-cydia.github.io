@@ -1999,6 +1999,22 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=nobetaalert
 Name: 屏蔽beta 版弹窗
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/nobetaalert.json
 
+Package: nobetaexpiredalert
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/nobetaexpiredalert_0.0.1-4_iphoneos-arm.deb
+Size: 2704
+MD5sum: 795bfe17bf1144a3805741d8ab827935
+SHA1: a4779edb00f0275407d8ef8c078d9eb91d99b5f0
+SHA256: 862a30254ed223a4b2784c353a5b3b479f3f7c91004b85a5c7b250d518766969
+Section: Tweaks
+Description: 屏蔽总是提示beta过期弹窗,支持A12
+Author: Elias Limneos <limneoselias@gmail.com>
+Name: 屏蔽beta更新弹窗
+
 Package: nobetanag
 Version: 1.0
 Architecture: iphoneos-arm
