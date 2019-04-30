@@ -18,24 +18,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ChargeAnimations
 Name: ChargeAnimations「充电动画」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ChargeAnimations.json
 
-Package: FakeTransfer
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/faketransfer_0.1-1_iphoneos-arm.deb
-Size: 22092
-MD5sum: d2727d74ecaca6fbdd5c4b70930549a2
-SHA1: feb45dcabcdf412239238aa3f81fcdea32cbfde5
-SHA256: fe99b8314454d8c3ce318bc6aca7fbd47b6470c5885372b9028f8b4d6b1c48e9
-Section: 微信辅助
-Priority: optional
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=FakeTransfer
-Description: 没有设置开关.长按你需要修改的转账那条信息,点击修改就行.
-Author: mao
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=FakeTransfer
-Name: 微信转账金额修改
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/FakeTransfer.json
-
 Package: Flex3beta
 Version: 1:3~Beta50
 Architecture: iphoneos-arm
@@ -1017,6 +999,24 @@ Author: M4cs <maxlikescs@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=ezsafemode
 Name: EzSafemode「安全模式按钮」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ezsafemode.json
+
+Package: faketransfer
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/faketransfer_0.1-1_iphoneos-arm.deb
+Size: 22124
+MD5sum: f9185dfadbb503e837ace8e8f60a21f1
+SHA1: 81d8777ffcd545505467ef56bfccf33dcb9992d6
+SHA256: ed7f0cc96799c6ef9ee50579f83e3f6eb27e16d056e6bdb21a40899cd99ad6c9
+Section: 微信辅助
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=FakeTransfer
+Description: 没有设置开关.长按你需要修改的转账那条信息,点击修改就行.
+Author: mao
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=FakeTransfer
+Name: 微信转账金额修改
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/FakeTransfer.json
 
 Package: fastunlockx
 Version: 1.4
