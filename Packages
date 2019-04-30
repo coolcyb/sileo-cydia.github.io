@@ -281,10 +281,10 @@ Maintainer: 他是个疯子 <409774743@qq.com>
 Installed-Size: 476
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debs/batterypercentx_1.3.6-1_iphoneos-arm.deb
-Size: 126528
-MD5sum: 4c1686be3dbf1d4e9ef84f53aa718b21
-SHA1: db443e59c041eba105b3c0beeef4b4b8813b5d5a
-SHA256: b4fc195111abf47a5b4fe7d0ec5c91a5082274221144f8e00f6bcb3cf793d9f5
+Size: 127156
+MD5sum: 5a44748ed28d13fb3b0896e174c77a1a
+SHA1: 174381036e89e35cf72ad40742cdf972086d28cc
+SHA256: 9eff1d814be420b825620fc44756e0b681ff4e441a048f3b7d9ebd20db317a92
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
 Description: 打开 iPhone X通知栏电池百分比
