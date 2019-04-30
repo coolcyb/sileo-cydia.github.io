@@ -2838,14 +2838,15 @@ Name: WeChat「突破朋友圈视频30秒」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/wechatfix30s.json
 
 Package: wechathookpro
-Version: 0.3-6
+Version: 0.3-5
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
-Filename: ./debs/wechathookpro_0.3-6_iphoneos-arm.deb
-Size: 1373800
-MD5sum: 588cf5355c21de8a1d5ff50cc7987e22
-SHA1: e0dc1243a61cf94bc98554e9c1186eb6ae0103f0
-SHA256: 1a302d4855d3b6e6a73a6e800d0b366c96b7ec536fe1f0b8f39b2417c3b5f935
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
+Filename: ./debs/wechathookpro_0.3-5_iphoneos-arm.deb
+Size: 1373868
+MD5sum: 7714b1378340e0de72fcfa2b90c18c8f
+SHA1: 78f1387238b5ae0d52de408ec190df37540cf9c3
+SHA256: e81f3b5bea626de818128e51c2dabd50f28dd3cd2dc997eaa967385bbfa65743
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
 Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
