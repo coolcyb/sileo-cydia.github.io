@@ -122,15 +122,14 @@ Package: WeChatHookPro
 Version: 0.3-5
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: firmware (>= 5.0), mobilesubstrate
+Depends: firmware (>= 5.0)
 Conflicts: WeChatHookPro
 Filename: ./debs/wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1374232
-MD5sum: a32d6b3489f828f779a55e7cb596770e
-SHA1: 35a38d280fce01ee5d89dad047886f569e7e1d19
-SHA256: c8c335dd436fb00d2b96718a861934c3c57bdeafed34dc857dfe62d3b5690e90
+Size: 1374208
+MD5sum: f02ccfe768094bef8b5b55e9025bb750
+SHA1: e27ee9597f3e6c0b7c25b249e9a3b0854131f819
+SHA256: ab1609c6b20f945c88d5e17b8b1b8e88705bacb61bc564f23bfa24eb0e03bad2
 Section: Tweaks
-Priority: optional
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=WeChatHookPro
 Description: 增强微信,密友,抢红包,自动回复,斗图,修改步数,等等,慎用小心封号
 Author: admin@25mao.com
