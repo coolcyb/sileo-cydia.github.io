@@ -1295,6 +1295,26 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=hidebarx
 Name: HideBarX 「隐藏X指示器」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hidebarx.json
 
+Package: hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/hidebarx_0.0.4_iphoneos-arm.deb
+Size: 3840
+MD5sum: 4188607d917e1d1579e271dc702d68ef
+SHA1: 8dfc4d1ab9dcadd279c4362d5851bb9a5d4be3ae
+SHA256: 4fd7a53fa3f458b7be22ce4fcd888d10b8ede1e0f096784c2e79b1821de4c252
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=hidebarx
+Description: 安装后无设置.隐藏iphoneX,XR,XSMAX.下面的指示器横条
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=hidebarx
+Name: HideBarX「隐藏X指示器」
+Removes: com.spark.HidebarX
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hidebarx.json
+
 Package: hyperion
 Version: 0.3.3-4fix
 Architecture: iphoneos-arm
