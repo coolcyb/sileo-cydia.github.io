@@ -18,28 +18,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ChargeAnimations
 Name: ChargeAnimations「充电动画」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ChargeAnimations.json
 
-Package: Flex3beta
-Version: 1:3~Beta50
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Filename: ./debs/flex3beta_3~Beta50_iphoneos-arm.deb
-Size: 15304938
-MD5sum: 8e5595d3b9f85286f5840af8eb1e8a8c
-SHA1: 97d58edf15ca8a6645700653ccc18786c4c1f0e3
-SHA256: d7bc1262c6c6466adf1e31d3abb5700436c4c0520e68a83ee02497f5318d6e46
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=flex3
-Description: 去软件广告,或者去软件启动广告,禁用某些系统功能,等等
-Author: John Coates
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=flex3
-Icon: file:///Applications/Flex.app/AppIconBeta60x60@3x.png
-Name: Flex 3 Beta「强大的补丁平台」
-Recommended: com.modmyi.libswift4 (>= 4.0.3)
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/flex3.json
-
 Package: HomeGesture
 Version: 2.0.2
 Architecture: iphoneos-arm
@@ -1247,25 +1225,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=Flex3
 Name: Flex 3「强大的补丁平台」
 Recommended: com.rpetrich.rocketbootstrap
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/Flex3.json
-
-Package: flex3
-Version: 3~EarlyAccess4
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, com.repo.xarold.com.Flex3, Flex3beta, flex3featurecatalog
-Filename: ./debs/flex3_3~EarlyAccess4_iphoneos-arm.deb
-Size: 15158536
-MD5sum: d3e4ca9c1022578b04764f22c2ceddb2
-SHA1: 95f9730fb2fad2869de9aa1c692533cfbe84ac11
-SHA256: a1f47ab9bc85becb44c297e8f2222140788dbd34defd8f2a8511f84da46faaaa
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=flex3
-Description: 去软件广告,或者去软件启动广告,禁用某些系统功能,等等
-Author: John Coates
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=flex3
-Name: Flex 3「强大的补丁平台」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/flex3.json
 
 Package: floatingdock
 Version: 1.5.1
