@@ -1622,6 +1622,24 @@ Name: Activator「手势」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/libactivator.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: libbulletin
+Version: 0.1-145
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/libbulletin_0.1-145_iphoneos-arm.deb
+Size: 24332
+MD5sum: b0c6c30b61d16c1a0445463beb19a546
+SHA1: 5edbcc7bb94621b903b1a361543fb4b077b91677
+SHA256: bd78ac5a5c845aaf6cd984ed1a6e94d1724924ba67e7cff335c52612a33252d7
+Section: HYI - Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Description: 显示公告的简单依赖库
+Author: Elias Limneos
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Name: libbulletin
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+
 Package: libertylite
 Version: 0.2.11
 Architecture: iphoneos-arm
@@ -1702,12 +1720,12 @@ Package: maplebeta
 Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
-Depends: mobilesubstrate, com.hackyouriphone.libbulletin
+Depends: mobilesubstrate, com.hackyouriphone.libbulletin | libbulletin
 Filename: ./debs/maplebeta_0.0.3_iphoneos-arm.deb
-Size: 9597552
-MD5sum: acbe3a5b362b4cd9e17ab3e14dfaf306
-SHA1: ba1ef549563660f93e52125dae604f971162a81c
-SHA256: f068c2ccb4b9cf9ae9049da41c7fda68f2e870241ea3c82312834e194540a5e7
+Size: 9597540
+MD5sum: 10e7cd9e71681598393073aa1becd867
+SHA1: 43e2723efaf02b90a60f22fc6dd3ef4e3c24f2b6
+SHA256: 0205bd9cca322a89bda31f172704e3b776b09b474563cdaa66edfa605c5f1327
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=maplebeta
 Description: 为每台连接到iphone的设备显示在主屏上.
