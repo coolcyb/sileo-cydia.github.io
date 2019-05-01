@@ -1,8 +1,8 @@
 #!/bin/sh
 标题
-perl -p -i -e "s/852359/插件的依赖文件/g"  cydia副本 sileo副本.json
+perl -p -i -e "s/852359/PPYY「开启面容指纹支付」/g"  cydia副本 sileo副本.json
 #描述
-perl -p -i -e "s/852360/卸载需谨慎,查看卸载的相关附属插件关系,上传依赖文件只是为小白提供更方便的插件支持.有问题联系qq群77148984./g"  cydia副本 sileo副本.json
+perl -p -i -e "s/852360/开启指纹或者面容支付,可能个别app会出现闪退或者无法加载的情况.有问题联系qq群77148984.2019-05-01更新支持A12./g"  cydia副本 sileo副本.json
 #支持系统
 perl -p -i -e "s/852362/ios:11-12/g"  cydia副本 sileo副本.json
 #更新时间
@@ -15,8 +15,8 @@ perl -p -i -e "s/4.png/4.png/g"   sileo副本.json
 perl -p -i -e "s/ipX.gif/ipX.gif/g"  cydia副本
 
 
-mv cydia副本 ylwj
-mv sileo副本.json ylwj.json
+mv cydia副本 ppyy
+mv sileo副本.json ppyy.json
 
 
 cp cydia样本 cydia副本

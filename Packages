@@ -2205,6 +2205,23 @@ Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Name: PowerSelector「软重启」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/powerselector11.json
 
+Package: ppyy
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ppyy_1.0-3_iphoneos-arm.deb
+Size: 565980
+MD5sum: c4238bf37c2b20f80f7f80c4c82c1644
+SHA1: 9170c180ceb615fcc536a0c15544dda84698f901
+SHA256: 122a305398bf23bc1f24484fb5198690d3c91590a4e094a3088f1671f397db56
+Section: Tweaks
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ppyy
+Name: PPYY「开启面容指纹支付」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ppyy.json
+　homepage: https://sileo-cydia.github.io/ms/description.html?id=ppyy
+
 Package: preferenceloader
 Version: 2.2.4~alpha1
 Architecture: iphoneos-arm
