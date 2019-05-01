@@ -2050,6 +2050,20 @@ Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
 Name: NtSpeed「虚浮网速」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ntspeed.json
 
+Package: otablocker
+Version: 0.2a
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Filename: ./debs/otablocker_0.2a_iphoneos-arm.deb
+Size: 4200
+MD5sum: e6a701080c763c3fb4cad4ad4814cf73
+SHA1: 09f3aecf66e243c87341d5458a6e116fcdb441bf
+SHA256: 00cf318817fedd0dfce3a0eaaae10ecc5ebbb9d910bdad9fdca4fbc2913f3b27
+Section: Tweaks
+Description: 去掉设置里面烦人的小红点.支持A12
+Author: julioverne
+Name: 设置去更新红点
+
 Package: palette
 Version: 1.1.1
 Architecture: iphoneos-arm
