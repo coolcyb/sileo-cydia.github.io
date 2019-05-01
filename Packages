@@ -851,6 +851,28 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown「增强cydia」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cydown.json
 
+Package: darkkeysxii
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 50
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/darkkeysxii_1.0.1_iphoneos-arm.deb
+Size: 2656
+MD5sum: 9328d5905d1abace5fa7f2ae0895b87a
+SHA1: 9a79425363489ce727fefb627c649528f7bcaf7a
+SHA256: e7081e3e0409a82c7ef20326b10069a484fcf6d2773460e49ecd4e5c5956e0a4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=darkkeysxii
+Description: iphone自带键盘的全黑模式
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Patrick and Ultra <vysionnetwork@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=darkkeysxii
+Dev: vysionnetwork
+Name: DarkKeysXII「黑色键盘」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/darkkeysxii.json
+Sponsor: 他是个疯子
+
 Package: datameter
 Version: 1.4-3
 Architecture: iphoneos-arm
