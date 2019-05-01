@@ -2084,6 +2084,25 @@ Icon: file:///Library/PreferenceBundles/Palette.bundle/palette@2x.png
 Name: Palette「多彩通知」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/palette.json
 
+Package: pencilchargingindicator
+Version: 1.2~b6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/pencilchargingindicator_1.2~b6_iphoneos-arm.deb
+Size: 377028
+MD5sum: a3df96dd32017edfb09dea61d12c12a2
+SHA1: cec2ccac1a74a77464d77f3f9fa5f39460ff771b
+SHA256: 19c4e27d2f6076e30cc3b83516b17f0a9203d8d19ef1e4072c92df0b2c0b6bbd
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=pencilchargingindicator
+Description: 充电动画特效
+Author: shiftcmdk
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=pencilchargingindicator
+Name: PencilChargingIndicator
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/pencilchargingindicator.json
+
 Package: perfecttimex
 Version: 1.3.3-3
 Architecture: iphoneos-arm
