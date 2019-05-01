@@ -1061,17 +1061,17 @@ Maintainer: 他是个疯子
 Installed-Size: 1204
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
 Filename: ./debs/eclipse12_6.1_iphoneos-arm.deb
-Size: 627240
-MD5sum: 7417c1e27bf08cad0c4cfabc7aeee609
-SHA1: b7a956bb3351d64d4ad66b61e87ed294fb0a2ae0
-SHA256: f5912934ee6b2029cf04b0293c45bf6589ba4231f48172d4fcbd0590cf4d94e4
+Size: 627248
+MD5sum: 211fcf6dd1ffcffedec97ff2ac7ec185
+SHA1: a0c781050045673fe0380f3d551141345c756293
+SHA256: 242602cdee3a4c9a1725cbbf969a1d460f76760cbc99fdfa61edacf257b71b15
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=eclipse12
 Description: 全局软件界面的黑色调整汉化版
 Author: Guillermo Morán (fr0st)
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=eclipse12
 Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@3x.png
-Name: Eclipse12「暗黑模式」
+Name: Eclipse Dark Mode「暗黑模式」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/eclipse12.json
 
 Package: eclipsex
@@ -3090,6 +3090,26 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=undertime
 Icon: file:///Library/PreferenceBundles/UnderTime.bundle/icon@2x.png
 Name: UnderTime「通知栏日期」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/undertime.json
+
+Package: unsub
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 544
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.inoahdev.launchinsafemode
+Filename: ./debs/unsub_0.1.2_iphoneos-arm.deb
+Size: 18628
+MD5sum: 8a08bbb60b5c9ad471131d29f870f214
+SHA1: 57a853e0db72d226b33de317b317925c530fe9df
+SHA256: 0c57cdc19c9cdf95b4c14e3d19fb063a06aace01aada5987a66ba3d0775bd610
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=unsub
+Description: 屏蔽越狱检测
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=unsub
+Name: UnSub「屏蔽越狱检测」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/unsub.json
 
 Package: voicechangerx
 Version: 0.1-16
