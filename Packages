@@ -242,6 +242,25 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=autounlockx
 Name: AutoUnlockX「面容快速解锁」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autounlockx.json
 
+Package: autounlockx
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/autounlockx_1.0.4_iphoneos-arm.deb
+Size: 59816
+MD5sum: f4f3e388c69020e76b95ba4a7ee4a2f2
+SHA1: d124795689f0e083bb43bc9887deb2f40ae1d06f
+SHA256: a9875d7917f309bfbc5b02577740ea1372fa0a4f41744ba52781f3c4c13ea145
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=autounlockx
+Description: 亮屏后快速的解锁你的面容
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=autounlockx
+Name: AutoUnlockX「面容快速解锁」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/autounlockx.json
+
 Package: backhosts
 Version: 1.1
 Architecture: iphoneos-arm
@@ -933,6 +952,27 @@ Author: AhmedBafkir <prooxy0@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=dleasy
 Name: DLEasy「下载视频图片」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/dleasy.json
+
+Package: doubletaplock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/doubletaplock_1.0.1_iphoneos-arm.deb
+Size: 33000
+MD5sum: a6de76ba8bf3bcd490be3d040da212b7
+SHA1: 31c26e7972ef27b275a8eca5fd1448f5ea54c044
+SHA256: 93f0757c92a9250dd1dfed37b21e313ff435b21ff75cb4eb2eba2b4ba90993b3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=doubletaplock
+Description: 双击屏幕空白处快速锁屏
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=doubletaplock
+Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
+Name: DoubleTapLock「双击锁屏」
+Removes: com.spark.DoubleTapLock
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/doubletaplock.json
 
 Package: easyaccess
 Version: 0.0.5
