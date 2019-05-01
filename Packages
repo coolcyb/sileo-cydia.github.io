@@ -1054,6 +1054,26 @@ Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@3x.png
 Name: Eclipse12「暗黑模式」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/eclipse12.json
 
+Package: eclipse12
+Version: 6.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1204
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/eclipse12_6.1_iphoneos-arm.deb
+Size: 627240
+MD5sum: 7417c1e27bf08cad0c4cfabc7aeee609
+SHA1: b7a956bb3351d64d4ad66b61e87ed294fb0a2ae0
+SHA256: f5912934ee6b2029cf04b0293c45bf6589ba4231f48172d4fcbd0590cf4d94e4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=eclipse12
+Description: 全局软件界面的黑色调整汉化版
+Author: Guillermo Morán (fr0st)
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=eclipse12
+Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@3x.png
+Name: Eclipse12「暗黑模式」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/eclipse12.json
+
 Package: eclipsex
 Version: 5.1.8
 Architecture: iphoneos-arm
@@ -1712,11 +1732,11 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Depends: mobilesubstrate
 Filename: ./debs/libbulletin_0.1-145_iphoneos-arm.deb
-Size: 24332
-MD5sum: b0c6c30b61d16c1a0445463beb19a546
-SHA1: 5edbcc7bb94621b903b1a361543fb4b077b91677
-SHA256: bd78ac5a5c845aaf6cd984ed1a6e94d1724924ba67e7cff335c52612a33252d7
-Section: HYI - Tweaks
+Size: 24352
+MD5sum: 8a13b43d34c0a7648d46a5c53eb473a7
+SHA1: 37d61a1ee1b22e826de819568b760a840cb1d2de
+SHA256: 6ae4816f8528abf4dbaa1a3a7fdf5b9068dfbe29d3b2c5a29a513d4e486ecdb3
+Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
 Description: 显示公告的简单依赖库
 Author: Elias Limneos
