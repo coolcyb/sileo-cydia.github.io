@@ -13,7 +13,7 @@ perl -p -i -e "s/1.png/boxy31.png/g"   sileo副本.json
 perl -p -i -e "s/2.png/boxy32.png/g"   sileo副本.json
 perl -p -i -e "s/3.png/boxy31.png/g"   sileo副本.json
 perl -p -i -e "s/4.png/boxy32.png/g"   sileo副本.json
-perl -p -i -e "s/ipX.gif/boxy31.png/g"  cydia副本
+perl -p -i -e "s/ipX.gif/1.png/g"  cydia副本
 
 
 mv cydia副本 boxy3
