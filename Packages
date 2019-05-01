@@ -1409,25 +1409,6 @@ Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
 Name: FloatingDockPlus「ipa分屏dock」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
 
-Package: floatingdockplus
-Version: 1.3.3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
-Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
-Filename: ./debs/floatingdockplus_1.3.3_iphoneos-arm.deb
-Size: 59696
-MD5sum: fd1386e595029bb50cb52acb832156ff
-SHA1: d794669a9d797d2f212f51561c9349b77b167cda
-SHA256: 988e3720235f5edefeeea94d3052cb2cdbfdba4d0038d6fdfcc4e29a9466711f
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
-Description: 像ipad一样的dock栏,还可以分屏
-Author: P2KDev <repo@hackyouriphone.org>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
-Name: FloatingDockPlus「悬浮dock分屏」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
-
 Package: gesturex
 Version: 1.0.2
 Architecture: iphoneos-arm
