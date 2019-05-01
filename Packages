@@ -626,27 +626,6 @@ Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPrefe
 Name: CallBarXS「ios12迷你通话横幅」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarx.json
 
-Package: callbarxs
-Version: 2.2-5
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Installed-Size: 788
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
-Replaces: net.limneos.callbarxs
-Filename: ./debs/callbarxs_2.2-5_iphoneos-arm.deb
-Size: 211240
-MD5sum: 5a889d7bfae952a1d00cf7ae7a2dfa52
-SHA1: ca9143d4f4209a74190b7faef1e62ff593e77001
-SHA256: df95ce7c04d537e1321dd5b759cb26142bc1db8187301de5a259f1d004c48395
-Section: Tweaks
-Homepage: http://pulandres.rejail.ru/pack/callbarxs
-Description: Change style of your calls
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://pulandres.rejail.ru/depiction.php?file=callbarxs
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Name: CallBarXS「迷你通话」
-
 Package: ccvpn
 Version: 1.0
 Architecture: iphoneos-arm
