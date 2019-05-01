@@ -1213,18 +1213,18 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debs/flex3_3~Beta62_iphoneos-arm.deb
-Size: 15438232
-MD5sum: 9065007edf634dc67bb77eed6648879d
-SHA1: 99d3fcd59936a07ee30aeac1d287c918beeec1ac
-SHA256: 1992981b958b4bb143484f32d1d8e329e63495bfad6da155232354edba001362
+Size: 15438240
+MD5sum: 9cee0593aee076912cf89fe04e4824ed
+SHA1: d1df85a08a96e0a27ff95e4d744ea46ed11df199
+SHA256: ebc5d4e6d4a46723149b99ec3a0b9b80fb6b1b03659b413941ead6c8d5fe7698
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=Flex3
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=flex3
 Description: 去软件广告,或者去软件启动广告,禁用某些系统功能,等等
 Author: John Coates
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=Flex3
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=flex3
 Name: Flex 3「强大的补丁平台」
 Recommended: com.rpetrich.rocketbootstrap
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/Flex3.json
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/flex3.json
 
 Package: floatingdock
 Version: 1.5.1
