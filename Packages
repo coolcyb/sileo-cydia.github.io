@@ -400,6 +400,28 @@ Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
 Name: Bazzi「百分比电池」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
 
+Package: bazzi
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 296
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debs/bazzi_2.0.5_iphoneos-arm.deb
+Size: 33928
+MD5sum: e62447d5dfc5da115e9d400709d90c34
+SHA1: a07cbf81c210a4e2e69e99d3039bc84fd85d0b35
+SHA256: 982c1c0fb924e7e314ba5d9c5240bdae06d7c19f1f54a6ffc6f8c3a8848311c0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Description: 通知栏显示百分比电池图标,汉化版
+Author: NeinZedd9
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
+Name: Bazzi「百分比电池」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
+
 Package: bettercciconspro
 Version: 1.7.3
 Architecture: iphoneos-arm
