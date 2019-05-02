@@ -2501,22 +2501,43 @@ Name: PencilChargingIndicator
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/pencilchargingindicator.json
 
 Package: perfecttimex
-Version: 1.3.3-3
+Version: 0.2.0-1
 Architecture: iphoneos-arm
-Maintainer: HuChundong
+Maintainer: 他是个疯子
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/perfecttimex_1.3.3-3_iphoneos-arm.deb
-Size: 75532
-MD5sum: cf307a9e0d73a7472f055a35dcb586f5
-SHA1: ae8e004ebda88a910cef875a734150473211db9a
-SHA256: 6780a8813a7c7bad8ccd31a2dc8ba97a49d99695a9d4ac4a9aa5c43a84cb012f
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Filename: ./debs/perfecttimex_0.2.0-1_iphoneos-arm.deb
+Size: 63728
+MD5sum: 65e87fa6f1b13b06d42192852278a6fc
+SHA1: 587bedb503025a2ce698cbb9a6cab72caf8bf470
+SHA256: 56cc55a8ee9d95b146e02ea878e40666d124459baedebb0ef81f91dab37f680d
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
 Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
 Author: HuChundong
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
 Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
-Name: PerfectTimeX「通知栏时间日期」
+Name: PerfectTimeXS「通知栏时间日期」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
+
+Package: perfecttimexs
+Version: 0.2.0-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Filename: ./debs/perfecttimexs_0.2.0-1_iphoneos-arm.deb
+Size: 63732
+MD5sum: f28868e8a8449a3d1061c9d6ff0f909d
+SHA1: 724d2f6a11356957abf64d2cfbda5360b9004e7b
+SHA256: 740df0d0a20f7212393c6c2c0a0e07f082a89b96d3b893389538a5024d50b4d2
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
+Author: HuChundong
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
+Name: PerfectTimeXS「通知栏时间日期」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
 
 Package: powerselector11
