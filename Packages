@@ -1341,6 +1341,21 @@ Icon: file:///Library/PreferenceBundles/FastUnlockX.bundle/images/FastUnlockX@2x
 Name: FastUnlockX「X面容快速解锁」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/fastunlockx.json
 
+Package: fengzi.sna1pper2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/fengzi.sna1pper2_2.1_iphoneos-arm.deb
+Size: 245456
+MD5sum: da42df317a6c9e601fd1d118b2b458e9
+SHA1: 71ae7623784f9ecbda1fa60badb10a3d5274c5ce
+SHA256: 9a0bc0f75a027ba2d3331ef2f8915cff9d1e975a3fd857d051ad0e200c483957
+Section: Tweaks
+Description: 高级截图.自定义截图
+Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
+Name: Snapper2「智能截图破解版」
+
 Package: fengzi.snapper2
 Version: 2.1
 Architecture: iphoneos-arm
