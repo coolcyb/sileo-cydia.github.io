@@ -1401,26 +1401,6 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager「破解版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
 
-Package: fengziboy.filza
-Version: 3.6.5-4
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, cydia.kiiimo.org.filza64bit
-Filename: ./debs/fengziboy.filza_3.6.5-4_iphoneos-arm.deb
-Size: 9956428
-MD5sum: 49bd04f719db77be910d6f40c89ebdd7
-SHA1: 5fc822604d9a3bf2e82a7628842abaeb05b2042c
-SHA256: 68c6b946385bf0fc4fc4a3dc66fd513e1a1c8886337450e3bc2a92457dbc667b
-Section: Utilities
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=fengziboy.filza
-Description: 文件管理器破解版
-Author: TIGI Software <repo@hackyouriphone.org>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=fengziboy.filza
-Icon: file:///Applications/Filza.app/AppIcon57x57.png
-Name: Filza File Manager「破解版」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/fengziboy.filza.json
-
 Package: filza
 Version: 3.6.2-9
 Architecture: iphoneos-arm
