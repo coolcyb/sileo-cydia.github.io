@@ -8,11 +8,11 @@ perl -p -i -e "s/1.0.0/0.7-4/g"  cydia副本 sileo副本.json
 perl -p -i -e "s/2019-01-21/2019-05-03/g"  sileo副本.json
 perl -p -i -e "s/暂时没有历史版本/2019-05-02更新支持A12/g"  cydia副本
 #截图
-perl -p -i -e "s/1.png/1.png/g"   sileo副本.json
-perl -p -i -e "s/2.png/2.png/g"   sileo副本.json
-perl -p -i -e "s/3.png/3.png/g"   sileo副本.json
-perl -p -i -e "s/4.png/4.png/g"   sileo副本.json
-perl -p -i -e "s/ipX.gif/ipX.gif/g"  cydia副本
+#perl -p -i -e "s/1.png/appstoreplusplus1.png/g"   sileo副本.json
+#perl -p -i -e "s/2.png/appstoreplusplus2.png/g"   sileo副本.json
+#perl -p -i -e "s/3.png/appstoreplusplus1.png/g"   sileo副本.json
+#perl -p -i -e "s/4.png/appstoreplusplus2.png/g"   sileo副本.json
+#perl -p -i -e "s/ipX.gif/appstoreplusplus1.png/g"  cydia副本
 mv cydia副本 appstoreplusplus
 mv sileo副本.json appstoreplusplus.json
 
