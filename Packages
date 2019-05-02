@@ -1345,16 +1345,21 @@ Package: fengzi.sna1pper2
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 920
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: ./debs/fengzi.sna1pper2_2.1_iphoneos-arm.deb
-Size: 245456
-MD5sum: da42df317a6c9e601fd1d118b2b458e9
-SHA1: 71ae7623784f9ecbda1fa60badb10a3d5274c5ce
-SHA256: 9a0bc0f75a027ba2d3331ef2f8915cff9d1e975a3fd857d051ad0e200c483957
+Size: 245580
+MD5sum: db22d3003dd6cd0e2ee153de3d0a14b0
+SHA1: a44a3b9c8299e569bd797d1d51f1e273554559e5
+SHA256: cbbeb540257399a0a3229184ca0a664d43dc55974e38d645dccd9cd4f50e8e8a
 Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
 Description: 高级截图.自定义截图
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
 Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
 Name: Snapper2「智能截图破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
 
 Package: fengzi.snapper2
 Version: 2.1
