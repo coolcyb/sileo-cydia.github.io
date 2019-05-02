@@ -2,7 +2,7 @@
 标题
 perl -p -i -e "s/852359/LocationService「定位开关」/g"  cydia副本 sileo副本.json
 #描述
-perl -p -i -e "s/852360/从控制中心打开/关闭.定位开关.设置方法:打开手机设置——控制中心——添加相关开关./g"  cydia副本 sileo副本.json
+perl -p -i -e "s/852360/从控制中心打开-关闭.定位开关.设置方法:打开手机设置——控制中心——添加相关开关./g"  cydia副本 sileo副本.json
 #支持系统
 perl -p -i -e "s/852362/IOS:11-12/g"  cydia副本 sileo副本.json
 #更新时间
