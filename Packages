@@ -1408,10 +1408,10 @@ Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, cydia.kiiimo.org.filza64bit
 Filename: ./debs/fengziboy.filza_3.6.5-4_iphoneos-arm.deb
-Size: 15537672
-MD5sum: 8e4cc43dcae55aa4cb661e8d109616f2
-SHA1: 7f905c929f7bd5b7266f265c6c37a5f9572384d3
-SHA256: 7a97ee10f5556ad86833cd3d49f13dcbfcbfc28af52761b84c5a514bafe877c7
+Size: 9956428
+MD5sum: 49bd04f719db77be910d6f40c89ebdd7
+SHA1: 5fc822604d9a3bf2e82a7628842abaeb05b2042c
+SHA256: 68c6b946385bf0fc4fc4a3dc66fd513e1a1c8886337450e3bc2a92457dbc667b
 Section: Utilities
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=fengziboy.filza
 Description: 文件管理器破解版
