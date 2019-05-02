@@ -1092,6 +1092,25 @@ Name: DoubleTapLock「双击锁屏」
 Removes: com.spark.DoubleTapLock
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/doubletaplock.json
 
+Package: doubletaptowake
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/doubletaptowake_1.0.1_iphoneos-arm.deb
+Size: 5656
+MD5sum: d0489876f97930093ee8f323b0b08485
+SHA1: 7a8dc0580a7f233ee9c5e282244f6f44c590b45e
+SHA256: fc6d19cf6466e404ed4e2ebdbaff856e615a3b5160ac902443201e107e3be2fd
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=doubletaptowake
+Description: 经常吵醒你的电话？在iPhoneX上双击可唤醒，而不是点击可唤醒。
+Author: AppleBetas
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=doubletaptowake
+Name: DoubleTapToWake「双击唤醒」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/doubletaptowake.json
+
 Package: dune
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1360,23 +1379,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
 Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
 Name: Snapper2「智能截图破解版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
-
-Package: fengzi.snapper2
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/fengzi.snapper2_2.1_iphoneos-arm.deb
-Size: 245556
-MD5sum: 6c29adb13b64bf4203d2b7fca793c78f
-SHA1: f4b043f19b6fde5016149add8e305ffd8828df77
-SHA256: 2a5dfd8fc752ea70c5199d37bce1067178b595e962262d002b96a3eb518da7c0
-Section: Tweaks
-Description: 高级截图.自定义截图
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
-Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
-Name: Snapper2「智能截图破解版」
 
 Package: fengziboy.filza
 Version: 3.5.2-4k
