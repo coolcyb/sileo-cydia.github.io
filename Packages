@@ -1688,12 +1688,13 @@ Package: killx
 Version: 0.1.1-beta
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
+Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/killx_0.1.1-beta_iphoneos-arm.deb
-Size: 6268
-MD5sum: 780b4345e9082ad20ae4ea014d28b238
-SHA1: ab5e555f030e01a245dfbbcc422898c7b27314aa
-SHA256: a46029ec61536fc14d0dc772a9799cf5e5c1ba6ad65141f45276f02ea29d5b2b
+Size: 6308
+MD5sum: 840b118bbcb637b61e9c47961a4432c3
+SHA1: 0793bf46468d186a829189d7f820d754d6ec7838
+SHA256: 4f85278a738692360608234b3b97c5dac86698c0624d1bfe29ae7a95e4351bed
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=killx
 Description: 开启后台卡片切换界面向下拉清理所有后台程序
