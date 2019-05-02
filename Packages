@@ -2523,28 +2523,6 @@ Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision「签名ipa」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
 
-Package: reprovision
-Version: 0.4.2-1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/reprovision_0.4.2-1_iphoneos-arm.deb
-Size: 9927408
-MD5sum: 6146514bd1ae00a57bcfd39014e1e9eb
-SHA1: 3eb6ae3cc3cddfb4af825d18859fc3edf91b019b
-SHA256: be76d5ee986bda4b282dd6905a3c95a73c677f139c5fce052f0ebb88c815c8bc
-Section: System
-Priority: optional
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
-Description: 手机端签名ipa工具.
-Author: Matt Clarke
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=reprovision
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision「签名ipa汉化版」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
-
 Package: ru.rejail.icleanerpatch
 Version: 1.0
 Architecture: iphoneos-arm
