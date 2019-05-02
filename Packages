@@ -378,6 +378,26 @@ Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
 Name: BatteryPercentX 「电池百分比」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
 
+Package: batterypercentx
+Version: 1.3.7-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/batterypercentx_1.3.7-1_iphoneos-arm.deb
+Size: 127116
+MD5sum: 12bd61b2048fff3904c7a37b2f44a9e8
+SHA1: d37ec154f68f44db6c31849faf432f357e2c8296
+SHA256: 5afdb98d9b6ae5afc5e35cce93e64821cd8b44a3a179808841406b0f75bb8493
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Description: 打开 iPhone X通知栏电池百分比
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
+Name: BatteryPercentX 「电池百分比汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
+
 Package: batterypercentx.cn
 Version: 1.3.5-2
 Architecture: iphoneos-arm
@@ -751,6 +771,24 @@ Name: ClearBadges3DTouch10
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/clearbadges3dtouch10.json
 Sponsor: 他是个疯子
 
+Package: colorboard
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate
+Filename: ./debs/colorboard_0.0.4_iphoneos-arm.deb
+Size: 4692
+MD5sum: b519cbc3f1e8c63bf16fa959bf15ab0b
+SHA1: 24d38c002e63175ffdd1475e5433d9c074d76126
+SHA256: 61dd29db48c902287d6782a8ba0166c0a79301052fd8d9e9fe42ca0d1952bc16
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorboard
+Description: 键盘颜色跟随app自动变化.安装即用,无设置
+Author: Guillermo Moran
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorboard
+Name: ColorBoard「键盘自动变色」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorboard.json
+
 Package: com.a3tweaks.flipswitch
 Version: 1.0.16~beta3
 Architecture: iphoneos-arm
@@ -1015,6 +1053,24 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=dleasy
 Name: DLEasy「下载视频图片」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/dleasy.json
 
+Package: dleasy
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/dleasy_1.5.2_iphoneos-arm.deb
+Size: 776140
+MD5sum: ee5a25f2e4a6d41373d4bcfe3ac6d0ef
+SHA1: c168ae9ffc5033ca69b711c6adf19f71efd20d03
+SHA256: cf51583621603f53677eafdd2652c603aaf7bd03132998aa21aa4cf84ecca52b
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=dleasy
+Description: 从社交应用程序轻松下载图片和视频！
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=dleasy
+Name: DLEasy「下载神器」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/dleasy.json
+
 Package: doubletaplock
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1035,6 +1091,24 @@ Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
 Name: DoubleTapLock「双击锁屏」
 Removes: com.spark.DoubleTapLock
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/doubletaplock.json
+
+Package: dune
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/dune_1.0.1_iphoneos-arm.deb
+Size: 32548
+MD5sum: ec8fba98ec08813727a9068b8174fea3
+SHA1: 77c012f4c0b79dcf86759f1f9b5f62818be73861
+SHA256: 6861f7c1b50bd9e2e6becb5559c8b73deb1920b3549803a168fc4f6cebdc4c9d
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=dune
+Description: 微透的暗黑模式
+Author: Skitty
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=dune
+Name: Dune「暗黑模式」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/dune.json
 
 Package: easyaccess
 Version: 0.0.5
@@ -1307,6 +1381,26 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager「破解版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/filza.json
 
+Package: fengziboy.filza
+Version: 3.6.5-4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, cydia.kiiimo.org.filza64bit
+Filename: ./debs/fengziboy.filza_3.6.5-4_iphoneos-arm.deb
+Size: 15537672
+MD5sum: 8e4cc43dcae55aa4cb661e8d109616f2
+SHA1: 7f905c929f7bd5b7266f265c6c37a5f9572384d3
+SHA256: 7a97ee10f5556ad86833cd3d49f13dcbfcbfc28af52761b84c5a514bafe877c7
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=fengziboy.filza
+Description: 文件管理器破解版
+Author: TIGI Software <repo@hackyouriphone.org>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=fengziboy.filza
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager「破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/fengziboy.filza.json
+
 Package: filza
 Version: 3.6.2-9
 Architecture: iphoneos-arm
@@ -1556,6 +1650,25 @@ Size: 1994532
 MD5sum: 751b89ef5d8809f978e34c782e8c4128
 SHA1: 2a1a72d2f9025e7fd7a779a0d7197435aacd431f
 SHA256: 065f1e9981e4f3442cefff7cc4bb4b13bf583294a51749e635cf381c15b00100
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion
+Description: 惊人的通知动画
+Author: SparkDev
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion
+Name: Hyperion「通知动画」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.json
+
+Package: hyperion
+Version: 0.4.11-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 3916
+Depends: mobilesubstrate, preferenceloader, com.hackyouriphone.libcolorpicker | libcolorpicker
+Filename: ./debs/hyperion_0.4.11-1_iphoneos-arm.deb
+Size: 1909136
+MD5sum: 8feb84c52141b2b6c304cd7c464cb4a0
+SHA1: 82e37013c57043986490194f2eef0be92acc3a91
+SHA256: 79c4577d3e271db62e3dc3c66140e68e691ccb9dc724e3c7100e69e3884dcc4a
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion
 Description: 惊人的通知动画
@@ -2001,6 +2114,27 @@ Icon: file:///Library/PreferenceBundles/Melior.bundle/icon@3x.png
 Name: Melior[迷你音量]
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/melior.json
 
+Package: melior
+Version: 1.0.9-6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 840
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/melior_1.0.9-6_iphoneos-arm.deb
+Size: 159288
+MD5sum: f5391b9277372c17d26aeb1d35a24fd1
+SHA1: 7a80b775263f0ad8ac16ec85ba0f069c25b015fb
+SHA256: 571b5a2b6db2e434f02a7cb78a88ccdd17bc3afcdc612c1934ebd20660006b49
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=melior
+Description: 使调节音量的窗口变的更小
+Author: Spark & Dennis Bednarz
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=melior
+Icon: file:///Library/PreferenceBundles/Melior.bundle/icon@3x.png
+Name: Melior[迷你音量]
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/melior.json
+
 Package: midevice
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm
@@ -2251,6 +2385,26 @@ Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifica
 Description: 自定义通知的颜色
 Author: Nepeta
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifica
+Name: Notifica「美化通知」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifica.json
+
+Package: notifica
+Version: 0.2.8-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, com.hackyouriphone.libcolorpickerarm64, ws.hbang.common (>= 1.11), com.hackyouriphone.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi, com.hackyouriphone.modernxi
+Filename: ./debs/notifica_0.2.8-1_iphoneos-arm.deb
+Size: 390376
+MD5sum: 10e769750377c02bc07335865fb914a8
+SHA1: 835d768929bfb3585a086893531d57c9702e9704
+SHA256: 819a819aaffe332b95e07785f03a9e028a33d02577164e2350295039e16474d8
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifica
+Description: 自定义通知的颜色
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifica
+Icon: file:///Library/PreferenceBundles/NotificaPrefs.bundle/icon@2x.png
 Name: Notifica「美化通知」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifica.json
 
@@ -2646,6 +2800,25 @@ Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x
 Name: ScreenRecorderForcedAudio「开启音频拾取」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/screenrecorderforcedaudio.json
 
+Package: selector
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/selector_0.1.2_iphoneos-arm.deb
+Size: 30156
+MD5sum: 2cb421aa8a2afce5b0efd8a6eef18fbc
+SHA1: fa930703fc16615e115e17b2b1bf8a44fae03c03
+SHA256: c108bae043f62f924138cdb9048953037a7f7a4d4b1a8284538cc247c443a6e7
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=selector
+Description: 长按来翻译相关内容
+Author: Nepeta
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=selector
+Icon: file:///Library/PreferenceBundles/SelectorPrefs.bundle/icon@2x.png
+Name: Selector「快捷翻译」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/selector.json
+
 Package: settings+
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -2887,6 +3060,30 @@ Size: 216826
 MD5sum: 1779bd10430e27684f3174ddbff218a0
 SHA1: 96dddf045e979d31d7dffffc8616f03f1aa3ca1f
 SHA256: 98715c5cac0ae090098daf34dc581d069ffa46d5ae3b9bd8676797e5a9677dbd
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Description: 高级截图.自定义截图
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Dev: jontelang
+Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
+Name: Snapper 2「智能截图」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
+Sponsor: 他是个疯子
+
+Package: snapper2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 920
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: snapper
+Filename: ./debs/snapper2_2.0_iphoneos-arm.deb
+Size: 214796
+MD5sum: b99ac6217dfd2e07a3a364341eb6ef34
+SHA1: bb82c2e0ec855f1c1d4acc75a1f3707585d5d0bd
+SHA256: afad7762f80c1c06cedfe840f704328232d3dab7b1b2f670ab09c2a744206d56
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
 Description: 高级截图.自定义截图
