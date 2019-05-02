@@ -771,6 +771,26 @@ Name: ClearBadges3DTouch10
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/clearbadges3dtouch10.json
 Sponsor: 他是个疯子
 
+Package: colorbanners2
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.hackyouriphone.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
+Filename: ./debs/colorbanners2_1.2.3_iphoneos-arm.deb
+Size: 664496
+MD5sum: 29707d1e41fd2a14c076dbf3c29d1b55
+SHA1: f9dba8522a3e553116018bdcb4a32fa5f6a7a588
+SHA256: fbeda4297324da2ca2cb118a0cf999a8143290cd073e52a8147bb89aba4bb8a6
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorbanners2
+Description: 自定义通知的颜色
+Author: David Goldman <repo@hackyouriphone.org>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorbanners2
+Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@3x.png
+Name: ColorBanners2「多彩通知」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorbanners2.json
+
 Package: colorboard
 Version: 0.0.4
 Architecture: iphoneos-arm
