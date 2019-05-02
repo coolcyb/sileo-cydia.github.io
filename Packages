@@ -1703,6 +1703,25 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=killx
 Name: KillX「快速关闭所有后台」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/killx.json
 
+Package: killx
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/killx_0.1.2_iphoneos-arm.deb
+Size: 4956
+MD5sum: 306922b43137e40288002b51754a0910
+SHA1: d629ed916b9eba75ed4d9e029e87cf6601dfc638
+SHA256: a5ad8d3fb9116e4bb5b36af6d8ccafdf8164d5f53103b36744b089d4db8e56f8
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=killx
+Description: 开启后台卡片切换界面向下拉清理所有后台程序
+Author: Cem K
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=killx
+Name: KillX「快速关闭所有后台」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/killx.json
+
 Package: launchtron
 Version: 0.1.1
 Architecture: iphoneos-arm
