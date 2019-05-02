@@ -117,6 +117,26 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=apppercent
 Name: App Percent「显示app安装百分比」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/apppercent.json
 
+Package: appstoreplusplus
+Version: 0.7-4
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Filename: ./debs/appstoreplusplus_0.7-4_iphoneos-arm.deb
+Size: 779872
+MD5sum: 10d3769ad416ae2bfc4ed9a6da706052
+SHA1: f49b0c25d3d445232cf4bf739f2d6ccb68020c50
+SHA256: 0d509efe5eb169d4b8662abc23bb71e2ce6c69a34ef99d647ad404bd9c2240d5
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=appstoreplusplus
+Description: 降级appstore的app软件
+Author: CokePokes
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=appstoreplusplus
+Name: AppStore++「应用降级」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/appstoreplusplus.json
+
 Package: appsyncunified
 Version: 32.0
 Architecture: iphoneos-arm
