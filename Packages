@@ -1345,25 +1345,19 @@ Package: fengzi.snapper2
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
-Installed-Size: 920
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Conflicts: snapper
 Filename: ./debs/fengzi.snapper2_2.1_iphoneos-arm.deb
-Size: 245656
-MD5sum: a1f2cc26f80c5a4fae8d05b195e721db
-SHA1: 84f3c68125b16d69a86cb96f6216b5a2a170f71e
-SHA256: 5c911e10f71e10fabf61c5eb52347dcc62a251583ed5a17208a41753deb4cae3
+Size: 245568
+MD5sum: d15941c25dac77438f8476eb5174bccd
+SHA1: f92b604a65ae032d98fc7358ea36c3b5845e28a8
+SHA256: faaddab7745c4daae3d212c16873b73d4be716be2ed2f070cda36675341c87e0
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
 Description: 高级截图.自定义截图
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-Author: Jonathan Winger Lang <jontelang@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
-Dev: jontelang
 Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
-Name: Snapper 2「智能截图」
+Name: Snapper2「智能截图」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
-Sponsor: 他是个疯子
 
 Package: fengziboy.filza
 Version: 3.5.2-4k
@@ -2484,26 +2478,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=pencilchargingin
 Name: PencilChargingIndicator
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/pencilchargingindicator.json
 
-Package: perfecttimex
-Version: 0.2.0-1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
-Filename: ./debs/perfecttimex_0.2.0-1_iphoneos-arm.deb
-Size: 63728
-MD5sum: 65e87fa6f1b13b06d42192852278a6fc
-SHA1: 587bedb503025a2ce698cbb9a6cab72caf8bf470
-SHA256: 56cc55a8ee9d95b146e02ea878e40666d124459baedebb0ef81f91dab37f680d
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
-Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
-Author: HuChundong
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
-Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
-Name: PerfectTimeXS「通知栏时间日期」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
-
 Package: perfecttimexs
 Version: 0.2.0-1
 Architecture: iphoneos-arm
@@ -2512,17 +2486,17 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
 Filename: ./debs/perfecttimexs_0.2.0-1_iphoneos-arm.deb
 Size: 63732
-MD5sum: f28868e8a8449a3d1061c9d6ff0f909d
-SHA1: 724d2f6a11356957abf64d2cfbda5360b9004e7b
-SHA256: 740df0d0a20f7212393c6c2c0a0e07f082a89b96d3b893389538a5024d50b4d2
+MD5sum: f413655a46fd97aaa9f3f570942acb53
+SHA1: e82817ac54c2f604a8287b958e0c78a4f275a1b5
+SHA256: da5464899dae7e84eef7d635622c63689439af186c779012890122ea30173413
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=perfecttimexs
 Description: 开启通知栏双行显示时间日期 iPhone X/S/MAX
 Author: HuChundong
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimex
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=perfecttimexs
 Icon: file:///Library/PreferenceBundles/PerfectTimeX.bundle/icon@3x.png
 Name: PerfectTimeXS「通知栏时间日期」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimex.json
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/perfecttimexs.json
 
 Package: powerselector11
 Version: 1.1-6
