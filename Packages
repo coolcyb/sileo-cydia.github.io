@@ -1821,6 +1821,29 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=limneosos
 Name: Limneosos
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/limneosos.json
 
+Package: locationservicecc
+Version: 0.1-4-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 180
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/locationservicecc_0.1-4-1_iphoneos-arm.deb
+Size: 35912
+MD5sum: 4c2f9ff374954344657f9b6122bd07d4
+SHA1: 63a659f23c8c793cafca0e06cfa9dfe8b25469f5
+SHA256: 01c1371304f043a4ca0e7c110edd9503f4561b1cfb3ab13474245642648c8239
+Section: Addons (ControlCenter)
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=locationservicecc
+Description: 从控制中心打开/关闭.定位开关
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: ichitaso
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=locationservicecc
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
+Name: LocationService「定位开关」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/locationservicecc.json
+
 Package: lowbatterybanner
 Version: 1.0.0-1
 Architecture: iphoneos-arm
