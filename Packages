@@ -771,26 +771,6 @@ Name: ClearBadges3DTouch10
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/clearbadges3dtouch10.json
 Sponsor: 他是个疯子
 
-Package: colorbanners2
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
-Conflicts: com.golddavid.colorbanners, com.hackyouriphone.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
-Filename: ./debs/colorbanners2_1.2.3_iphoneos-arm.deb
-Size: 664496
-MD5sum: 29707d1e41fd2a14c076dbf3c29d1b55
-SHA1: f9dba8522a3e553116018bdcb4a32fa5f6a7a588
-SHA256: fbeda4297324da2ca2cb118a0cf999a8143290cd073e52a8147bb89aba4bb8a6
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorbanners2
-Description: 自定义通知的颜色
-Author: David Goldman <repo@hackyouriphone.org>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorbanners2
-Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@3x.png
-Name: ColorBanners2「多彩通知」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorbanners2.json
-
 Package: colorboard
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -1360,6 +1340,30 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=fastunlockx
 Icon: file:///Library/PreferenceBundles/FastUnlockX.bundle/images/FastUnlockX@2x.png
 Name: FastUnlockX「X面容快速解锁」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/fastunlockx.json
+
+Package: fengzi.snapper2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 920
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: snapper
+Filename: ./debs/fengzi.snapper2_2.1_iphoneos-arm.deb
+Size: 245656
+MD5sum: a1f2cc26f80c5a4fae8d05b195e721db
+SHA1: 84f3c68125b16d69a86cb96f6216b5a2a170f71e
+SHA256: 5c911e10f71e10fabf61c5eb52347dcc62a251583ed5a17208a41753deb4cae3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Description: 高级截图.自定义截图
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
+Dev: jontelang
+Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
+Name: Snapper 2「智能截图」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
+Sponsor: 他是个疯子
 
 Package: fengziboy.filza
 Version: 3.5.2-4k
@@ -3081,30 +3085,6 @@ Size: 216826
 MD5sum: 1779bd10430e27684f3174ddbff218a0
 SHA1: 96dddf045e979d31d7dffffc8616f03f1aa3ca1f
 SHA256: 98715c5cac0ae090098daf34dc581d069ffa46d5ae3b9bd8676797e5a9677dbd
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
-Description: 高级截图.自定义截图
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-Author: Jonathan Winger Lang <jontelang@gmail.com>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=snapper2
-Dev: jontelang
-Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
-Name: Snapper 2「智能截图」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/snapper2.json
-Sponsor: 他是个疯子
-
-Package: snapper2
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Installed-Size: 920
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Conflicts: snapper
-Filename: ./debs/snapper2_2.0_iphoneos-arm.deb
-Size: 214796
-MD5sum: b99ac6217dfd2e07a3a364341eb6ef34
-SHA1: bb82c2e0ec855f1c1d4acc75a1f3707585d5d0bd
-SHA256: afad7762f80c1c06cedfe840f704328232d3dab7b1b2f670ab09c2a744206d56
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=snapper2
 Description: 高级截图.自定义截图
