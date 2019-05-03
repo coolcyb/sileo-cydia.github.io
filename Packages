@@ -1637,6 +1637,23 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
 Name: FloatingDockPlus「悬浮dock,分屏汉化版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
 
+Package: floatingdockplus.zh
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Filename: ./debs/floatingdockplus.zh_1.3.3_iphoneos-arm.deb
+Size: 2764
+MD5sum: 5abdf3fdfddcdb68515b9d8dccd020c8
+SHA1: 589e184dd28ef0c3b850f4ab31d357302678bc22
+SHA256: 92803fdb5c3a7f1eb9f7ad0564b4bf1e5a1598440589e53dbb96b2b381a2f890
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Description: 像ipad一样的dock栏,还可以分屏.汉化文件
+Author: P2KDev
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Name: FloatingDockPlus「悬浮dock,分屏汉包」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
+
 Package: gesturex
 Version: 1.0.2
 Architecture: iphoneos-arm
