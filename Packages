@@ -2503,6 +2503,27 @@ Name: NoBetaNag「屏蔽Beta提示」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/nobetanag.json
 Sponsor: 他是个疯子
 
+Package: noctis12
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1552
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: ./debs/noctis12_1.6.2_iphoneos-arm.deb
+Size: 241660
+MD5sum: 1f56d44613b0edfbef5dea34185f268e
+SHA1: 523febaf4fdabe68f8bdbb225a532fb71217d5c2
+SHA256: a828717525e7b46a9371fd4c50477ca14f19502a8b46c6b3718ad6c1ef6bf487
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=noctis12
+Description: 全局的暗黑模式调整,破解版
+Author: LaughingQuoll
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=noctis12
+Icon: file:///Library/PreferenceBundles/Noctis12Prefs.bundle/icon@3x.png
+Name: Noctis12「暗黑模式」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/noctis12.json
+
 Package: noctisxi
 Version: 1.6.6
 Architecture: iphoneos-arm
