@@ -714,18 +714,18 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
 Replaces: net.limneos.callbarxs
 Filename: ./debs/callbarxs_2.2-5_iphoneos-arm.deb
-Size: 218920
-MD5sum: 37793040828a3acbda7b872793a64b97
-SHA1: 2bc8ea254127bbfcf908f0a0b4c804e6ad9ba76b
-SHA256: 11018b4dd34820cb78a870043748685d5c0b5bf3c99652cb90bc76cdb605b9f3
+Size: 218912
+MD5sum: f9e66782af1865e1041d7a3c102cc091
+SHA1: c5fd83c35dd48b78cabcd6eb049851ab63f80996
+SHA256: 9ec7298f721461edb2ef0a620bfaa785eff6f238a6d6fbd4be73d7adcf95484f
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
 Description: 当你在做其他事情的时候不然来电打断你.破解版
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Name: CallBarXS「ios12迷你通话横幅汉化破解版」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarx.json
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarxs.json
 
 Package: ccvpn
 Version: 1.0
