@@ -705,6 +705,28 @@ Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPrefe
 Name: CallBarXS「ios12迷你通话横幅」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarx.json
 
+Package: callbarxs
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 788
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.callbarxs
+Filename: ./debs/callbarxs_2.2-5_iphoneos-arm.deb
+Size: 217344
+MD5sum: b431a6bc4701f49f1d17694cab888135
+SHA1: 6a62453f9642e7614d787b6f066f1c28a685dfd2
+SHA256: 73274ba7fb769d3c65bd076aa366d45708fbda8f4f1f6da034547d3d9c0b4924
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Description: 当你在做其他事情的时候不然来电打断你.破解版
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarx
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBarXS「ios12迷你通话横幅汉化破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarx.json
+
 Package: ccvpn
 Version: 1.0
 Architecture: iphoneos-arm
