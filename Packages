@@ -345,10 +345,11 @@ Maintainer: 他是个疯子 <409774743@qq.com>
 Installed-Size: 296
 Depends: mobilesubstrate
 Filename: ./debs/barmoji_1.5_iphoneos-arm.deb
-Size: 32584
-MD5sum: 7885f172845a2100c7ea34ee49d2c43b
-SHA1: c64ac5b3df4e0a584cfb288fe5a8a3f8df3a8bc5
-SHA256: 2a84dd73ec2a65f3785d9346174803f8d083bb41fb0b6d55ef6b17fbbaaaae6b
+Size: 32656
+MD5sum: ad7515b45ccfb70f7074b74f983838a7
+SHA1: 8015217e24240f0f09839258883a3100d6aa10e2
+SHA256: 9402fce1b4ccae0f1f72e16256e036b0d1b0fa04f912ac77799eb069a1dc44f2
+Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=barmoji
 Description: 为iphoneX键盘下方添加快捷表情
 Tag: purpose::extension, compatible_min::ios10, compatible_max::ios12.1.12
