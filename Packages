@@ -714,10 +714,10 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
 Replaces: net.limneos.callbarxs
 Filename: ./debs/callbarxs_2.2-5_iphoneos-arm.deb
-Size: 217344
-MD5sum: b431a6bc4701f49f1d17694cab888135
-SHA1: 6a62453f9642e7614d787b6f066f1c28a685dfd2
-SHA256: 73274ba7fb769d3c65bd076aa366d45708fbda8f4f1f6da034547d3d9c0b4924
+Size: 218920
+MD5sum: 37793040828a3acbda7b872793a64b97
+SHA1: 2bc8ea254127bbfcf908f0a0b4c804e6ad9ba76b
+SHA256: 11018b4dd34820cb78a870043748685d5c0b5bf3c99652cb90bc76cdb605b9f3
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarx
 Description: 当你在做其他事情的时候不然来电打断你.破解版
