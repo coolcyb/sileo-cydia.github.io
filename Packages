@@ -501,6 +501,28 @@ Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
 Name: Bazzi「百分比电池」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
 
+Package: bazzi
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 296
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./debs/bazzi_2.0.6_iphoneos-arm.deb
+Size: 33916
+MD5sum: 77b09937440dac937d6158a196d6be8a
+SHA1: aec564765479958403677c6bea8bbd58c6acd9dd
+SHA256: 88025c503ce26965a77377377dc3ec483e2f5b85febd4d3394b862934232d50d
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Description: 通知栏显示百分比电池图标,汉化版
+Author: NeinZedd9
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
+Name: Bazzi「百分比电池」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
+
 Package: bettercciconspro
 Version: 1.7.3
 Architecture: iphoneos-arm
@@ -1792,43 +1814,23 @@ Name: HideBarX「隐藏X指示器」
 Removes: com.spark.HidebarX
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hidebarx.json
 
-Package: hyperion
-Version: 0.3.3-4fix
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Installed-Size: 3916
-Depends: mobilesubstrate
-Filename: ./debs/hyperion_0.3.3-4fix_iphoneos-arm.deb
-Size: 1994532
-MD5sum: 751b89ef5d8809f978e34c782e8c4128
-SHA1: 2a1a72d2f9025e7fd7a779a0d7197435aacd431f
-SHA256: 065f1e9981e4f3442cefff7cc4bb4b13bf583294a51749e635cf381c15b00100
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion
-Description: 惊人的通知动画
-Author: SparkDev
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion
-Name: Hyperion「通知动画」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.json
-
-Package: hyperion
+Package: hyperion.zh
 Version: 0.4.11-1
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Installed-Size: 3916
-Depends: mobilesubstrate, preferenceloader, com.hackyouriphone.libcolorpicker | libcolorpicker
-Filename: ./debs/hyperion_0.4.11-1_iphoneos-arm.deb
-Size: 1909136
-MD5sum: 8feb84c52141b2b6c304cd7c464cb4a0
-SHA1: 82e37013c57043986490194f2eef0be92acc3a91
-SHA256: 79c4577d3e271db62e3dc3c66140e68e691ccb9dc724e3c7100e69e3884dcc4a
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion
-Description: 惊人的通知动画
+Filename: ./debs/hyperion.zh_0.4.11-1_iphoneos-arm.deb
+Size: 3536
+MD5sum: 959953510e76ce720766aa76dfda9ade
+SHA1: fbb5632db59e05a20e22aa058126b606695472c1
+SHA256: f87a60b83f1658ea16eb0be752caec913e37441f9080c08d734b0b6e78a503a4
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion.zh
+Description: 惊人的通知动画.汉化文件
 Author: SparkDev
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion
-Name: Hyperion「通知动画」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.json
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion.zh
+Name: Hyperion「通知动画汉化包」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.zh.json
 
 Package: icleanerpro
 Version: 7.7.1~beta2
@@ -2370,12 +2372,11 @@ Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Installed-Size: 5
-Depends: io.ominousness.mitsuhaxi
 Filename: ./debs/miscsettings.zh_2.3.7_iphoneos-arm.deb
-Size: 5524
-MD5sum: fe7d7bc99d7b64fb849bcbd87138f8b9
-SHA1: b0a666515eb225b9b3f9e3f757bbc3d4757947cc
-SHA256: bebfa14b5133103ae55d1c4cdcca340af6251557cb3c388aa6be7c3e1855bb8f
+Size: 5504
+MD5sum: f80f6d1f5fc7c115227b1ddf7a8e507c
+SHA1: 77c7dafe4b7d0324efa77efcc5c0f1f04bda802d
+SHA256: 001972cfcb9ad782544f3fd03e9d43032d960059a7f013dbf37a754b64069de4
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
 Description: 控制中心音量百分比显示.桌面的调整,完全关闭wifi蓝牙开关.汉化文件!
