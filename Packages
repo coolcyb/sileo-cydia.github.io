@@ -3633,6 +3633,28 @@ Name: Cephei
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 Sponsor: 他是个疯子
 
+Package: xenhtml
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Filename: ./debs/xenhtml_0.5.1_iphoneos-arm.deb
+Size: 1479404
+MD5sum: 325e5d70537efc82aa75d6232f78e5cd
+SHA1: 7efacf455d25ee1169150e913c5b2e99ff7843f8
+SHA256: 6945fc6eb6ee7b0ec0162efb18c15904c8919bf6011f54e85332115df4876a17
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
+Description: 统一的HTML呈现；锁定屏幕和主屏幕.自定义锁屏
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML「高级锁屏汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
+
 Package: xunlei.fz
 Version: 5.2.1
 Architecture: iphoneos-arm
