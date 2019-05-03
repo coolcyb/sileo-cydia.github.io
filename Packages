@@ -873,6 +873,47 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
 Name: PrefixUI「noctisxi依赖」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 
+Package: com.laughingquoll.prefixui
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 172
+Depends: org.thebigboss.libcolorpicker
+Filename: ./debs/com.laughingquoll.prefixui_1.2_iphoneos-arm.deb
+Size: 23154
+MD5sum: 6d5a74c5f8085804e03b3d4391877533
+SHA1: 1a6136ac68549dc094372372f725b9b184aa9d95
+SHA256: 4976220685020a90fe119756e38b53c757fec8bdb59bddd348896912b4352a5c
+Section: System
+Description: An awesome framework of some sort!!
+Tag: role::developer
+Author: LaughingQuoll
+Name: PrefixUI
+
+Package: com.opa334.ccsupport
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 203
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.2-3_iphoneos-arm.deb
+Size: 35506
+MD5sum: 5bdf900d2f1e3f7b8dca06696892ef8a
+SHA1: 869427d61a45e0f6bf9803628aa0555e630d0fa8
+SHA256: fd79a3b14797b0ed8b3e3eebbcb71f51e446a374307990f2ed58b3fb5982e04a
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Description: Support tweak for CC modules!
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Dev: opa334
+Name: CCSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.spark.libsparkapplist
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -2331,16 +2372,16 @@ Installed-Size: 5
 Depends: io.ominousness.mitsuhaxi
 Filename: ./debs/miscsettings.zh_2.3.7_iphoneos-arm.deb
 Size: 5524
-MD5sum: 67d9ff97284bf4a0d114cc796f22b643
-SHA1: d596e8bdc8e2701e1b92548f4ac2fb4531043655
-SHA256: 34a01ca48509d2534e9f102c4d0317b86881533a859d79cb3c2c96dd0c2c5d80
+MD5sum: fe7d7bc99d7b64fb849bcbd87138f8b9
+SHA1: b0a666515eb225b9b3f9e3f757bbc3d4757947cc
+SHA256: bebfa14b5133103ae55d1c4cdcca340af6251557cb3c388aa6be7c3e1855bb8f
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
 Description: 控制中心音量百分比显示.桌面的调整,完全关闭wifi蓝牙开关.汉化文件!
 Author: Lucifers Circle <luciferscircle@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
 Name: MiscSettings「系统调整汉化包」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/miscsettingsz.h.json
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/miscsettings.zh.json
 
 Package: mterminal.fz
 Version: 1.4-6
