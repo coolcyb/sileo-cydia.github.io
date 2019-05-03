@@ -2306,24 +2306,24 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=milkyway
 Name: MilkyWay「分屏」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/milkyway.json
 
-Package: miscsettings
+Package: miscsettings.zh
 Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
-Installed-Size: 544
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Filename: ./debs/miscsettings_2.3.7_iphoneos-arm.deb
-Size: 64852
-MD5sum: 9e933e222e407b2c1927342a8d4f78e5
-SHA1: 04fe411ecc7b196a9fc985deb8e48a83bd684c94
-SHA256: b781f19a463c581366ddbf7da13717dc824942b8e428a61a7373a4f199f8494d
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=miscsettings
-Description: 控制中心音量百分比显示.桌面的调整,完全关闭wifi蓝牙开关!
+Installed-Size: 5
+Depends: io.ominousness.mitsuhaxi
+Filename: ./debs/miscsettings.zh_2.3.7_iphoneos-arm.deb
+Size: 5524
+MD5sum: 67d9ff97284bf4a0d114cc796f22b643
+SHA1: d596e8bdc8e2701e1b92548f4ac2fb4531043655
+SHA256: 34a01ca48509d2534e9f102c4d0317b86881533a859d79cb3c2c96dd0c2c5d80
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
+Description: 控制中心音量百分比显示.桌面的调整,完全关闭wifi蓝牙开关.汉化文件!
 Author: Lucifers Circle <luciferscircle@gmail.com>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=miscsettings
-Name: MiscSettings「系统调整汉化版」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/miscsettings.json
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
+Name: MiscSettings「系统调整汉化包」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/miscsettingsz.h.json
 
 Package: mterminal.fz
 Version: 1.4-6
