@@ -2542,26 +2542,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifica
 Name: Notifica「美化通知」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifica.json
 
-Package: notifica
-Version: 0.2.8-1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: mobilesubstrate, com.hackyouriphone.libcolorpickerarm64, ws.hbang.common (>= 1.11), com.hackyouriphone.libnepeta (>= 0.1.1), firmware (>= 11.0)
-Conflicts: io.ominousness.modernxi, com.hackyouriphone.modernxi
-Filename: ./debs/notifica_0.2.8-1_iphoneos-arm.deb
-Size: 390376
-MD5sum: 10e769750377c02bc07335865fb914a8
-SHA1: 835d768929bfb3585a086893531d57c9702e9704
-SHA256: 819a819aaffe332b95e07785f03a9e028a33d02577164e2350295039e16474d8
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifica
-Description: 自定义通知的颜色
-Author: Nepeta
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifica
-Icon: file:///Library/PreferenceBundles/NotificaPrefs.bundle/icon@2x.png
-Name: Notifica「美化通知」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifica.json
-
 Package: ntspeed
 Version: 0.2~beta6a
 Architecture: iphoneos-arm
