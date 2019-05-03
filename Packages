@@ -1990,6 +1990,27 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
 Name: libbulletin
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 
+Package: libcolorpickerarm64
+Version: 1.6.2-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11.0)
+Conflicts: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker, com.hackyouriphone.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker
+Provides: org.thebigboss.libcolorpicker (=1.6.1)
+Filename: ./debs/libcolorpickerarm64_1.6.2-1_iphoneos-arm.deb
+Size: 38504
+MD5sum: d761357fc8a3d5f9116adf3d23b4d504
+SHA1: d0f84a6524d7f271073f79bcbaa6cc5e89b128b7
+SHA256: a7b6cfb6d19617b2813bae27146920c35763be45a49ca9210aabb721b1782c18
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Description: libcolorpicker 适配 arm64e (A12) support
+Author: Bailey Seymour
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Name: libcolorpicker Arm64e「A12」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+
 Package: libertylite
 Version: 0.2.11
 Architecture: iphoneos-arm
