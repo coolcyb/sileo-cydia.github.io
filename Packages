@@ -852,6 +852,22 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
 Name: PrefixUI「noctisxi依赖」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 
+Package: com.spark.libsparkapplist
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 596
+Filename: ./debs/com.spark.libsparkapplist_1.0.3_iphoneos-arm.deb
+Size: 31948
+MD5sum: e53d3c6cbf3fd6d1f744083fc61ba5b7
+SHA1: 296377c94ffc68729cdf36eae668210dbf3f3c36
+SHA256: 6d3b825c2e6b91098bb354cf4bdf179049248656a777eff6ec232fd9d4bf5ea6
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
 Package: conditionalwifi3
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1579,6 +1595,25 @@ Author: Kiran Patil
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
 Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
 Name: FloatingDockPlus「ipa分屏dock」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
+
+Package: floatingdockplus
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
+Filename: ./debs/floatingdockplus_1.3.3_iphoneos-arm.deb
+Size: 59660
+MD5sum: dd8e9677e67bee0df45de32aa9936af5
+SHA1: ca45f0eea9ce69aac5cb8732a9fda416e395e73b
+SHA256: 909e163ccaefd0e3483330a5bf9c5bf8c6fd51410db68bd5c3cbce16ed7dc4de
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Description: 像ipad一样的dock栏,还可以分屏
+Author: P2KDev
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
+Name: FloatingDockPlus「悬浮dock,分屏汉化版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
 
 Package: gesturex
