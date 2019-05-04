@@ -3470,6 +3470,46 @@ Pname: SimpleLS「锁屏界面美化汉化版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/SimpleLSiOS.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: slices2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 1148
+Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.subdiox.sud0
+Conflicts: com.expetelek.slices
+Filename: ./debs/slices2_1.0.1_iphoneos-arm.deb
+Size: 156864
+MD5sum: f2c53e9c9bbf2744e7a66ba08ca049c7
+SHA1: a17844f4a1c0d7832e84bf870504c3f5b7cecd5d
+SHA256: 55c371d7c2166a9df21907b831c58e1144771e0d0cc407a4fb2b88d93fea9de3
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=slices2
+Description: 应用多开.允许您为单个应用程序具有多个设置和数据包。
+Author: subdiox
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=slices2
+Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
+Name: Slices 2「应用多开」汉化版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/slices2.json
+
+Package: slices2.zh
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 5
+Filename: ./debs/slices2.zh_1.0.1_iphoneos-arm.deb
+Size: 2800
+MD5sum: fc590b524345bd88b252d1568e500d9d
+SHA1: b33568726fb93ac24413c1b01412aad0ad667338
+SHA256: 120d0bd4044ef5871c806965f11f84c6e2044bde298c3aa234984cd19d7fda47
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=slices2
+Description: 应用多开.允许您为单个应用程序具有多个设置和数据包。汉化文件
+Author: subdiox
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=slices2
+Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
+Name: Slices 2「应用多开」汉化文件
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/slices2.json
+
 Package: smartlpm
 Version: 1.3.0-1
 Architecture: iphoneos-arm

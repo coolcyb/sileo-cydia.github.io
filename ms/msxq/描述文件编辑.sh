@@ -1,20 +1,20 @@
 #!/bin/sh
-perl -p -i -e "s/插件名字/ColorFlow 4「音乐增强」/g"  cydia副本 sileo副本.json
-perl -p -i -e "s/插件的描述文字/「音乐增强」/g"  cydia副本 sileo副本.json
+perl -p -i -e "s/插件名字/Slices 2「应用多开」汉化版」/g"  cydia副本 sileo副本.json
+perl -p -i -e "s/插件的描述文字/允许您为单个应用程序具有多个设置和数据包。/g"  cydia副本 sileo副本.json
 #支持系统
 perl -p -i -e "s/IOS:11-12/IOS:11-12/g"  cydia副本 sileo副本.json
-perl -p -i -e "s/1.0.0/4.6.1-1/g"  cydia副本 sileo副本.json
+perl -p -i -e "s/1.0.0/slices2/g"  cydia副本 sileo副本.json
 #更新时间
 perl -p -i -e "s/2019-01-21/2019-05-04/g"  sileo副本.json
 perl -p -i -e "s/暂时没有历史版本/2019-05-04更新支持A12/g"  cydia副本
 #截图
-#perl -p -i -e "s/1.png/Gesto1.png/g"   sileo副本.json
-#perl -p -i -e "s/2.png/Gesto2.png/g"   sileo副本.json
-#perl -p -i -e "s/3.png/Gesto3.png/g"   sileo副本.json
-#perl -p -i -e "s/4.png/Gesto4.png/g"   sileo副本.json
-#perl -p -i -e "s/ipX.gif/Gesto1.png/g"  cydia副本
-mv cydia副本 colorflow4
-mv sileo副本.json colorflow4.json
+#perl -p -i -e "s/1.png/slices21.png/g"   sileo副本.json
+#perl -p -i -e "s/2.png/slices22.png/g"   sileo副本.json
+#perl -p -i -e "s/3.png/slices23.png/g"   sileo副本.json
+#perl -p -i -e "s/4.png/slices23.png/g"   sileo副本.json
+#perl -p -i -e "s/ipX.gif/slices21.png/g"  cydia副本
+mv cydia副本 slices2
+mv sileo副本.json slices2.json
 
 
 cp cydia样本 cydia副本
