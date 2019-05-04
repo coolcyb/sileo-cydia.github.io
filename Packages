@@ -869,6 +869,25 @@ Icon: file:///Library/Application Support/Cercube/Cercube.bundle/AppIcon.png
 Name: Cercube for YouTube
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cercube.json
 
+Package: ceshi
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 5
+Filename: ./debs/ceshi_2.0.6_iphoneos-arm.deb
+Size: 932
+MD5sum: 5a9713be55cf98a415d4ae495a22ef9b
+SHA1: 5bc9ecccdcd35d0c8dc31f463a415a96c020cd64
+SHA256: 146daef46e23812892003e7e767131004b80f5847ace2b358a23907eac80c695
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Description: 通知栏显示百分比电池图标,汉化文件
+Author: 他是个疯子
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
+Name: a测试插件一统天下
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/?package_id=ceshi
+
 Package: classickeyboardx
 Version: 0.2-1
 Architecture: iphoneos-arm
