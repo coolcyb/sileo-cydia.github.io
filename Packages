@@ -137,6 +137,26 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=appstoreplusplus
 Name: AppStore++「应用降级」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/appstoreplusplus.json
 
+Package: appstoreplusplus
+Version: 0.7-6
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Filename: ./debs/appstoreplusplus_0.7-6_iphoneos-arm.deb
+Size: 792900
+MD5sum: 28d0bf4d88ea3dcaff41b326b273be7c
+SHA1: 62a9a6bc7f829855031f006894818c171bbb1e93
+SHA256: 4b841dd6630eff7d5af452e97c0de2a65e42968d9257b66f700041ac7b11048b
+Section: Tweaks
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=appstoreplusplus
+Description: 降级appstore的app软件
+Author: CokePokes
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=appstoreplusplus
+Name: AppStore++「应用降级」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/appstoreplusplus.json
+
 Package: appsyncunified
 Version: 32.0
 Architecture: iphoneos-arm
