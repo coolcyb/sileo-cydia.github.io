@@ -2737,6 +2737,41 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifica
 Name: Notifica「美化通知」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifica.json
 
+Package: notifierdots
+Version: 0.2-2
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/notifierdots_0.2-2_iphoneos-arm.deb
+Size: 95876
+MD5sum: c74b130f7e2c23dbb7fafb4a8733b45e
+SHA1: 4cbf4d2afe825d33a1edb69ed33ed7d53dde8371
+SHA256: b8f1a423f177e255c39ced0c84c127020036ac59dcf8bff066f50972be41bae0
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifierdots
+Description: 状态栏中基于徽章的通知指示器
+Author: iamalive2008
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifierdots
+Name: NotifierDots「通知圆点」汉化版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifierdots.json
+
+Package: notifierdots.zh
+Version: 0.2-2
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Filename: ./debs/notifierdots.zh_0.2-2_iphoneos-arm.deb
+Size: 1664
+MD5sum: b3f7bc1c916beda42b04c83289cd56d3
+SHA1: 804b506d6574ca41b7803f3db2d02c3911847908
+SHA256: b724b4a4e44ad234eee7ed544814f2df1b3127cc2f501c25d4f04ae586379224
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifierdots
+Description: 状态栏中基于徽章的通知指示器.汉化文件
+Author: iamalive2008
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifierdots
+Name: NotifierDots「通知圆点」汉化包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifierdots.json
+
 Package: ntspeed
 Version: 0.2~beta6a
 Architecture: iphoneos-arm
