@@ -2227,24 +2227,6 @@ Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref@2x.png
 Name: Liberty Lite「屏蔽越狱检测」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/libertylite.json
 
-Package: libsparkapplist
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: com.rpetrich.rocketbootstrap (>> 1.0.5)
-Filename: ./debs/libsparkapplist_1.0.0_iphoneos-arm.deb
-Size: 23862
-MD5sum: ed5b118d4c6ef2adfacccb0047c8b2cb
-SHA1: eb3135b9313991e67663a16f58a097eaa59b3fb6
-SHA256: bfcfc65b7db85bdba8a5cd8a1d73e53fa31886e9a3245cd82a77cf741993a48e
-Section: System
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
-Description: AppList alternative
-Author: Spark <repo@hackyouriphone.org>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
-Name: libSparkAppList「noctisxi依赖」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
-
 Package: limneosos
 Version: 1.1.2
 Architecture: iphoneos-arm
