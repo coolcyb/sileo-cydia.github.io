@@ -3380,6 +3380,29 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=showtouch
 Name: ShowTouch「触摸指示器汉化版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/showtouch.json
 
+Package: shuffle
+Version: 0.9.6b
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1152
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/shuffle_0.9.6b_iphoneos-arm.deb
+Size: 162552
+MD5sum: a7dee289548188ef68e16fa94f85a26c
+SHA1: 949736e6ae4a013ddd8cb54c2cf4ac399936ad52
+SHA256: 55fb372d2b684bdbec2cfff20eaeecde7d17dcddfa7d0e56e9af1213ea84f43d
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=shuffle
+Description: 对设置里面的标题分类.
+Tag: purpose::extension, compatible_min::iosiOS10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=shuffle
+Name: shuffle「设置分类」汉化版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/shuffle.json
+
 Package: shypagedots
 Version: 0.1.1
 Architecture: iphoneos-arm
