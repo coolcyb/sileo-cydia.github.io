@@ -2107,6 +2107,24 @@ Icon: file:///Library/PreferenceBundles/inosleep.bundle/inosleep.png
 Name: iNoSleep「锁屏不断WIFI」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/inosleep.json
 
+Package: ios12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: xenhtml | com.matchstic.xenhtml, com.hackyouriphone.xeninfo | com.junesiphone.xeninfo | xeninfo
+Filename: ./debs/ios12_1.0_iphoneos-arm.deb
+Size: 4572352
+MD5sum: 1fa8aab57d000aa66c5993a97392d527
+SHA1: 0e4c0b4048ad9aadea3f195d947c29c5a0c8fe57
+SHA256: 267c09867512440cf45126685d6bbf787c687e6b6f8e035b29fe6ff4e17cd1c4
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=ios12
+Description: iOS12 锁定和主屏幕主题.
+Author: AussieAppz
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=ios12
+Name: iOS12 Lock and Home Screen「主题」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ios12.json
+
 Package: jellyfish
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -2657,6 +2675,25 @@ Size: 809904
 MD5sum: 36e9de5f720b755c73c50ec81f036abc
 SHA1: 5f11594fbd3a8216dfdb2f89fec5781f3eb2a7a2
 SHA256: 1f969e3397fffcb23be3734406f391229e906b67023470183158dcd0e49f4b03
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=nicebarx
+Description: 添加状态栏时间日期天气,自定义颜色,等等
+Author: niceios
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=nicebarx
+Name: NiceBarX「状态栏神器」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/nicebarx.json
+
+Package: nicebarx
+Version: 2.0.1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 4992
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate, preferenceloader
+Filename: ./debs/nicebarx_2.0.1.0-2+debug_iphoneos-arm.deb
+Size: 810724
+MD5sum: 9252a332670420d71dee9b7ec9bb8444
+SHA1: 54ca5ac9d77747e326aff701ff9e1c8ad8398657
+SHA256: bf2c96d67b5b46e6e7664039315dbda4fad5ddff07a35e772c799ffc9d79215b
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=nicebarx
 Description: 添加状态栏时间日期天气,自定义颜色,等等
@@ -4088,6 +4125,38 @@ Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Name: Xen HTML「高级锁屏」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
+
+Package: xeninfo
+Version: 2.2.5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1056
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Filename: ./debs/xeninfo_2.2.5_iphoneos-arm.deb
+Size: 150120
+MD5sum: 2521bd25635cd200c0092f496d9f3e45
+SHA1: 5d3b0db1fe048fa78a50bd484d0a86f378a40140
+SHA256: 448c4d0426875d5c7d8de1ce5949309bde49977c2ac2f00fb8ad7eca3176e391
+Section: Tweaks
+Description: XenHTML依赖文件
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Name: XenInfo
+
+Package: xeninfo.zh
+Version: 2.2.5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 5
+Filename: ./debs/xeninfo.zh_2.2.5_iphoneos-arm.deb
+Size: 1048
+MD5sum: 2845e896f1d4147c28f7fcfafa54575b
+SHA1: 0b0f6ee1e9dd939ce0132269fcb2620e3c27e0b2
+SHA256: 6ac62c916b6e86224d9003beac34710ef0dce995c0f3a4fd23896c358fa84f86
+Section: 汉化
+Description: XenHTML依赖文件
+Author: 他是个疯子
+Name: XenInfo 汉化文件
 
 Package: xunlei.fz
 Version: 5.2.1
