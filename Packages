@@ -1012,6 +1012,26 @@ Icon: file:///Applications/Preferences.app/icon-table.png
 Name: Flipswitch「依赖文件」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/com.a3tweaks.flipswitch.json
 
+Package: com.creaturecoding.libcspreferences
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 3072
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Filename: ./debs/com.creaturecoding.libcspreferences_1.1.5_iphoneos-arm.deb
+Size: 473572
+MD5sum: ec9010659f80200f3d4cf8512b603c6a
+SHA1: ed1b63bdc1f2632ee4d23cb02b1f4a8f9b568758
+SHA256: 963e3930138a5a3d2747c888183161999dc7196a16d3e9ff9f88473e1aebd36c
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iosiOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
 Package: com.laughingquoll.prefixui
 Version: 0.7
 Architecture: iphoneos-arm
