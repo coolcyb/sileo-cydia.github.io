@@ -18,6 +18,26 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ChargeAnimations
 Name: ChargeAnimations「充电动画」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ChargeAnimations.json
 
+Package: Gesto
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/gesto_1.0_iphoneos-arm.deb
+Size: 694132
+MD5sum: 668cdaf637ef0085c558dc1eb70f7fc5
+SHA1: 03a8d2e9fdd57a7c441e0c30900c23dc9b5f2705
+SHA256: d2f3bd8b33c0cf04d7fd6adfac6ee461c3d65ef5e667d690ab90d57f3da547ef
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=Gesto
+Description: 后台增强,添加控制中心小部件到后台.后台增强
+Author: gabriele filipponi
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=Gesto
+Icon: file:///Library/PreferenceBundles/NaruhodoPreferences.bundle/GestoHeader@3x.png
+Name: Gesto「后台增强」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/Gesto.json
+
 Package: HomeGesture
 Version: 2.0.2
 Architecture: iphoneos-arm
