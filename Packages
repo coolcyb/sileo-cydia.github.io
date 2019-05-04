@@ -436,6 +436,25 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
 Name: BatteryPercentX「简体中文」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
 
+Package: batterypercentx.zh
+Version: 1.3.7-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 476
+Filename: ./debs/batterypercentx.zh_1.3.7-1_iphoneos-arm.deb
+Size: 127088
+MD5sum: 1c037094b97699669ef69a161ed97a51
+SHA1: f8b6ad021a645ae8c5570799c6db84316434004c
+SHA256: 22c87c29662061e345814fe12e81ccf7fe33c1fc33ab04e45fc327088703ba1f
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Description: 打开 iPhone X通知栏电池百分比.汉化文件
+Author: Spark
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
+Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
+Name: BatteryPercentX 「电池百分比」汉化包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
+
 Package: bazzi
 Version: 1.2.1
 Architecture: iphoneos-arm
@@ -766,6 +785,25 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Name: CallBarXS「ios12迷你通话横幅汉化破解版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarxs.json
+
+Package: callbarxs.zh
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 5
+Filename: ./debs/callbarxs.zh_2.2-5_iphoneos-arm.deb
+Size: 3232
+MD5sum: 48453db5f0d27ac93effa28ed4f327e7
+SHA1: 9179a5231c2aac9e76e8d410580619d03a808aec
+SHA256: 868b8d5445fd5c7ba72a530acae75def34364dfb678080fc07d5f9b08125b117
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
+Description: 当你在做其他事情的时候不然来电打断你.汉化文件
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBarXS「ios12迷你通话横幅」汉化包
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarxs.json
 
 Package: ccvpn
@@ -1876,16 +1914,16 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Installed-Size: 3916
 Filename: ./debs/hyperion.zh_0.4.11-1_iphoneos-arm.deb
-Size: 3536
-MD5sum: 959953510e76ce720766aa76dfda9ade
-SHA1: fbb5632db59e05a20e22aa058126b606695472c1
-SHA256: f87a60b83f1658ea16eb0be752caec913e37441f9080c08d734b0b6e78a503a4
+Size: 3540
+MD5sum: d5f89fe25ef9f406eda95e892e1f60b0
+SHA1: 290beeb5f20d9908eaa775a18e5df17599534dd7
+SHA256: 3a524913c50785e7e2f4be4d50accc866d48ff9cd58af5767e900dd35869a8d9
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion.zh
 Description: 惊人的通知动画.汉化文件
 Author: SparkDev
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion.zh
-Name: Hyperion「通知动画汉化包」
+Name: Hyperion「通知动画」汉化包
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.zh.json
 
 Package: icleanerpro
@@ -3820,10 +3858,10 @@ Version: 0.5.2
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Filename: ./debs/xenhtml.zh_0.5.2_iphoneos-arm.deb
-Size: 9512
-MD5sum: fdc36fb4d707860c8e7fe05defd76ca3
-SHA1: 262ce0ef0b0f2ac07d2659dac840ac889bbc6c64
-SHA256: 684fd0b854a47a5ca9fbd08dca82590fd87c62e0e825faa65f23dad78b1da7b3
+Size: 9508
+MD5sum: bcf430e579a2978e4d0653a28e94e729
+SHA1: c7a73ffb9374a921fb925c5778248c004533d0b9
+SHA256: 7e790aef8a01a046f5648a479fcad9b0c093e369f56e30192dace4c6879ba35a
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
 Description: 统一的HTML呈现；锁定屏幕和主屏幕.自定义锁屏.汉化文件
@@ -3831,7 +3869,7 @@ Author: Matt Clarke <matt@incendo.ws>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
 Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
-Name: Xen HTML「高级锁屏汉化包」
+Name: Xen HTML「高级锁屏」汉化包
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
 
 Package: xunlei.fz
