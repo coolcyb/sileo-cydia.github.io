@@ -3039,17 +3039,17 @@ Name: ReProvision「签名ipa汉化版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
 
 Package: reprovision
-Version: 0.4
+Version: 0.4-2
 Architecture: iphoneos-arm
 Maintainer: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
-Filename: ./debs/reprovision_0.4_iphoneos-arm.deb
-Size: 9984446
-MD5sum: b779b32118bbeb63d217059402c27a81
-SHA1: a8ad92cafb9b0483b1ff57eba3c7c65d59e3cf46
-SHA256: 47ee601e569ce04381ef6a72fc1e6f1a0c8e801009ef3b63484a31c55a159678
+Filename: ./debs/reprovision_0.4-2_iphoneos-arm.deb
+Size: 9985636
+MD5sum: dd32cd30caa56d494e296fee3e175f00
+SHA1: 42ece9e626e41de68b38baa77982c78d1c1feedc
+SHA256: 3cfc46530c35b45b82d120372e62767ee2307e15d33a5b2f72061eedbccb0fae
 Section: System
 Priority: optional
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
@@ -3059,28 +3059,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=reprovision
 Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision「签名ipa」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
-
-Package: reprovision
-Version: 0.4.2-1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/reprovision_0.4.2-1_iphoneos-arm.deb
-Size: 9927516
-MD5sum: 2bf0084acd8e0fc516e41d46053ecd76
-SHA1: d9dd485d21cb97a6e39c432392af4080bc03a5a9
-SHA256: 36d1132e40d73493f6cee4b0b018a55d78cec95deda251547b96459dd7021dd6
-Section: System
-Priority: optional
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
-Description: 手机端签名ipa工具.
-Author: Matt Clarke
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=reprovision
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision「签名ipa汉化版」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
 
 Package: ru.rejail.icleanerpatch
