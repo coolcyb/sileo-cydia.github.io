@@ -2805,6 +2805,27 @@ Description: 去掉设置里面烦人的小红点.支持A12
 Author: julioverne
 Name: 设置去更新红点
 
+Package: otrlocation
+Version: 4.6.1-1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 26512
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Filename: ./debs/otrlocation_4.6.1-1_iphoneos-arm.deb
+Size: 8832784
+MD5sum: baa762373a28e70a7923ce968789bdc1
+SHA1: 6b90751e0a0905a83135c709dacc6d95da2f633b
+SHA256: 7ade768e114b2280234c5ed07e48f3ba5e5948f78fa8fd130c70041dfde5028d
+Section: Utilities
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=otrlocation
+Description: 完全免费的 位置/设备 修改器
+Author: onTheRoad
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=otrlocation
+Icon: file:///Applications/OTRLocation.app/icon.png
+Name: AnyWhere「虚拟定位」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/otrlocation.json
+Sponsor: 他是个疯子
+
 Package: palette
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -3101,6 +3122,41 @@ Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
 Name: Safari Plus
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safariplus.json
 Sponsor: 他是个疯子
+
+Package: safariplus
+Version: 1.6.8-4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Filename: ./debs/safariplus_1.6.8-4_iphoneos-arm.deb
+Size: 513632
+MD5sum: 820981b4fa3d3ed5408c69f7522d6293
+SHA1: 69a49dbe12ddb1f23b96045f33214b65184746c9
+SHA256: 69f08605b11977d140945e068e59d7a652b4a153423a22de2ec14e85325b7cf1
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=safariplus
+Description: safari开启下载.上传.等等.汉化版
+Author: opa334
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=safariplus
+Name: Safari Plus「Safari增强」汉化版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safariplus.json
+
+Package: safariplus.zh
+Version: 1.6.8-4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Filename: ./debs/safariplus.zh_1.6.8-4_iphoneos-arm.deb
+Size: 8424
+MD5sum: 6779355183b7dbf0b54215c921983b8e
+SHA1: 5c1f0dc5a466ffcf1165362aebe58fa203ccef9d
+SHA256: b104c3740560a28eb7071e244042cc4ea44a225abab3c67f0df53a9f960a830c
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=safariplus
+Description: safari开启下载.上传.等等.汉化版
+Author: opa334
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=safariplus
+Name: Safari Plus「Safari增强」汉化包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safariplus.json
 
 Package: saw
 Version: 1.2.0
