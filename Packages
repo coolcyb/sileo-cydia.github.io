@@ -946,6 +946,47 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorboard
 Name: ColorBoard「键盘自动变色」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorboard.json
 
+Package: colorflow4
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 1892
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Filename: ./debs/colorflow4_1.2.3_iphoneos-arm.deb
+Size: 770096
+MD5sum: ce4f477022ab3da488cce447fcf010e3
+SHA1: b84df433f61e0fab39374de617eaa2a1f07a0b24
+SHA256: 427b475064e75747e839a7f83ff97bf7e0d59eefe7421b3c3eadb0f26c730caf
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorflow4
+Description: 音乐增强
+Author: David Goldman <help@golddavid.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorflow4
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Name: ColorFlow 4「音乐增强」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorflow4.json
+
+Package: colorflow4.zh
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 5
+Filename: ./debs/colorflow4.zh_1.2.3_iphoneos-arm.deb
+Size: 1840
+MD5sum: b0250ef7ffb599efcc84aa8ef288fee5
+SHA1: 4847fad07ab72a8281d9667232c8bd06aed3deb4
+SHA256: 0cccb6c1312da7835974769ff95d6da9b5ec0820f8018b09e2766d0db189bf0c
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorflow4
+Description: 音乐增强
+Author: David Goldman <help@golddavid.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorflow4
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Name: ColorFlow 4「音乐增强」汉化包
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorflow4.json
+
 Package: com.a3tweaks.flipswitch
 Version: 1.0.16~beta3
 Architecture: iphoneos-arm
@@ -3050,6 +3091,29 @@ Size: 9985632
 MD5sum: beabf63e4e494c61b0b9b2c3aa04900c
 SHA1: f4cd26c0f064c2506a78c06134d6ce6a6229910b
 SHA256: 2de061695a2fa9c987f4108c9b2d41ac0440409f0be208b34d0ee85e4b81ec84
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
+Description: 手机端签名ipa工具.官方原版.
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=reprovision
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision「签名ipa」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
+
+Package: reprovision
+Version: 0.4-2
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/reprovision_0.4-2_iphoneos-arm.deb
+Size: 9985636
+MD5sum: dd32cd30caa56d494e296fee3e175f00
+SHA1: 42ece9e626e41de68b38baa77982c78d1c1feedc
+SHA256: 3cfc46530c35b45b82d120372e62767ee2307e15d33a5b2f72061eedbccb0fae
 Section: System
 Priority: optional
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
