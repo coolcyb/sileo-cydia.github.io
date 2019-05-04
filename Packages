@@ -442,17 +442,17 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Installed-Size: 476
 Filename: ./debs/batterypercentx.zh_1.3.7-1_iphoneos-arm.deb
-Size: 127088
-MD5sum: 1c037094b97699669ef69a161ed97a51
-SHA1: f8b6ad021a645ae8c5570799c6db84316434004c
-SHA256: 22c87c29662061e345814fe12e81ccf7fe33c1fc33ab04e45fc327088703ba1f
+Size: 1904
+MD5sum: dbb9785fcdc2b2e116ad0c6e1c101429
+SHA1: 141de12db8b5e52462c774a56800b3a98b97d0b3
+SHA256: 85539b7fbbf52a259a5eac72ce1f599d28489d136411f064c7745917a9d1d968
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
 Description: 打开 iPhone X通知栏电池百分比.汉化文件
 Author: Spark
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=batterypercentx
 Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
-Name: BatteryPercentX 「电池百分比」汉化包
+Name: BatteryPercentX 「电池百分比」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/batterypercentx.json
 
 Package: bazzi
@@ -548,17 +548,17 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Installed-Size: 5
 Filename: ./debs/bazzi.zh_2.0.6_iphoneos-arm.deb
-Size: 1708
-MD5sum: b2826f7e43bc63d452fca19802c704c7
-SHA1: 06549e40e1bcee3f8afdada041cf1b7058a33e70
-SHA256: b7d57602055e1f70ed39194894e8276a2a54da66e6b0ee336baaabdbababb28b
+Size: 1712
+MD5sum: d2cff7ad73e5f9cc35156093d56877de
+SHA1: 03882983c5d090fdb19a6f0971af78f6193acfc6
+SHA256: 713db204f51c19a64ca32b80a98b8637ceaf6d403c1f0043c28eb9a714adbef0
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
 Description: 通知栏显示百分比电池图标,汉化文件
 Author: NeinZedd9
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
 Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
-Name: Bazzi「百分比电池汉化包」
+Name: Bazzi「百分比电池」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
 
 Package: bettercciconspro
@@ -793,17 +793,17 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Installed-Size: 5
 Filename: ./debs/callbarxs.zh_2.2-5_iphoneos-arm.deb
-Size: 3232
-MD5sum: 48453db5f0d27ac93effa28ed4f327e7
-SHA1: 9179a5231c2aac9e76e8d410580619d03a808aec
-SHA256: 868b8d5445fd5c7ba72a530acae75def34364dfb678080fc07d5f9b08125b117
+Size: 3224
+MD5sum: 9d96b39f83f5b15845fc2770d300ddf4
+SHA1: 02e5c5f4dd132f1c905eaeb1ab2fa7be889b05d8
+SHA256: 1a6df68a33c5565187511bdd48925ecb6462b790f73fb9d75b8542434b7acb2c
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
 Description: 当你在做其他事情的时候不然来电打断你.汉化文件
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=callbarxs
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Name: CallBarXS「ios12迷你通话横幅」汉化包
+Name: CallBarXS「ios12迷你通话横幅」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/callbarxs.json
 
 Package: ccvpn
@@ -916,16 +916,16 @@ Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Filename: ./debs/colorbanners2.zh_1.2.4_iphoneos-arm.deb
-Size: 2304
-MD5sum: 2d9e89ace3b588ccf49cc10f859b4263
-SHA1: 4d23d2f80ac88da8431482a8615e56426d657351
-SHA256: 5d663f9496d3e2d55277a3dd38d2590d5c85e469c77812388a8d281cd954369b
+Size: 2300
+MD5sum: 55ff0d15e0fd8ece8583227e60c45e24
+SHA1: 9ab81dc41f04c702ef7209277fcf5c5a28c02b86
+SHA256: 1d53529b314c5ac4fd91074f3db9283c1b307bfc6dfa9c6e22dc27f87230a790
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorbanners2
 Description: 自定义通知的颜色,汉化文件
 Author: David Goldman
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorbanners2
-Name: ColorBanners 2「多彩通知汉化包」
+Name: ColorBanners 2「多彩通知」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorbanners2.json
 
 Package: colorboard
@@ -975,16 +975,16 @@ Maintainer: 他是个疯子
 Installed-Size: 5
 Filename: ./debs/colorflow4.zh_1.2.3_iphoneos-arm.deb
 Size: 1840
-MD5sum: b0250ef7ffb599efcc84aa8ef288fee5
-SHA1: 4847fad07ab72a8281d9667232c8bd06aed3deb4
-SHA256: 0cccb6c1312da7835974769ff95d6da9b5ec0820f8018b09e2766d0db189bf0c
+MD5sum: df9beab067ac3f76d2492f76b9cba815
+SHA1: d166f0de7212a6d8c6e49e2c06ae03d3a4752952
+SHA256: 53261a1a65eb32c0464504b7e6ebc2f49513cbf9bba508774bf32b05519a6f33
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=colorflow4
 Description: 音乐增强
 Author: David Goldman <help@golddavid.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=colorflow4
 Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
-Name: ColorFlow 4「音乐增强」汉化包
+Name: ColorFlow 4「音乐增强」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/colorflow4.json
 
 Package: com.a3tweaks.flipswitch
@@ -1860,16 +1860,16 @@ Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Filename: ./debs/floatingdockplus.zh_1.3.3_iphoneos-arm.deb
-Size: 2764
-MD5sum: 5abdf3fdfddcdb68515b9d8dccd020c8
-SHA1: 589e184dd28ef0c3b850f4ab31d357302678bc22
-SHA256: 92803fdb5c3a7f1eb9f7ad0564b4bf1e5a1598440589e53dbb96b2b381a2f890
+Size: 2760
+MD5sum: fcc830bb4b816c4fa30213dddb15550f
+SHA1: e63f68d69db746518e5bf1e089cf58f2c5fc7f5b
+SHA256: 372239c5eacd31576a306f54f31076a1e439fc2d436ac932520c8364914c258f
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
 Description: 像ipad一样的dock栏,还可以分屏.汉化文件
 Author: P2KDev
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=floatingdockplus
-Name: FloatingDockPlus「悬浮dock,分屏汉包」
+Name: FloatingDockPlus「悬浮dock,分屏」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/floatingdockplus.json
 
 Package: gesto
@@ -1992,18 +1992,18 @@ Package: hyperion.zh
 Version: 0.4.11-1
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
-Installed-Size: 3916
+Installed-Size: 5
 Filename: ./debs/hyperion.zh_0.4.11-1_iphoneos-arm.deb
-Size: 3540
-MD5sum: d5f89fe25ef9f406eda95e892e1f60b0
-SHA1: 290beeb5f20d9908eaa775a18e5df17599534dd7
-SHA256: 3a524913c50785e7e2f4be4d50accc866d48ff9cd58af5767e900dd35869a8d9
+Size: 3532
+MD5sum: 7181acdc53ec2f35aefe024728dc899e
+SHA1: 84ba22a59f121922d637a01ac795e052321bd208
+SHA256: df4cd880a56df444c14b840b738277e3ab6729eb608e4e8226004cdf0ca17035
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=hyperion.zh
 Description: 惊人的通知动画.汉化文件
 Author: SparkDev
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=hyperion.zh
-Name: Hyperion「通知动画」汉化包
+Name: Hyperion「通知动画」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/hyperion.zh.json
 
 Package: icleanerpro
@@ -2529,16 +2529,16 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Installed-Size: 5
 Filename: ./debs/miscsettings.zh_2.3.7_iphoneos-arm.deb
-Size: 5504
-MD5sum: f80f6d1f5fc7c115227b1ddf7a8e507c
-SHA1: 77c7dafe4b7d0324efa77efcc5c0f1f04bda802d
-SHA256: 001972cfcb9ad782544f3fd03e9d43032d960059a7f013dbf37a754b64069de4
+Size: 5508
+MD5sum: fa9967f53aa366bf984aa2071ef5c23e
+SHA1: e76e6834d9b28ca5c4f6412142666161cc0d5754
+SHA256: 330c63b9d738bc0c7417613fc4c23666fb3b7d0d13e9b0135ca41aabcb17c6ae
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
 Description: 控制中心音量百分比显示.桌面的调整,完全关闭wifi蓝牙开关.汉化文件!
 Author: Lucifers Circle <luciferscircle@gmail.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=miscsettings.zh
-Name: MiscSettings「系统调整汉化包」
+Name: MiscSettings「系统调整」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/miscsettings.zh.json
 
 Package: mterminal.fz
@@ -2801,16 +2801,16 @@ Version: 0.2-2
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Filename: ./debs/notifierdots.zh_0.2-2_iphoneos-arm.deb
-Size: 1664
-MD5sum: b3f7bc1c916beda42b04c83289cd56d3
-SHA1: 804b506d6574ca41b7803f3db2d02c3911847908
-SHA256: b724b4a4e44ad234eee7ed544814f2df1b3127cc2f501c25d4f04ae586379224
+Size: 1668
+MD5sum: 412fabaf795df4bf85c8b05dc089ae22
+SHA1: e3821d97c1c38a74ac90ea94a4594d807ab899dc
+SHA256: e19958ac73194864c65ac25deec99fa25a7924a869f4d825e9a6219deb59ea31
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=notifierdots
 Description: 状态栏中基于徽章的通知指示器.汉化文件
 Author: iamalive2008
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=notifierdots
-Name: NotifierDots「通知圆点」汉化包
+Name: NotifierDots「通知圆点」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/notifierdots.json
 
 Package: ntspeed
@@ -3211,16 +3211,16 @@ Version: 1.6.8-4
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Filename: ./debs/safariplus.zh_1.6.8-4_iphoneos-arm.deb
-Size: 8424
-MD5sum: 6779355183b7dbf0b54215c921983b8e
-SHA1: 5c1f0dc5a466ffcf1165362aebe58fa203ccef9d
-SHA256: b104c3740560a28eb7071e244042cc4ea44a225abab3c67f0df53a9f960a830c
+Size: 8428
+MD5sum: 8377c59b103f44982a4341f31bbe66ba
+SHA1: 5fef4481b228cd6fef6b0a000044dc42f56e4d0a
+SHA256: c0f5bee47bdad24f4093cb6cc8bed4c21d14e132d7b8287ba030a784151038f4
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=safariplus
 Description: safari开启下载.上传.等等.汉化版
 Author: opa334
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=safariplus
-Name: Safari Plus「Safari增强」汉化包
+Name: Safari Plus「Safari增强」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safariplus.json
 
 Package: saw
@@ -4036,9 +4036,9 @@ Architecture: iphoneos-arm
 Maintainer: 他是个疯子
 Filename: ./debs/xenhtml.zh_0.5.2_iphoneos-arm.deb
 Size: 9508
-MD5sum: bcf430e579a2978e4d0653a28e94e729
-SHA1: c7a73ffb9374a921fb925c5778248c004533d0b9
-SHA256: 7e790aef8a01a046f5648a479fcad9b0c093e369f56e30192dace4c6879ba35a
+MD5sum: adf73a0897a3be565c6eafd239e17321
+SHA1: a63c77a2c0d4f14d168492a514f5987b7d0b89c0
+SHA256: b7896c87e6f862434374d16ccd4de4ef0e3ef1da85084baeb529202dc6a61054
 Section: 汉化
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
 Description: 统一的HTML呈现；锁定屏幕和主屏幕.自定义锁屏.汉化文件
@@ -4046,7 +4046,7 @@ Author: Matt Clarke <matt@incendo.ws>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
 Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
-Name: Xen HTML「高级锁屏」汉化包
+Name: Xen HTML「高级锁屏」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
 
 Package: xunlei.fz
