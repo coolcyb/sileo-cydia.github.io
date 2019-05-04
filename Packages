@@ -1143,6 +1143,25 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown「增强cydia」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cydown.json
 
+Package: cylinder
+Version: 1.0.7~beta1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/cylinder_1.0.7~beta1_iphoneos-arm.deb
+Size: 307840
+MD5sum: 4b619c3bd3b3f3f9dfbfbe91bcd37969
+SHA1: ed72e3168ae30b24c634f4fbc5c101d162df3a4e
+SHA256: f984d945b936aceefaee303a8886329efcb7b31c8dd7e8e0f707c75c55d3972c
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=cylinder
+Description: 桌面的翻页特效
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=cylinder
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Name: Cylinder「翻页特效」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/cylinder.json
+
 Package: darkkeysxii
 Version: 1.0.1
 Architecture: iphoneos-arm
