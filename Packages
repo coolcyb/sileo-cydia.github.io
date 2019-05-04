@@ -523,6 +523,25 @@ Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
 Name: Bazzi「百分比电池」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
 
+Package: bazzi.zh
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 5
+Filename: ./debs/bazzi.zh_2.0.6_iphoneos-arm.deb
+Size: 1708
+MD5sum: b2826f7e43bc63d452fca19802c704c7
+SHA1: 06549e40e1bcee3f8afdada041cf1b7058a33e70
+SHA256: b7d57602055e1f70ed39194894e8276a2a54da66e6b0ee336baaabdbababb28b
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Description: 通知栏显示百分比电池图标,汉化文件
+Author: NeinZedd9
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=bazzi
+Icon: file:///Library/PreferenceBundles/BazziSettings.bundle/icon@3x.png
+Name: Bazzi「百分比电池汉化包」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/bazzi.json
+
 Package: bettercciconspro
 Version: 1.7.3
 Architecture: iphoneos-arm
@@ -3735,6 +3754,47 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
 Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Name: Xen HTML「高级锁屏汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
+
+Package: xenhtml
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Filename: ./debs/xenhtml_0.5.2_iphoneos-arm.deb
+Size: 1483192
+MD5sum: a37ab279fa6b31113e26e478c05c5557
+SHA1: 6794ece293617d5d1ee6e08aa3ee9f585c11730e
+SHA256: b9ef7cc411d604f6d0f980c2f05ee2400a503ebfd7a07c8a74d496e5a9530d8a
+Section: System
+Priority: optional
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
+Description: 统一的HTML呈现；锁定屏幕和主屏幕.自定义锁屏
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML「高级锁屏汉化版」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
+
+Package: xenhtml.zh
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Filename: ./debs/xenhtml.zh_0.5.2_iphoneos-arm.deb
+Size: 9512
+MD5sum: fdc36fb4d707860c8e7fe05defd76ca3
+SHA1: 262ce0ef0b0f2ac07d2659dac840ac889bbc6c64
+SHA256: 684fd0b854a47a5ca9fbd08dca82590fd87c62e0e825faa65f23dad78b1da7b3
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
+Description: 统一的HTML呈现；锁定屏幕和主屏幕.自定义锁屏.汉化文件
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=xenhtml
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML「高级锁屏汉化包」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/xenhtml.json
 
 Package: xunlei.fz
