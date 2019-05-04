@@ -1032,6 +1032,26 @@ Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
 Name: libCSPreferences
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
 
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 460
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.3_iphoneos-arm.deb
+Size: 91700
+MD5sum: 29ea3d634f859bb9e2d07e3ff98586d1
+SHA1: 581f99322db502d391c456bc2b9536d1f6b4af3e
+SHA256: 7abd92d2a3f4b47bcf701a32783996872f36dcd59bcfad806d6e4095528a260c
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Name: libCSColorPicker
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
 Package: com.laughingquoll.prefixui
 Version: 0.7
 Architecture: iphoneos-arm
@@ -3410,10 +3430,10 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/shuffle_0.9.6b_iphoneos-arm.deb
-Size: 162552
-MD5sum: a7dee289548188ef68e16fa94f85a26c
-SHA1: 949736e6ae4a013ddd8cb54c2cf4ac399936ad52
-SHA256: 55fb372d2b684bdbec2cfff20eaeecde7d17dcddfa7d0e56e9af1213ea84f43d
+Size: 162560
+MD5sum: 336fba80862748fe66bfae1df9d8bd47
+SHA1: 3fdcfd25844213fb8f504900a5141a9caa00cde2
+SHA256: 3d3893a5d2e95de48781dec59d2252137aaae62da9960ed5086bc893c2c09bbd
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=shuffle
 Description: 对设置里面的标题分类.
