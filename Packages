@@ -3062,17 +3062,17 @@ Name: ReProvision「签名ipa」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/reprovision.json
 
 Package: reprovision
-Version: 0.4-2
+Version: 0.4.3
 Architecture: iphoneos-arm
 Maintainer: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
-Filename: ./debs/reprovision_0.4-2_iphoneos-arm.deb
+Filename: ./debs/reprovision_0.4.3_iphoneos-arm.deb
 Size: 9985636
-MD5sum: dd32cd30caa56d494e296fee3e175f00
-SHA1: 42ece9e626e41de68b38baa77982c78d1c1feedc
-SHA256: 3cfc46530c35b45b82d120372e62767ee2307e15d33a5b2f72061eedbccb0fae
+MD5sum: 2256213f9e944746308768914ca8664f
+SHA1: bc37acf90b4331f121d2b67b4e2637779b54a865
+SHA256: a441ce8c359347a502de572944ac7b35637ff257e6659b7b5487ebe783c74cb5
 Section: System
 Priority: optional
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=reprovision
