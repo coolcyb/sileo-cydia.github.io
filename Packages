@@ -2204,24 +2204,6 @@ Name: Activator「手势」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/libactivator.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: libbulletin
-Version: 0.1-145
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends: mobilesubstrate
-Filename: ./debs/libbulletin_0.1-145_iphoneos-arm.deb
-Size: 24352
-MD5sum: 8a13b43d34c0a7648d46a5c53eb473a7
-SHA1: 37d61a1ee1b22e826de819568b760a840cb1d2de
-SHA256: 6ae4816f8528abf4dbaa1a3a7fdf5b9068dfbe29d3b2c5a29a513d4e486ecdb3
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
-Description: 显示公告的简单依赖库
-Author: Elias Limneos
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
-Name: libbulletin
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
-
 Package: libertylite
 Version: 0.2.11
 Architecture: iphoneos-arm
@@ -2863,27 +2845,6 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=ppyy
 Name: PPYY「开启面容指纹支付」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ppyy.json
 　homepage: https://sileo-cydia.github.io/ms/description.html?id=ppyy
-
-Package: preferenceloader
-Version: 2.2.4~alpha1
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Installed-Size: 388
-Depends: mobilesubstrate
-Filename: ./debs/preferenceloader_2.2.4~alpha1_iphoneos-arm.deb
-Size: 27760
-MD5sum: fd89b0ecf927cfd7d313cc58ff870e6c
-SHA1: 9935fa1a6209c1776f0b417f2079132d98084d86
-SHA256: 5896b506b366ef55875e5853948983c92251d75fbf89359a776a44500886b1b8
-Section: System
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=preferenceloader
-Description: 必装依赖,设置插件显示依赖
-Tag: role::hacker, purpose::library
-Author: Dustin Howett <cydia.pl@relay.howett.net>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=preferenceloader
-Dev: dustinhowett
-Name: PreferenceLoader「显示插件依赖」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/preferenceloader.json
 
 Package: previewbegone
 Version: 1.0
