@@ -3080,6 +3080,27 @@ Depiction: https://sileo-cydia.github.io/ms/description.html?id=safariplus
 Name: Safari Plus「Safari增强」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safariplus.json
 
+Package: safeccmodules
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 4421
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/safeccmodules_1.4-2_iphoneos-arm.deb
+Size: 1090896
+MD5sum: d66416a0d17b9b171c5a8f38eaa3a10c
+SHA1: 59703a8034410d5f33b12301249d89831f1b233c
+SHA256: 8594ffddd5ca5830666428beb9f11eb37857cdcb17764ad1880ae674386cb370
+Section: Addons (ControlCenter)
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=safeccmodules
+Description: 控制中心快捷开关/重启/注销/安全模式/等等
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: jailbreak365 <jailbreak365@mail.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=safeccmodules
+Dev: jailbreak365
+Name: CCModules「控制中心增强」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/safeccmodules.json
+
 Package: saw
 Version: 1.2.0
 Architecture: iphoneos-arm
