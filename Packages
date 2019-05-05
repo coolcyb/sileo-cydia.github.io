@@ -2005,6 +2005,26 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/icleanerpro.json
 
+Package: icleanerpro
+Version: 7.7.3
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/icleanerpro_7.7.3_iphoneos-arm.deb
+Size: 5373808
+MD5sum: e89879c94bc532a0d94881b3b56e7600
+SHA1: 9bf531a007d9f43efb23f93599444534a0c292ca
+SHA256: 2e452226a06d1bc84e96b41735ef278b92c710a326cd5794c30467a733663a3a
+Section: Utilities
+Description: 一款系统清理工具,测试版!
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro「系统清理」
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/icleanerpro.json
+
 Package: impactor
 Version: 0.9.43
 Architecture: iphoneos-arm
