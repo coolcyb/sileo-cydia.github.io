@@ -1086,6 +1086,44 @@ Icon: file:///Library/PreferenceBundles/ConditionalWiFi3.bundle/icon.png
 Name: ConditionalWiFi4「网络权限」
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/conditionalwifi4.json
 
+Package: copylog
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: TomT000
+Installed-Size: 2168
+Depends: mobilesubstrate
+Filename: ./debs/copylog_1.1.2_iphoneos-arm.deb
+Size: 677440
+MD5sum: 07126488dbffe5266c407bc8e918c022
+SHA1: 9539cb1ccf470d26168ca2385068fc904a77e138
+SHA256: a963a61d3b95d9d3081299ed30e5c97eda11439f5b544612b42ad2a750081711
+Section: Tweaks
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=copylog
+Description: 粘贴版增强.粘贴历史记录.
+Author: TomT000
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=copylog
+Name: CopyLog「粘贴增强」汉化版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/copylog.json
+
+Package: copylog.zh
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: TomT000
+Installed-Size: 2168
+Depends: mobilesubstrate
+Filename: ./debs/copylog.zh_1.1.2_iphoneos-arm.deb
+Size: 1748
+MD5sum: 4f8bb929b78b7a19160ccd931e92ccb8
+SHA1: fa6e5057483912551cae474d5f94d7c87751999e
+SHA256: e1de3d7e599e9c25db0c9cd761bc04927caa0a03403eab2872e999fc394060cc
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=copylog
+Description: 粘贴版增强.粘贴历史记录.
+Author: TomT000
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=copylog
+Name: CopyLog「粘贴增强」汉化文件
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/copylog.json
+
 Package: crackerxi
 Version: 1.1.4
 Architecture: iphoneos-arm
