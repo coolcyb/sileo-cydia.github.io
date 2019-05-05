@@ -3172,10 +3172,10 @@ Maintainer: 他是个疯子
 Installed-Size: 1912
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, applist, com.rpetrich.rocketbootstrap
 Filename: ./debs/saw_1.3.4_iphoneos-arm.deb
-Size: 737180
-MD5sum: 48584200a14d6ba84725500870d79d1c
-SHA1: cef5780da835948ad72df5be7799c260f826493f
-SHA256: 3a98af27c83e05c03c0818b0f9dd914e1bd3b809dab9062f0017dc33aa04008e
+Size: 737084
+MD5sum: f4ea972c0a5ebe803184e3e57891117a
+SHA1: e2952c60e6b1c8e65f84dcabc2e49fb9d6692a63
+SHA256: d7fcfa16c76832b3a847ef49ef20dc6d28d0f869462421138e53cd6ee56583e4
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=saw
 Description: 去掉iphoneX底部的白边
@@ -3184,7 +3184,27 @@ Author: Frozen Penguin <penguins_can_fly@live.com>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=saw
 Dev: frozenpenguin
 Icon: file:///Library/PreferenceBundles/sawprefs.bundle/icon@2x.png
-Name: Saw「去掉iphoneX底部留白」汉化版
+Name: Saw「去底部留白」汉化版
+Sileodepiction: https://sileo-cydia.github.io/ms/msxq/saw.json
+
+Package: saw.zh
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子
+Installed-Size: 5
+Filename: ./debs/saw.zh_1.3.4_iphoneos-arm.deb
+Size: 1292
+MD5sum: 2317e60b14b2057a535eb1dcd20ab6e9
+SHA1: a5f1a656b77872de14127dc9eb5a1a570663233b
+SHA256: 73404c429fa2f1d30e7f88f5500881359fef8a3a8e0b07fe200b2afb2c2a9b42
+Section: 汉化
+Homepage: https://sileo-cydia.github.io/ms/description.html?id=saw
+Description: 去掉iphoneX底部的白边,汉化文件
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Depiction: https://sileo-cydia.github.io/ms/description.html?id=saw
+Dev: frozenpenguin
+Icon: file:///Library/PreferenceBundles/sawprefs.bundle/icon@2x.png
+Name: Saw「去掉iphoneX底部留白」汉化文件
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/saw.json
 
 Package: screenrecorderforcedaudio
